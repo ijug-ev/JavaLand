@@ -3,7 +3,7 @@
 Die JavaLand wird von ehrenamtlichen Java-Enthusiasten aus Deutschland, Österreich und der Schweiz organisiert und gestaltet.
 Neben dem Vortragsprogramm sind die Community-Aktivitäten ein integraler Bestandteil und einzigartiges Alleinstellungsmerkmal der Konferenz.
 Im Unterschied zu Vorträgen handelt es sich dabei um kürzere und längere Veranstaltungen, bei denen jeder Teilnehmer selbst *aktiv* wird.
-Dies können beispielsweise Workshops sein, Diskussionsrunden, "Hands-In" Seminare... was auch immer Euch an *aktiven* Formaten einfällt!
+Dies können beispielsweise Workshops sein, Diskussionsrunden, "Hands-On" Seminare... was auch immer Euch an *aktiven* Formaten einfällt!
 
 Das Ziel jeder Aktivität ist es, Euch miteinander in Kontakt zu bringen, den Austausch zu fördern, zu Networken, etwas zu lernen, und natürlich gemeinsam Spaß in einer ungezwungenen Atmosphäre zu haben!
 
