@@ -11,6 +11,19 @@ Das Ziel jeder Aktivität ist es, Euch miteinander in Kontakt zu bringen, den Au
 Dabei muss es nicht immer nur direkt um Java gehen. Außergewöhnliche Einreichungen der zurückliegenden Jahre umfassten unter anderem schon "Mentoring Speed-Dating", "JavaLand Kung-Fu", eine "JavaLand Big Band", ein Tischfußballturnier, und natürlich das alljährliche "JavaLand Jogging" um 07:00 Uhr bei dem man schon mit bekannten "VIPs" wie Arun Gupta und Ivar Grimstad vor dem Frühstück schwitzen konnte, sowie das "JUG Café", wo man die im iJUG zusammengeschlossenen Java User Groups kennenlernen konnte. Interessiert? Dann mach mit! Denn es ist Deine JavaLand, Deine Community-Aktivität - Wir stellen Deiner JUG nur den Platz und die Infrastruktur bereit, die Show macht Ihr selber!
 
 
-# Call for Participation
+# Call for Participation - **Jetzt bewerben!**
 
-Ohne Dich geht nichts! Daher startet in Kürze an dieser Stelle der **Call for Participation**! Sei bereit und überlege Dir schon jetzt, welche Community-Aktivität Deine JUG im JavaLand veranstalten möchte! Die Bewerbungsdetails findet Ihr bald **hier auf dieser Seite!**
+Ohne Dich geht nichts! Mit welcher Community-Aktivität zeigt *Deine* JUG im JavaLand Flagge?
+
+Die Bewerbung geht **völlig unbürokratisch** und ganz einfach! Dazu musst Du nichts anderes tun, als uns eine formlose E-Mail zu schreiben mit dem Stichwort "JavaLand Community-Aktivität" an **all-ca-sprecher at javaland punkt eu**! Wir antworten Dir umgehend und besprechen dann alles weitere!
+
+Alle eingehenden Bewerbungen werden von uns gesichtet, fair und nachvollziehbar bewertet, und zeitnah über die Aufnahme informiert. Wann immer Ihr Fragen habt - einfach an diese Adresse wenden!
+
+Alle angenommenen Aktivitäten veröffentlichen wir hier an dieser Stelle, damit jeder sehen kann, wie Ihr Euch dieses Jahr engagiert!
+
+# Aufnahmekriterien
+
+Das JavaLand ist thematisch ("Java Community") und vom Platz her (Vergnügungspart Phantasialand) begrenzt. Wir versuchen natürlich, jeder Aktivität genug Raum zu gegeben. Trotzdem müssen wir leider einigen Bewerbungen absagen. Um Enttäuschungen von vorne herein zu vermeiden, hier ein paar "harte Fakten" für Euch:
+* Die Aktivität wird von einer Java User Group veranstaltet.
+* Es ist eine Aktivität und kein reiner Vortrag, d. h. jeder Teilnehmer macht dabei aktiv mit.
+* Es geht um die Plattform Java bzw. das Leben als Java-Entwickler - dazu zählen aber auch Sport, Ernährung, Erfahrungsaustausch und soziale Kontakte!
