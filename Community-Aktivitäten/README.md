@@ -93,3 +93,14 @@ Teilnahmevoraussetzungen: TBD.
 Dauer: TBD.
 
 Ausstattung: TBD.
+
+
+## Hackergarten (JUG Switzerland: *Andres Almiray*)
+
+Beschreibung: TBD.
+
+Teilnahmevoraussetzungen: TBD.
+
+Dauer: TBD.
+
+Ausstattung: TBD.
