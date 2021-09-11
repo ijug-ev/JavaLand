@@ -84,7 +84,7 @@ Dauer: TBD.
 Ausstattung: TBD.
 
 
-## Freeletics (*Jens Schauder*, JUG Ostfahlen: Oliver Mielke)
+## Freeletics (JUG Ostfalen: *Jens Schauder*, Oliver Mielke)
 
 Beschreibung: TBD.
 
