@@ -82,3 +82,14 @@ Teilnahmevoraussetzungen: TBD.
 Dauer: TBD.
 
 Ausstattung: TBD.
+
+
+## Freeletics (*Jens Schauder*, JUG Ostfahlen: Oliver Mielke)
+
+Beschreibung: TBD.
+
+Teilnahmevoraussetzungen: TBD.
+
+Dauer: TBD.
+
+Ausstattung: TBD.
