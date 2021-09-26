@@ -117,3 +117,14 @@ Teilnahmevoraussetzungen: TBD.
 Dauer: TBD.
 
 Ausstattung: TBD.
+
+
+## Architektur Dojo (JUG Darmstadt: *Sebastian Rose*)
+
+Beschreibung: TBD.
+
+Teilnahmevoraussetzungen: TBD.
+
+Dauer: TBD.
+
+Ausstattung: TBD.
