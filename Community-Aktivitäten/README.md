@@ -141,3 +141,14 @@ Dauer: 2h.
 Ausstattung: Raum mit Beamer und Wlan.
 
 Teilnehmerzahl: max. 30
+
+
+## Performance Capture-the-Flag Workshop (JUG Stuttgart: *Tobias Frech*)
+
+Beschreibung: TBD.
+
+Teilnahmevoraussetzungen: TBD.
+
+Dauer: TBD. 
+
+Ausstattung: Wlan, Präsentationsmöglichkeit, Uplink (über den alle Teilnehmer normale Webseiten öffnen und SSH-Sessions aufbauen können).
