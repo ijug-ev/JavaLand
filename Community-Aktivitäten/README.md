@@ -152,3 +152,16 @@ Teilnahmevoraussetzungen: TBD.
 Dauer: TBD. 
 
 Ausstattung: Wlan, Präsentationsmöglichkeit, Uplink (über den alle Teilnehmer normale Webseiten öffnen und SSH-Sessions aufbauen können).
+
+
+## Testing mit Karate (JUG Paderborn: *Frederik Hahne*, Peter Quiel)
+
+Beschreibung: Die Idee ist an beiden Tagen jeweils ca. 2 (oder 3) Stunden eine Session anzubieten, die sich 1x um das testen der Webui einer z.B. Spring Boot Anwendung dreht und 1x um das testen einer mit e.g. OpenAPI definierten http api dreht. Das ganze mit einem Tool, karate, statt unterschiedliche Tools (RestAssured, Selenium ...) für beides einzusetzen. Das ganze soll ein wenig Workshop Charakter haben, sprich entweder bringen die Teilnehmer*Innen eine App mit oder nehmen eine von uns bereitgestellte Anwendung und können dann unter Anleitung ihre oder unsere App (blackbox) testen.
+
+Teilnahmevoraussetzungen: TBD.
+
+Dauer: TBD. 
+
+Ausstattung: TBD.
+
+
