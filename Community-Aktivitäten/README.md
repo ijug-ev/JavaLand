@@ -176,3 +176,12 @@ Dauer: TBD.
 Ausstattung: TBD.
 
 
+## JUG Café (JUG Deutschland: *Daniel van Ross*, Frank Schwichtenberg)
+
+Beschreibung: TBD.
+
+Teilnahmevoraussetzungen: TBD.
+
+Dauer: TBD.
+
+Ausstattung: TBD.
