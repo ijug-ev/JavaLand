@@ -185,3 +185,14 @@ Teilnahmevoraussetzungen: TBD.
 Dauer: TBD.
 
 Ausstattung: TBD.
+
+
+## iJUG Open Source Stipendium (JUG Goldstadt: *Markus Karg*)
+
+Beschreibung: Vorstellung des Mentoring-Programms und der von den Stipendiaten dieses Jahr eingereichten Contributions.
+
+Teilnahmevoraussetzungen: keine.
+
+Dauer: 1 Stunde.
+
+Ausstattung: Stehtische, Beamer oder großer Monitor.
