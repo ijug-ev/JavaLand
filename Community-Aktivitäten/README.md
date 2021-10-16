@@ -23,7 +23,7 @@ Alle angenommenen Aktivitäten veröffentlichen wir hier an dieser Stelle, damit
 
 # Aufnahmekriterien
 
-Das JavaLand ist thematisch ("Java Community") und vom Platz her (Vergnügungspart Phantasialand) begrenzt. Wir versuchen natürlich, jeder Aktivität genug Raum zu gegeben. Trotzdem müssen wir leider einigen Bewerbungen absagen. Um Enttäuschungen von vorne herein zu vermeiden, hier ein paar "harte Fakten" für Euch:
+Das JavaLand ist thematisch ("Java Community") und vom Platz her (Vergnügungspark Phantasialand) begrenzt. Wir versuchen natürlich, jeder Aktivität genug Raum zu gegeben. Trotzdem müssen wir leider einigen Bewerbungen absagen. Um Enttäuschungen von vorne herein zu vermeiden, hier ein paar "harte Fakten" für Euch:
 * Die Aktivität wird von einer Java User Group veranstaltet.
 * Es ist eine Aktivität und kein reiner Vortrag, d. h. jeder Teilnehmer macht dabei aktiv mit.
 * Es geht um die Plattform Java bzw. das Leben als Java-Entwickler - dazu zählen aber auch Sport, Ernährung, Erfahrungsaustausch und soziale Kontakte!
