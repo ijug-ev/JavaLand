@@ -112,11 +112,11 @@ Beschreibung: Vorträge zu halten ist in der IT Community eine der wichtigsten M
 In diesem Community-Event lernst du von gleich drei sehr erfahrenen Speakern, wie du dein ganz individuelles Thema findest, dich umfassend auf deinen Auftritt vorbereitest und erfolgreich vorträgst. Anschließend werfen wir noch einen Blick auf die oft vernachlässigte Nachbereitung und auf Materialien, die dir dabei helfen, ein erfolgreicher Speaker zu werden.
 Dabei nehmen wir uns die Zeit, erste inhaltliche Ideen für deinen Vortrag zu entwickeln und ausführlich Fragen zu beantworten. Am Ende hast du nicht nur ganz konkrete inhaltliche Ansätze für deinen ersten eigenen Vortrag, sondern weißt auch genau, wie du dich organisatorisch vorbereiten solltest.
 
-Teilnahmevoraussetzungen: TBD.
+Teilnahmevoraussetzungen: keine.
 
-Dauer: TBD.
+Dauer: 2h.
 
-Ausstattung: TBD.
+Ausstattung: einen Vortragsraum oder eines der Cafés.
 
 
 ## Architektur Dojo (JUG Darmstadt: *Sebastian Rose*)
