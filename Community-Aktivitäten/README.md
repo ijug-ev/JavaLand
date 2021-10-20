@@ -119,26 +119,37 @@ Dauer: 2h.
 Ausstattung: einen Vortragsraum oder eines der Cafés.
 
 
-## Architektur Dojo (JUG Darmstadt: *Sebastian Rose*)
+## Architektur Dojo (JUG Darmstadt: *Sebastian Rose*, *Alexander Schwartz*)
 
-Beschreibung: TBD.
+Beschreibung: Als Architekten oder Entwickler bauen wir Systemarchitekturen und bekommen meist erst am Ende des Projekts Feedback, ob es so funktionierte oder nicht. 
+In diesem Architektur Dojo ist das anders: Bereits nach einer halben Stunde präsentiert ihr euren Entwurf, bekommt Feedback und könnt die Lösung anschließend verbessern!
+Bearbeitet jenseits von eingetretenen Pfaden des Projektalltags gemeinsam mit anderen eine Architekturaufgabe. 
+Übt es, Architekturen und Architekturentscheidungen zu präsentieren und zu begründen!
 
-Teilnahmevoraussetzungen: TBD.
+Vorlage für uns sind die Architektur Katas von Neal Ford (http://nealford.com/katas/about.html).
+Mehrere Gruppen zu je 3-5 Personen entwerfen eine Architektur für eine vorgegebene Aufgabe.
+Danach stellen sich die Gruppen ihre Lösungen gegenseitig vor und bekommen Feedback.
+In der nächsten Iteration arbeiten sie Anregungen und Fragen ein und präsentieren ihre angepasste Lösung erneut.
 
-Dauer: TBD.
+Teilnahmevoraussetzungen: Keine.
 
-Ausstattung: TBD.
+Dauer: 2,5 Stunden.
+
+Ausstattung: Papier/Whiteboard/Flipchart/irgendwas zum Malen. Gruppentische a max 5-6 Teilnehmer pro Gruppe. Bis zu 8 Tische.
 
 
 ## Coding Dojo (JUG Darmstadt: *Sebastian Rose*)
 
-Beschreibung: TBD.
+Beschreibung: Für den beruflichen Alltag ist es wichtig, sich ständig fortzubilden und seine Fertigkeiten als Entwickler zu trainieren.
+Mit Code Katas in einem Coding Dojo kannst du in einer kleinen Gruppe überschaubare Programmieraufgaben lösen.
+Dabei lernst du mit und von anderen in einer geschützten Umgebung.
+Es zählt weniger das Ergebnis, als vielmehr ist der Weg.
 
-Teilnahmevoraussetzungen: TBD.
+Teilnahmevoraussetzungen: Min jeder zweite Teilnehmer benötigt ein eigenes Laptop mit lauffähigen JVM-Entwicklungsumgebung.
 
-Dauer: TBD.
+Dauer: 2,5 Stunden.
 
-Ausstattung: TBD.
+Ausstattung: WLAN, Beamer, Je nach Interesse der Teilnehmer, Gruppen-Tische, Pro Tisch ein Fernseher. Vier Gruppen max. oder 2/3er Gruppen, dann Stühle und Tische wie in der Schule.
 
 
 ## Funktionale Programmierung mit Java (JUG Mannheim: *Gregor Trefs*; JUG Darmstadt: Falk Sippach)
