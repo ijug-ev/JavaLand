@@ -196,3 +196,11 @@ Teilnahmevoraussetzungen: keine.
 Dauer: 1 Stunde.
 
 Ausstattung: Stehtische, Beamer oder großer Monitor.
+
+## JavaLand Jogging (JUG Hamburg: *Bennet Schulz*)
+
+Beschreibung: TBD.
+
+Teilnahmevoraussetzungen: TBD.
+
+Dauer: TBD.
