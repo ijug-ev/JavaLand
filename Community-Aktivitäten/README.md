@@ -64,13 +64,13 @@ Ausstattung: Raum mit Beamer und optimalerweise WLAN.
 
 ## Android Programmier-Crashkurs (Android User Group Düsseldorf: *Andre Ippisch*)
 
-Beschreibung: TBD.
+Du möchtest Android-Apps selbst entwickeln, hast aber keine Lust, Tutorials allein durchzuarbeiten? Dann nimm' am Android-Programmier-Crashkurs teil! Wir bieten dir einen Einsteigerkurs, der dich so weit bringen soll, dass du deine eigenen kleinen Apps schreiben kannst. Wir erklären dir die Grundlagen der App-Entwicklung und erarbeiten diese praktisch mit dir. Aus dem Crashkurs gehst du mit deiner ersten selbst entwickelten Android-App auf dem Smartphone – und hoffentlich nicht der letzten.
 
-Teilnahmevoraussetzungen: TBD.
+Teilnahmevoraussetzungen: Eigener Rechner, Android Studio installiert. Android-Smartphone und Kabel oder Emulator in Android Studio zum Deployen und Testen.
 
-Dauer: TBD.
+Dauer: 2 Stunden
 
-Ausstattung: TBD.
+Ausstattung: Raum mit Beamer und WLAN.
 
 
 ## Jetpack Compose Hands-On mit Kotlin (JUG Stuttgart: *Laura Steiner*, Michael Paus, Frank Gerhardt)
