@@ -97,13 +97,13 @@ Ausstattung: TBD.
 
 ## Hackergarten (JUG Switzerland: *Andres Almiray*)
 
-Beschreibung: TBD.
+Beschreibung: Der Hackergarten ist eine beliebte Community-Aktivität, die bisher auf jeder JavaLand-Konferenz stattgefunden hat. Hier haben Teilnehmer die Möglichkeit, den ganzen Tag lang gemeinsam für Open-Source-Projekte Plug-ins oder Dokumentationen zu schreiben, neue Features hinzuzufügen oder Fehler zu beheben. 
 
-Teilnahmevoraussetzungen: TBD.
+Teilnahmevoraussetzungen: Laptop. Java 8, 11 oder 17. Maven, Gradle. IDE.
 
-Dauer: TBD.
+Dauer: 4 - 6 uhr.
 
-Ausstattung: TBD.
+Ausstattung: chairs, tables, power adapters/cords.
 
 
 ## Developer on the Stage - Zusammen mit erfahrenen Speakern deinen ersten eigenen Vortrag entwickeln! (JUG Darmstadt: *Sergej Tihonov*, Falk Sippach; JUG Ostfalen: Steven Schwenke)
