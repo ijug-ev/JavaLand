@@ -197,6 +197,7 @@ Dauer: 1 Stunde.
 
 Ausstattung: Stehtische, Beamer oder großer Monitor.
 
+
 ## JavaLand Jogging (JUG Hamburg: *Bennet Schulz*)
 
 Beschreibung: TBD.
@@ -204,3 +205,16 @@ Beschreibung: TBD.
 Teilnahmevoraussetzungen: TBD.
 
 Dauer: TBD.
+
+Ausstattung: keine.
+
+
+## Tech-Pitch der Java Technology Talents (JUG Stuttgart: *Frederik Wystup*)
+
+Beschreibung: TBD.
+
+Teilnahmevoraussetzungen: TBD.
+
+Dauer: TBD.
+
+Ausstattung: TBD.
