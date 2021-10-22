@@ -156,11 +156,11 @@ Teilnehmerzahl: max. 30
 
 ## Performance Capture-the-Flag Workshop (JUG Stuttgart: *Tobias Frech*)
 
-Beschreibung: TBD.
+Beschreibung: Früher oder später wird schlechte System-Performance immer zu einem Problem. Ausgangspunkt in diesem Workshop wird eine vorgegebene Open-Source-Anwendung sein, die einige Performance-Probleme aufweist. In kleinen Teams werden wir diese Probleme analysieren und Werkzeuge dafür kennen lernen. Jedes Team kann dann Änderungen vorschlagen und mit einem kleinen Ad-hoc Lasttest verifizieren. Erfolgreiche Verbesserung werden den anderen Teams kurz vorgestellt und der Analyse-Weg erklärt. Wer wird die Performance-Flagge für die beste Verbesserung erhalten? Hoffentlich alle TeilnehmerInnen an diesem Workshop gemeinsam!
 
-Teilnahmevoraussetzungen: TBD.
+Teilnahmevoraussetzungen: eigener Laptop mit installierter Java-IDE
 
-Dauer: TBD. 
+Dauer: 1,5h - 2h
 
 Ausstattung: Wlan, Präsentationsmöglichkeit, Uplink (über den alle Teilnehmer normale Webseiten öffnen und SSH-Sessions aufbauen können).
 
