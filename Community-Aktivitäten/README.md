@@ -189,13 +189,13 @@ Ausstattung: TBD.
 
 ## JUG Café (JUG Deutschland: *Daniel van Ross*, Frank Schwichtenberg)
 
-Beschreibung: TBD.
+Beschreibung: Jetzt wo die Vor-Ort Aktivitäten nach langer Pause wieder beginnen, möchten wir euch im JUG Café wieder die Möglichkeit geben Vertreter eurer lokalen User Groups kennenzulernen. Kommt ins Gespräch und erfahrt was die User Group in euer Heimat- oder Nachbarstadt veranstaltet. Ihr seid bereits aktiv in eurer JUG, umso besser, dann kommt vorbei und redet mit Vertretern anderer JUGs um Erfahrungen auszutauschen und Ideen für eigene Aktivitäten zu sammeln. 
 
-Teilnahmevoraussetzungen: TBD.
+Teilnahmevoraussetzungen: keine.
 
-Dauer: TBD.
+Dauer: an beiden Tagen durchgehend.
 
-Ausstattung: TBD.
+Ausstattung: großer Monitor 
 
 
 ## iJUG Open Source Stipendium (JUG Goldstadt: *Markus Karg*)
