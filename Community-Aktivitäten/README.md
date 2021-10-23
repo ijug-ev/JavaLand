@@ -119,7 +119,7 @@ Dauer: 2h.
 Ausstattung: einen Vortragsraum oder eines der Cafés.
 
 
-## Architektur Dojo (JUG Darmstadt: *Sebastian Rose*, *Alexander Schwartz*)
+## Architektur Dojo (JUG Darmstadt: Sebastian Rose, *Alexander Schwartz*)
 
 Beschreibung: Als Architekten oder Entwickler bauen wir Systemarchitekturen und bekommen meist erst am Ende des Projekts Feedback, ob es so funktionierte oder nicht. 
 In diesem Architektur Dojo ist das anders: Bereits nach einer halben Stunde präsentiert ihr euren Entwurf, bekommt Feedback und könnt die Lösung anschließend verbessern!
