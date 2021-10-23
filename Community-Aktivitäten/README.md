@@ -101,7 +101,7 @@ Beschreibung: Der Hackergarten ist eine beliebte Community-Aktivität, die bishe
 
 Teilnahmevoraussetzungen: Laptop. Java 8, 11 oder 17. Maven, Gradle. IDE.
 
-Dauer: 4 - 6 uhr.
+Dauer: 4 - 6 Stunden.
 
 Ausstattung: chairs, tables, power adapters/cords.
 
