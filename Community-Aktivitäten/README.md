@@ -222,10 +222,22 @@ Ausstattung: keine.
 
 ## Tech-Pitch der Java Technology Talents (JUG Stuttgart: *Frederik Wystup*)
 
-Beschreibung: TBD.
+Beschreibung: Beschäftigt Dich seit einiger Zeit eine Idee oder Problemlösung, welche Du mit Java-Technologien umsetzen möchtest bzw. könntest?
+Entwickelst Du gerade alleine oder mit anderen zusammen eine innovative Java-Applikation?
+Möchtest Du diese Idee der Community vorstellen und mit anderen Java-Enthusiasten darüber diskutieren oder gar Mitstreiter finden?
 
-Teilnahmevoraussetzungen: TBD.
+Dann ist der "Tech-Pitch für Java Technology Talents" Deine Plattform! Hier kannst Du (oder gerne auch zusammen mit Deinem Team) diese Idee in einer Art Pitch den anwesenden Community-Mitgliedern vorstellen, Feedback erhalten, Mitstreiter finden oder vielleicht sogar Unterstützer aus der nicht-technischen Ecke kennen lernen. Es soll jedoch kein klassischer Pitch sein, hier geht es vor allem um das Team bzw. Deine Person und die Technik.
 
-Dauer: TBD.
+Dauer der Vorstellung ist 5 Minuten, egal mit welchen Mitteln. Dann sind nochmal ca. 5 Minuten Feedback-Runde und Fragen/Antworten geplant.
 
-Ausstattung: TBD.
+Die besten Ideen erhalten von uns einen monetären Preis als Ansporn für's Weitermachen.
+
+Wir wollen euch damit helfen, eure innovativen Ideen auf die nächste Stufe zu heben. Wichtig ist allerdings der Open Source Gedanke im Java Umfeld.
+
+Wir freuen uns auf viele interessante, neue, überraschende, bewegende oder auch spaßige Einreichungen von euch.
+
+Teilnahmevoraussetzungen: Spätestens bis 14 Tage vor Beginn der JavaLand lockere Bewerbung unter tech-pitch@jugs.org
+
+Dauer: 5 Min. Präsentation (Pitch) + 5 Min. Q&A
+
+Ausstattung: WLAN und Präsentationsmöglichkeiten (Beamer etc.)
