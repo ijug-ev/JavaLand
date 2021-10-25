@@ -86,7 +86,7 @@ Ausstattung: TBD.
 
 ## Freeletics (JUG Ostfalen: *Jens Schauder*, Oliver Mielke)
 
-Beschreibung: TBD.
+Beschreibung: #freeletics: Vor einem informationsreichen Konferenztag den Kopf frei bekommen - aber Joggen ist nicht so dein Ding? Dann probier ' es doch mal mit #freeletics - Ganzkörpertraining ohne Geräte. Wir erklären die Grundlagen und absolvieren gemeinsam ein Workout.
 
 Teilnahmevoraussetzungen: TBD.
 
