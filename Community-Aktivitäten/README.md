@@ -211,7 +211,7 @@ Ausstattung: Stehtische, Beamer oder großer Monitor.
 
 ## JavaLand Jogging (JUG Hamburg: *Bennet Schulz*)
 
-Beschreibung: TBD.
+Beschreibung: Für Frühaufsteher: In idyllischer Umgebung Energie tanken am Morgen des zweiten Konferenztages - ganz einfach beim JavaLand Jogging. Die Strecke ist ein rund drei Kilometer langer Rundkurs, der zweimal gelaufen wird.
 
 Teilnahmevoraussetzungen: TBD.
 
