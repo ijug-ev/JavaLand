@@ -73,7 +73,7 @@ Dauer: 2 Stunden
 Ausstattung: Raum mit Beamer und WLAN.
 
 
-## Jetpack Compose Hands-On mit Kotlin (JUG Stuttgart: *Laura Steiner*, Michael Paus, Frank Gerhardt)
+## Jetpack Compose Hands-On mit Kotlin (JUG Stuttgart: *Laura Steiner*, Michael Paus, Frank Gerhardt) **FEST ZUGESAGT**
 
 Beschreibung: TBD.
 
