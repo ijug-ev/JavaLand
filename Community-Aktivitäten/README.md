@@ -11,15 +11,10 @@ Das Ziel jeder Aktivität ist es, Euch miteinander in Kontakt zu bringen, den Au
 Dabei muss es nicht immer nur direkt um Java gehen. Außergewöhnliche Einreichungen der zurückliegenden Jahre umfassten unter anderem schon "Mentoring Speed-Dating", "JavaLand Kung-Fu", eine "JavaLand Big Band", ein Tischfußballturnier, und natürlich das alljährliche "JavaLand Jogging" um 07:00 Uhr bei dem man schon mit bekannten "VIPs" wie Arun Gupta und Ivar Grimstad vor dem Frühstück schwitzen konnte, sowie das "JUG Café", wo man die im iJUG zusammengeschlossenen Java User Groups kennenlernen konnte. Interessiert? Dann mach mit! Denn es ist Deine JavaLand, Deine Community-Aktivität - Wir stellen Deiner JUG nur den Platz und die Infrastruktur bereit, die Show macht Ihr selber!
 
 
-# Call for Participation - **Jetzt bewerben!**
+# Call for Participation - **Beendet am 01.11.2021**
 
-Ohne Dich geht nichts! Mit welcher Community-Aktivität zeigt *Deine* JUG im JavaLand Flagge?
+**Die Bewerbungsfrist für dieses Jahr ist leider bereits abgelaufen.**
 
-Die Bewerbung geht **völlig unbürokratisch** und ganz einfach! Dazu musst Du nichts anderes tun, als uns eine formlose E-Mail zu schreiben mit dem Stichwort "JavaLand Community-Aktivität" an **all-ca-sprecher at javaland punkt eu**! Wir antworten Dir umgehend und besprechen dann alles weitere!
-
-Alle eingehenden Bewerbungen werden von uns gesichtet, fair und nachvollziehbar bewertet, und zeitnah über die Aufnahme informiert. Wann immer Ihr Fragen habt - einfach an diese Adresse wenden!
-
-Alle angenommenen Aktivitäten veröffentlichen wir hier an dieser Stelle, damit jeder sehen kann, wie Ihr Euch dieses Jahr engagiert!
 
 # Aufnahmekriterien
 
@@ -34,7 +29,7 @@ Das JavaLand ist thematisch ("Java Community") und vom Platz her (Vergnügungspa
 An dieser Stelle veröffentlichen wir den jeweils aktuellen Planungsstand, auf welche Community-Aktivitäten Ihr Euch im nächsten JavaLand freuen dürft! Bitte beachtet, dass sich dieser Stand täglich ändern kann und **keine verbindliche Zusage** über eine bestimmte Community-Aktivität darstellt. Es ist durchaus realistisch, dass hier genannte Aktivitäten kurzfristig ausfallen (z. B. durch Krankheit des Veranstalters) oder spontan welche vor Ort hinzukommen!
 
 
-## JavaLand Kung-Fu (JUG Goldstadt: *Markus KARG*)
+## JavaLand Kung-Fu (JUG Goldstadt: *Markus KARG*) **FEST ZUGESAGT**
 
 Wie das alte Sprichwort "Mens sana in corpore sano" bereits andeutet: Mit Kreuzschmerz ist es schwer sich zu konzentrieren! Erstaunlich daher, wie viele Geeks, Nerds und Hacker sich trotzdem jahrelang mit Berufskrankheiten wie Kopf- und Rückenschmerzen, Stress und Verspannungen herumplagen. Dabei kennt die chinesische Kultur seit Jahrhunderten ein erstaunlich einfaches, wirksames und von jedem, selbst im Büro, anwendbares Gegenmittel: Shaolin Qigong – gymnastische Übungen des Kung-Fu. Aber keine Angst, hier wird nicht gekämpft – wir zeigen dir, wie du mit einfachen Dehnübungen Kopfschmerzen sofort ausschaltest und mit nur 20 Minuten Sport am Tag Rückenschmerzen dauerhaft beseitigst. Als Nebeneffekt winkt dank besserer Konzentration sogar besserer Code!
 
@@ -84,7 +79,7 @@ Dauer: TBD.
 Ausstattung: TBD.
 
 
-## Freeletics (JUG Ostfalen: *Jens Schauder*, Oliver Mielke)
+## Freeletics (JUG Ostfalen: *Jens Schauder*, Oliver Mielke) **FEST ZUGESAGT**
 
 Beschreibung: #freeletics: Vor einem informationsreichen Konferenztag den Kopf frei bekommen - aber Joggen ist nicht so dein Ding? Dann probier ' es doch mal mit #freeletics - Ganzkörpertraining ohne Geräte. Wir erklären die Grundlagen und absolvieren gemeinsam ein Workout.
 
@@ -95,7 +90,7 @@ Dauer: TBD.
 Ausstattung: TBD.
 
 
-## Hackergarten (JUG Switzerland: *Andres Almiray*)
+## Hackergarten (JUG Switzerland: *Andres Almiray*) **FEST ZUGESAGT**
 
 Beschreibung: Der Hackergarten ist eine beliebte Community-Aktivität, die bisher auf jeder JavaLand-Konferenz stattgefunden hat. Hier haben Teilnehmer die Möglichkeit, den ganzen Tag lang gemeinsam für Open-Source-Projekte Plug-ins oder Dokumentationen zu schreiben, neue Features hinzuzufügen oder Fehler zu beheben. 
 
@@ -106,7 +101,7 @@ Dauer: 4 - 6 Stunden.
 Ausstattung: chairs, tables, power adapters/cords.
 
 
-## Developer on the Stage - Zusammen mit erfahrenen Speakern deinen ersten eigenen Vortrag entwickeln! (JUG Darmstadt: *Sergej Tihonov*, Falk Sippach; JUG Ostfalen: Steven Schwenke)
+## Developer on the Stage - Zusammen mit erfahrenen Speakern deinen ersten eigenen Vortrag entwickeln! (JUG Darmstadt: *Sergej Tihonov*, Falk Sippach; JUG Ostfalen: Steven Schwenke) **FEST ZUGESAGT**
 
 Beschreibung: Vorträge zu halten ist in der IT Community eine der wichtigsten Mittel, Wissen zu verteilen. Zusätzlich dazu erhöht der Sprecher seine eigene Sichtbarkeit und wird als Experte in seinem Thema wahrgenommen. Das sind nur zwei der vielen Vorteile eines Konferenz- oder Community-Event Vortrags.
 In diesem Community-Event lernst du von gleich drei sehr erfahrenen Speakern, wie du dein ganz individuelles Thema findest, dich umfassend auf deinen Auftritt vorbereitest und erfolgreich vorträgst. Anschließend werfen wir noch einen Blick auf die oft vernachlässigte Nachbereitung und auf Materialien, die dir dabei helfen, ein erfolgreicher Speaker zu werden.
@@ -165,7 +160,7 @@ Ausstattung: Raum mit Beamer und Wlan.
 Teilnehmerzahl: max. 30
 
 
-## Performance Capture-the-Flag Workshop (JUG Stuttgart: *Tobias Frech*)
+## Performance Capture-the-Flag Workshop (JUG Stuttgart: *Tobias Frech*) **FEST ZUGESAGT**
 
 Beschreibung: Früher oder später wird schlechte System-Performance immer zu einem Problem. Ausgangspunkt in diesem Workshop wird eine vorgegebene Open-Source-Anwendung sein, die einige Performance-Probleme aufweist. In kleinen Teams werden wir diese Probleme analysieren und Werkzeuge dafür kennen lernen. Jedes Team kann dann Änderungen vorschlagen und mit einem kleinen Ad-hoc Lasttest verifizieren. Erfolgreiche Verbesserung werden den anderen Teams kurz vorgestellt und der Analyse-Weg erklärt. Wer wird die Performance-Flagge für die beste Verbesserung erhalten? Hoffentlich alle TeilnehmerInnen an diesem Workshop gemeinsam!
 
@@ -187,7 +182,7 @@ Dauer: TBD.
 Ausstattung: TBD.
 
 
-## JUG Café (JUG Deutschland: *Daniel van Ross*, Frank Schwichtenberg)
+## JUG Café (JUG Deutschland: *Daniel van Ross*, Frank Schwichtenberg) **FEST ZUGESAGT**
 
 Beschreibung: Jetzt wo die Vor-Ort Aktivitäten nach langer Pause wieder beginnen, möchten wir euch im JUG Café wieder die Möglichkeit geben Vertreter eurer lokalen User Groups kennenzulernen. Kommt ins Gespräch und erfahrt was die User Group in euer Heimat- oder Nachbarstadt veranstaltet. Ihr seid bereits aktiv in eurer JUG, umso besser, dann kommt vorbei und redet mit Vertretern anderer JUGs um Erfahrungen auszutauschen und Ideen für eigene Aktivitäten zu sammeln. 
 
@@ -209,7 +204,7 @@ Dauer: 1 Stunde.
 Ausstattung: Stehtische, Beamer oder großer Monitor.
 
 
-## JavaLand Jogging (JUG Hamburg: *Bennet Schulz*)
+## JavaLand Jogging (JUG Hamburg: *Bennet Schulz*) **FEST ZUGESAGT**
 
 Beschreibung: Für Frühaufsteher: In idyllischer Umgebung Energie tanken am Morgen des zweiten Konferenztages - ganz einfach beim JavaLand Jogging. Die Strecke ist ein rund drei Kilometer langer Rundkurs, der zweimal gelaufen wird.
 
@@ -220,7 +215,7 @@ Dauer: TBD.
 Ausstattung: keine.
 
 
-## Tech-Pitch der Java Technology Talents (JUG Stuttgart: *Frederik Wystup*)
+## Tech-Pitch der Java Technology Talents (JUG Stuttgart: *Frederik Wystup*) **FEST ZUGESAGT**
 
 Beschreibung: Beschäftigt Dich seit einiger Zeit eine Idee oder Problemlösung, welche Du mit Java-Technologien umsetzen möchtest bzw. könntest?
 Entwickelst Du gerade alleine oder mit anderen zusammen eine innovative Java-Applikation?
