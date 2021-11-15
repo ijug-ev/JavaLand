@@ -236,3 +236,17 @@ Teilnahmevoraussetzungen: Spätestens bis 14 Tage vor Beginn der JavaLand locker
 Dauer: 5 Min. Präsentation (Pitch) + 5 Min. Q&A
 
 Ausstattung: WLAN und Präsentationsmöglichkeiten (Beamer etc.)
+
+## Workshop zu Pattern Matching mit Java (EuregJUG Maas-Rhine: *Merlin Bögershausen*, JUG Darmstadt: Falk Sippach)
+
+Beschreibung: Seit einiger Zeit wird Java im Rahmen des OpenJDK Projekt Amber um Pattern Matching erweitert.
+Dieses eigentlich aus funktionalen Programmiersprachen bekannte Feature ermöglicht elegantere Lösungsansätze und macht Java Code verständlicher und wartbarer.
+In diesem Workshop wollen wir uns die Semantik des Pattern Matching erarbeiten und die neuen Datentypen und Änderungen an der Syntax anhand typischer Aufgabenstellungen direkt gemeinsam ausprobieren. 
+
+Teilnahmevorraussetzungen: Laptop, Java 17 oder 18_EA, IDE (IntelliJ, Eclipse, ... mit Support für Java 17+)
+
+Dauer: 2 h
+
+Ausstattung: Beamer, Strom, Tische für Teilnehmer
+
+Termin: könnte auch Montag Abend um 17 Uhr in einem Hotel-Konferenzraum stattfinden
