@@ -42,7 +42,7 @@ Dauer: 1 Stunde.
 Ausstattung: Freier Platz ohne Bestuhlung für alle Teilnehmer, optimalerweise im Community-Zelt oder bei sehr gutem Wetter auch im Freien.
 
 
-## Bash war gestern: Shell Scripting mit Babashka (Clojure UG Düsseldorf: Christian Meter; rheinjug: *Jens Bendisposto*)
+## Bash war gestern: Shell Scripting mit Babashka (Clojure UG Düsseldorf: Christian Meter; rheinjug: *Jens Bendisposto*) **FEST ZUGESAGT**
 
 Wann hast du das letzte Mal ein etwas komplexeres Bash Script geschrieben und dir gewünscht, du könntest das Ding einfach mit Java schreiben? Java können wir dir zwar nicht direkt anbieten, dafür aber Clojure. Babashka ist eine Script-Engine, mit der wir quasi mit Clojure Shell-Skripte und Tasks schreiben können und die Dank der nativen Compilation mit der Graal VM eine Startup Zeit hat, die an native Bash-Skripte herankommt. 
 
@@ -57,7 +57,7 @@ Dauer: 2 Stunden.
 Ausstattung: Raum mit Beamer und optimalerweise WLAN.
 
 
-## Android Programmier-Crashkurs (Android User Group Düsseldorf: *Andre Ippisch*)
+## Android Programmier-Crashkurs (Android User Group Düsseldorf: *Andre Ippisch*) **FEST ZUGESAGT**
 
 Du möchtest Android-Apps selbst entwickeln, hast aber keine Lust, Tutorials allein durchzuarbeiten? Dann nimm' am Android-Programmier-Crashkurs teil! Wir bieten dir einen Einsteigerkurs, der dich so weit bringen soll, dass du deine eigenen kleinen Apps schreiben kannst. Wir erklären dir die Grundlagen der App-Entwicklung und erarbeiten diese praktisch mit dir. Aus dem Crashkurs gehst du mit deiner ersten selbst entwickelten Android-App auf dem Smartphone – und hoffentlich nicht der letzten.
 
@@ -114,7 +114,7 @@ Dauer: 2h.
 Ausstattung: einen Vortragsraum oder eines der Cafés.
 
 
-## Architektur Dojo (JUG Darmstadt: Sebastian Rose, *Alexander Schwartz*)
+## Architektur Dojo (JUG Darmstadt: Sebastian Rose, *Alexander Schwartz*) **FEST ZUGESAGT**
 
 Beschreibung: Als Architekten oder Entwickler bauen wir Systemarchitekturen und bekommen meist erst am Ende des Projekts Feedback, ob es so funktionierte oder nicht. 
 In diesem Architektur Dojo ist das anders: Bereits nach einer halben Stunde präsentiert ihr euren Entwurf, bekommt Feedback und könnt die Lösung anschließend verbessern!
@@ -133,7 +133,7 @@ Dauer: 2,5 Stunden.
 Ausstattung: Papier/Whiteboard/Flipchart/irgendwas zum Malen. Gruppentische a max 5-6 Teilnehmer pro Gruppe. Bis zu 8 Tische.
 
 
-## Coding Dojo (JUG Darmstadt: *Sebastian Rose*)
+## Coding Dojo (JUG Darmstadt: *Sebastian Rose*) **FEST ZUGESAGT**
 
 Beschreibung: Für den beruflichen Alltag ist es wichtig, sich ständig fortzubilden und seine Fertigkeiten als Entwickler zu trainieren.
 Mit Code Katas in einem Coding Dojo kannst du in einer kleinen Gruppe überschaubare Programmieraufgaben lösen.
@@ -147,7 +147,7 @@ Dauer: 2,5 Stunden.
 Ausstattung: WLAN, Beamer, Je nach Interesse der Teilnehmer, Gruppen-Tische, Pro Tisch ein Fernseher. Vier Gruppen max. oder 2/3er Gruppen, dann Stühle und Tische wie in der Schule.
 
 
-## Funktionale Programmierung mit Java (JUG Mannheim: *Gregor Trefs*; JUG Darmstadt: Falk Sippach)
+## Funktionale Programmierung mit Java (JUG Mannheim: *Gregor Trefs*; JUG Darmstadt: Falk Sippach) **FEST ZUGESAGT**
 
 Beschreibung: Funktionale Programmierung ist im Moment in aller Mund. Seit Java 8 und Lambdas stehen auch Java-Anwendern einige Werkzeuge zur Verfügung um funktionale Anwendungen komfortabler umzusetzen. Darum wollen wir uns mit einigen Grundlagen der funktionalen Programmierung auseinandersetzen und schauen, wie man sie in Java einsetzen kann. Nach dieser Einführung und Mob-Programming wirst du wissen, was eine pure Funktion ist, warum referentielle Transparenz ein tolles Konzept ist, was Werte sind, wie ein funktionales Programm ausgewertet werden kann und was funktionale Datenstrukturen sind. Weiterhin schauen wir uns an, wie man eine funktionale DSL schreiben kann und warum das auch für den Alltag sehr interessant ist. Agenda: Wir werden zwei von drei Übungen (Pure Funktion, Funktion höherer Ordnung, funktionale Datenstruktur) bearbeiten, jeweils mit einer Einführung und anschließendem Mob-Programming. Am Ende machen wir noch eine kleine Retro.
 
@@ -171,7 +171,7 @@ Dauer: 1,5h - 2h
 Ausstattung: Wlan, Präsentationsmöglichkeit, Uplink (über den alle Teilnehmer normale Webseiten öffnen und SSH-Sessions aufbauen können).
 
 
-## Testing mit Karate (JUG Paderborn: *Frederik Hahne*, Peter Quiel)
+## Testing mit Karate (JUG Paderborn: *Frederik Hahne*, Peter Quiel) **FEST ZUGESAGT**
 
 Beschreibung: Die Idee ist an beiden Tagen jeweils ca. 2 (oder 3) Stunden eine Session anzubieten, die sich 1x um das testen der Webui einer z.B. Spring Boot Anwendung dreht und 1x um das testen einer mit e.g. OpenAPI definierten http api dreht. Das ganze mit einem Tool, karate, statt unterschiedliche Tools (RestAssured, Selenium ...) für beides einzusetzen. Das ganze soll ein wenig Workshop Charakter haben, sprich entweder bringen die Teilnehmer*Innen eine App mit oder nehmen eine von uns bereitgestellte Anwendung und können dann unter Anleitung ihre oder unsere App (blackbox) testen.
 
@@ -193,7 +193,7 @@ Dauer: an beiden Tagen durchgehend.
 Ausstattung: großer Monitor 
 
 
-## iJUG Open Source Stipendium (JUG Goldstadt: *Markus Karg*)
+## iJUG Open Source Stipendium (JUG Goldstadt: *Markus Karg*) **FEST ZUGESAGT**
 
 Beschreibung: Vorstellung des Mentoring-Programms und der von den Stipendiaten dieses Jahr eingereichten Contributions.
 
@@ -237,7 +237,7 @@ Dauer: 5 Min. Präsentation (Pitch) + 5 Min. Q&A
 
 Ausstattung: WLAN und Präsentationsmöglichkeiten (Beamer etc.)
 
-## Workshop zu Pattern Matching mit Java (EuregJUG Maas-Rhine: *Merlin Bögershausen*, JUG Darmstadt: Falk Sippach)
+## Workshop zu Pattern Matching mit Java (EuregJUG Maas-Rhine: *Merlin Bögershausen*, JUG Darmstadt: Falk Sippach) **FEST ZUGESAGT**
 
 Beschreibung: Seit einiger Zeit wird Java im Rahmen des OpenJDK Projekt Amber um Pattern Matching erweitert.
 Dieses eigentlich aus funktionalen Programmiersprachen bekannte Feature ermöglicht elegantere Lösungsansätze und macht Java Code verständlicher und wartbarer.
