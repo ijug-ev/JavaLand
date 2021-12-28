@@ -70,13 +70,13 @@ Ausstattung: Raum mit Beamer und WLAN.
 
 ## Jetpack Compose Hands-On mit Kotlin (JUG Stuttgart: *Laura Steiner*, Michael Paus, Frank Gerhardt) **FEST ZUGESAGT**
 
-Beschreibung: TBD.
+Beschreibung: Einige Android-Applikationen (darunter Twitter) haben Ihre UI auf Jetpack Compose umgestellt. In diesem Workshop wollen wir uns dieses moderne Toolkit zur UI-Gestaltung anschauen. Hierzu werden wir uns gemeinsam an die Programmiersprache Kotlin und an das Konzept der deklarativen Programmierung von UI-Elementen heran wagen.
 
-Teilnahmevoraussetzungen: TBD.
+Teilnahmevoraussetzungen: Eigener Rechner, aktuelle Version von Android Studio (alias: Arctic Fox) installiert. Android-Smartphone und Kabel oder den integrierten Emulator in Android Studio zum Deployen und Testen.
 
-Dauer: TBD.
+Dauer: 2 Stunden.
 
-Ausstattung: TBD.
+Ausstattung: Raum mit Beamer und WLAN.
 
 
 ## Freeletics (JUG Ostfalen: *Jens Schauder*, Oliver Mielke) **FEST ZUGESAGT**
