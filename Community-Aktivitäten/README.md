@@ -57,7 +57,9 @@ Dauer: 2 Stunden.
 Ausstattung: Raum mit Beamer und optimalerweise WLAN.
 
 
-## Android Programmier-Crashkurs (Android User Group Düsseldorf: *Andre Ippisch*) **FEST ZUGESAGT**
+## Android Programmier-Crashkurs (Android User Group Düsseldorf: *Andre Ippisch*) **ABGESAGT**
+
+**Leider findet dieser Workshop nicht statt.**
 
 Du möchtest Android-Apps selbst entwickeln, hast aber keine Lust, Tutorials allein durchzuarbeiten? Dann nimm' am Android-Programmier-Crashkurs teil! Wir bieten dir einen Einsteigerkurs, der dich so weit bringen soll, dass du deine eigenen kleinen Apps schreiben kannst. Wir erklären dir die Grundlagen der App-Entwicklung und erarbeiten diese praktisch mit dir. Aus dem Crashkurs gehst du mit deiner ersten selbst entwickelten Android-App auf dem Smartphone – und hoffentlich nicht der letzten.
 
