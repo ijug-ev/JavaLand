@@ -252,3 +252,11 @@ Dauer: 2 h
 Ausstattung: Beamer, Strom, Tische für Teilnehmer
 
 Termin: könnte auch Montag Abend um 17 Uhr in einem Hotel-Konferenzraum stattfinden
+
+## Meet The Libs
+
+Beschreibung: TBD
+
+Teilnahmevoraussetzungen: TBD
+
+Dauer: TBD
