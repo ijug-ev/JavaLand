@@ -92,7 +92,9 @@ Dauer: TBD.
 Ausstattung: TBD.
 
 
-## Hackergarten (JUG Switzerland: *Andres Almiray*) **FEST ZUGESAGT**
+## Hackergarten (JUG Switzerland: *Andres Almiray*) **ABGESAGT**
+
+**Andres Almiray kann leider dieses Jahr keinen Hackergarten im JavaLand veranstalten. Er freut sich aber darauf, die Veranstaltung 2023 wieder anzubieten!**
 
 Beschreibung: Der Hackergarten ist eine beliebte Community-Aktivität, die bisher auf jeder JavaLand-Konferenz stattgefunden hat. Hier haben Teilnehmer die Möglichkeit, den ganzen Tag lang gemeinsam für Open-Source-Projekte Plug-ins oder Dokumentationen zu schreiben, neue Features hinzuzufügen oder Fehler zu beheben. 
 
