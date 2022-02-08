@@ -29,7 +29,9 @@ Das JavaLand ist thematisch ("Java Community") und vom Platz her (Vergnügungspa
 An dieser Stelle veröffentlichen wir den jeweils aktuellen Planungsstand, auf welche Community-Aktivitäten Ihr Euch im nächsten JavaLand freuen dürft! Bitte beachtet, dass sich dieser Stand täglich ändern kann und **keine verbindliche Zusage** über eine bestimmte Community-Aktivität darstellt. Es ist durchaus realistisch, dass hier genannte Aktivitäten kurzfristig ausfallen (z. B. durch Krankheit des Veranstalters) oder spontan welche vor Ort hinzukommen!
 
 
-## JavaLand Kung-Fu (JUG Goldstadt: *Markus KARG*) **FEST ZUGESAGT**
+## JavaLand Kung-Fu (JUG Goldstadt: *Markus KARG*) **ABGESAGT**
+
+**Markus Karg kann leider dieses Jahr kein Kung-Fu mit Euch durchführen. Er freut sich aber darauf, 2023 wieder vorzuturnen!**
 
 Wie das alte Sprichwort "Mens sana in corpore sano" bereits andeutet: Mit Kreuzschmerz ist es schwer sich zu konzentrieren! Erstaunlich daher, wie viele Geeks, Nerds und Hacker sich trotzdem jahrelang mit Berufskrankheiten wie Kopf- und Rückenschmerzen, Stress und Verspannungen herumplagen. Dabei kennt die chinesische Kultur seit Jahrhunderten ein erstaunlich einfaches, wirksames und von jedem, selbst im Büro, anwendbares Gegenmittel: Shaolin Qigong – gymnastische Übungen des Kung-Fu. Aber keine Angst, hier wird nicht gekämpft – wir zeigen dir, wie du mit einfachen Dehnübungen Kopfschmerzen sofort ausschaltest und mit nur 20 Minuten Sport am Tag Rückenschmerzen dauerhaft beseitigst. Als Nebeneffekt winkt dank besserer Konzentration sogar besserer Code!
 
