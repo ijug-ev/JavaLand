@@ -44,7 +44,7 @@ Dauer: 1 Stunde.
 Ausstattung: Freier Platz ohne Bestuhlung für alle Teilnehmer, optimalerweise im Community-Zelt oder bei sehr gutem Wetter auch im Freien.
 
 
-## Bash war gestern: Shell Scripting mit Babashka (Clojure UG Düsseldorf: Christian Meter; rheinjug: *Jens Bendisposto*) **FEST ZUGESAGT**
+## Bash war gestern: Shell Scripting mit Babashka (Clojure UG Düsseldorf: *Christian Meter*; rheinjug: Jens Bendisposto) **FEST ZUGESAGT**
 
 Wann hast du das letzte Mal ein etwas komplexeres Bash Script geschrieben und dir gewünscht, du könntest das Ding einfach mit Java schreiben? Java können wir dir zwar nicht direkt anbieten, dafür aber Clojure. Babashka ist eine Script-Engine, mit der wir quasi mit Clojure Shell-Skripte und Tasks schreiben können und die Dank der nativen Compilation mit der Graal VM eine Startup Zeit hat, die an native Bash-Skripte herankommt. 
 
