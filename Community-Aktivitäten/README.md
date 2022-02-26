@@ -255,10 +255,12 @@ Ausstattung: Beamer, Strom, Tische für Teilnehmer
 
 Termin: könnte auch Montag Abend um 17 Uhr in einem Hotel-Konferenzraum stattfinden
 
-## Meet The Libs
+## Meet-the-Lib (JUG Darmstadt: *Jan Westerkamp*, *Gerd Aschemann*) **FEST ZUGESAGT**
 
-Beschreibung: TBD
+Beschreibung: Hast du ein nützliches kleines Werkzeug, eine Bibliothek, eine Site oder ein brandeues Projekt (auch abseits von Java) im Kopf, zudem du dein Wissen gerne mit der Community teilen möchtest?
+In dieser Konferenz in der Konferenz hast du die Gelegenheit dazu einen Kurzvortrag (5-15 min) dazu zu halten.
+Programmvorschläge und Bewertungen kannst du am Dienstag schon vorab auf dem bereitgestellten Flipchart einreichen bzw. vornehmen.
 
-Teilnahmevoraussetzungen: TBD
+Teilnahmevoraussetzungen: keine, optional Laptop für Vortragende
 
-Dauer: TBD
+Dauer: 2 h
