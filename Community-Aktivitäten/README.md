@@ -83,7 +83,7 @@ Dauer: 2 Stunden.
 Ausstattung: Raum mit Beamer und WLAN.
 
 
-## Freeletics (JUG Ostfalen: *Jens Schauder*, Oliver Mielke) **FEST ZUGESAGT**
+## Freeletics (JUG Ostfalen: *Jens Schauder*) **FEST ZUGESAGT**
 
 Beschreibung: #freeletics: Vor einem informationsreichen Konferenztag den Kopf frei bekommen - aber Joggen ist nicht so dein Ding? Dann probier ' es doch mal mit #freeletics - Ganzkörpertraining ohne Geräte. Wir erklären die Grundlagen und absolvieren gemeinsam ein Workout.
 
