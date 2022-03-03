@@ -177,13 +177,57 @@ Ausstattung: Wlan, Präsentationsmöglichkeit, Uplink (über den alle Teilnehmer
 
 ## Testing mit Karate (JUG Paderborn: *Frederik Hahne*, Peter Quiel) **FEST ZUGESAGT**
 
-Beschreibung: Die Idee ist an beiden Tagen jeweils ca. 2 (oder 3) Stunden eine Session anzubieten, die sich 1x um das testen der Webui einer z.B. Spring Boot Anwendung dreht und 1x um das testen einer mit e.g. OpenAPI definierten http api dreht. Das ganze mit einem Tool, karate, statt unterschiedliche Tools (RestAssured, Selenium ...) für beides einzusetzen. Das ganze soll ein wenig Workshop Charakter haben, sprich entweder bringen die Teilnehmer*Innen eine App mit oder nehmen eine von uns bereitgestellte Anwendung und können dann unter Anleitung ihre oder unsere App (blackbox) testen.
+## Beschreibung
 
-Teilnahmevoraussetzungen: TBD.
+### Motivation
 
-Dauer: TBD. 
+Beim Testen geht es immer um schnelles und qualitativ hochwertiges Feedback.
+Test-Feedback vom Produktivsystem ist langsamer, aber qualitativ wertvoller gegenüber lokalen Tests.
 
-Ausstattung: TBD.
+Spring-Boot-Testcases in Kombination mit Testcontainers haben die Qualität von lokalen Tests enorm gesteigert.
+Das Spring-Data-Repository wird jetzt nicht mehr gegen die In-Memory H2-Datenbank getestet, sondern gegen die PostgreSQL
+Datenbank die in derselben Version auf dem Produktivsystem läuft.
+
+Andere Services können ebenso lokal mittels Testcontainers gestartet werden.
+
+Mit https://github.com/karatelabs/karate[Karate] kannst du nun den nächsten Qualitätssprung machen,
+ indem du deine Web-API und Web-UI automatisiert lokal testen kannst.
+
+https://github.com/karatelabs/karate[Karate] ermöglicht dir mit einer Cucumber-ähnlichen DSL Web-API- und Web-UI-Tests
+kurz und knapp zu beschreiben.
+
+Des Weiteren kannst du mit https://github.com/karatelabs/karate[Karate] auch Web-API-Mocks erstellen,
+die dir beim lokalem Test eine enorme Hilfe sind.
+
+Wenn du jetzt noch ein Schritt weiter denkst, dann kannst du die Funktion deiner Web-API-Mocks mit Karate-Tests prüfen
+und dieselben Tests gegen die reale API laufen lassen. In dieser Situation sind wir schon beim Contract-Testing.
+
+### Inhalt
+
+Wir werden eine einfache Anwendung bereitstellen, für die wir leider keine Unit-Tests geschrieben haben.
+
+Falls du eine Anwendung zum Testen oder als Beispiel mitbringen möchtest, kannst du das gerne machen.
+
+Mit unserer Hilfe werdet ihr lernen, wie man zuerst einen Spring-Boot-Testcase samt https://www.testcontainers.org/[Testconainers] aufsetzt,
+um anschließend die REST-Api mit Karate zu testen. Vorher müsst ihr noch ein einfaches Java-Mock implementieren,
+damit die Anwendung sinnvolle Antworten liefert.
+
+Anschließend binden wir UI-Test in Kombination mit den REST-Api Tests zusammen.
+Wir legen Daten mithilfe eines UI-Tests an und prüfen das Ergebnis mittels der REST-API.
+Ihr merkt schon, diese Art von Tests sind sehr nahe an Akzeptanzkriterien, die entweder eure QA prüft oder ihr selbst in manuellen Tests.
+
+Im letzten Schritt ersetzten wir das Java-Mock, durch einen smartes Mock, mit dem man auch langsame Antworten,
+Timeouts und weitere Fehler simulieren kann.
+
+## Teilnahmevoraussetzungen
+
+* Notebook
+* Grundlegende Spring-Boot Kenntnisse.
+* Installierte Tools:
+** Java >= 17
+** Docker
+** VS-Code - erleichtert das Arbeiten mit Karate-Testcases
+** Java-IDE
 
 
 ## JUG Café (JUG Deutschland: *Daniel van Ross*, Frank Schwichtenberg) **FEST ZUGESAGT**
