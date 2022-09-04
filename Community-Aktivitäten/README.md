@@ -13,7 +13,7 @@ Dabei muss es nicht immer nur direkt um Java gehen. Außergewöhnliche Einreichu
 
 # Call for Participation - **OFFEN - BITTE JETZT EINREICHEN!**
 
-**Wir freuen uns auf Euere Einreichungen für die JavaLand 2023!** Optimalerweise schickt Ihr uns einfach einen Pull Request, der *dieses* Markdown-Dokument ändert, und in dem Titel, kurze Beschreibung, und -ganz wichtig!- Euere E-Mail-Adresse steht. Wir melden uns dann umgehend bei Euch! Wenn Euch ein PR zu aufwändig ist, könnt Ihr statt dessen auch gerne einfach eine E-Mail an *markus@headcrashing.eu* senden mit diesen Informationen.
+**Wir freuen uns auf Euere Einreichungen für die JavaLand 2023!** Optimalerweise schickt Ihr uns einfach einen Pull Request, der *dieses* Markdown-Dokument ändert, und in dem Titel, kurze Beschreibung, und -ganz wichtig!- Euere E-Mail-Adresse steht. Wir melden uns dann umgehend bei Euch! Wenn Euch ein PR zu aufwändig ist, könnt Ihr statt dessen auch gerne einfach eine E-Mail an *all-ca-sprecher@javaland.eu* senden mit diesen Informationen.
 
 
 # Aufnahmekriterien
