@@ -56,5 +56,7 @@ Wunsch-Slot: Vor Beginn der JavaLand.
 
 Dauer: Je nach Entfernung... 😉
 
-Ausstattung: Vonseiten des JavaLand keine
+Ausstattung:
+- Eine Möglichkeit, das Fahrrad für die Dauer der Teilnahme an der JavaLand sicher und geschützt einzustellen.
+- Einen Slot im JUG-Cafe für die Java User Group Switzerland als Treffpunkt für alle Fahrradfahrenden zum Austausch. Free Coffee, Beer, Ice Cream by JUG.CH...
 
