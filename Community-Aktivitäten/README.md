@@ -1,4 +1,4 @@
-# JavaLand Community-Aktivitäten** *2023***
+# JavaLand Community-Aktivitäten *2023*
 
 Die JavaLand wird von ehrenamtlichen Java-Enthusiasten aus Deutschland, Österreich und der Schweiz organisiert und gestaltet.
 Neben dem Vortragsprogramm sind die Community-Aktivitäten ein integraler Bestandteil und einzigartiges Alleinstellungsmerkmal der Konferenz.
