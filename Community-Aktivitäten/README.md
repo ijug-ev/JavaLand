@@ -29,6 +29,17 @@ Das JavaLand ist thematisch ("Java Community") und vom Platz her (Vergnügungspa
 An dieser Stelle veröffentlichen wir den jeweils aktuellen Planungsstand, auf welche Community-Aktivitäten Ihr Euch im nächsten JavaLand freuen dürft! Bitte beachtet, dass sich dieser Stand täglich ändern kann und **keine verbindliche Zusage** über eine bestimmte Community-Aktivität darstellt. Es ist durchaus realistisch, dass hier genannte Aktivitäten kurzfristig ausfallen (z. B. durch Krankheit des Veranstalters) oder spontan welche vor Ort hinzukommen!
 
 
+## JavaLand Jogging (JUG Hamburg: [*Bennet Schulz*](https://github.com/bennetelli)
+
+Beschreibung: Für Frühaufsteher: In idyllischer Umgebung Energie tanken am Morgen des zweiten Konferenztages - ganz einfach beim JavaLand Jogging. Die Strecke ist ein rund drei Kilometer langer Rundkurs, der zweimal gelaufen wird.
+
+Teilnahmevoraussetzungen: keine.
+
+Dauer: 1 Stunde.
+
+Ausstattung: keine.
+
+
 ## JavaLand Kung-Fu (JUG Goldstadt: [*Markus KARG*](https://github.com/mkarg))
 
 Wie das alte Sprichwort "Mens sana in corpore sano" bereits andeutet: Mit Kreuzschmerz ist es schwer sich zu konzentrieren! Erstaunlich daher, wie viele Geeks, Nerds und Hacker sich trotzdem jahrelang mit Berufskrankheiten wie Kopf- und Rückenschmerzen, Stress und Verspannungen herumplagen. Dabei kennt die chinesische Kultur seit Jahrhunderten ein erstaunlich einfaches, wirksames und von jedem, selbst im Büro, anwendbares Gegenmittel: Shaolin Qigong – gymnastische Übungen des Kung-Fu. Aber keine Angst, hier wird nicht gekämpft – wir zeigen dir, wie du mit einfachen Dehnübungen Kopfschmerzen sofort ausschaltest und mit nur 20 Minuten Sport am Tag Rückenschmerzen dauerhaft beseitigst. Als Nebeneffekt winkt dank besserer Konzentration sogar besserer Code!
@@ -44,7 +55,7 @@ Ausstattung: Freier Platz ohne Bestuhlung für alle Teilnehmer, optimalerweise i
 
 ## Apache Maven BOF (JUG Oberpfalz: [*Richard FICHTNER*](https://twitter.com/RichardFichtner))
 
-Es bewegt sich viel in der Welt von Maven. In diesem BoF* laden wir alle, die mit Maven zu tun haben, zur Diskussion ein. Es spielt keine Rolle, ob Du Anwender*in, Contributor*in oder Committer*in bist, mach einfach mit.
+Es bewegt sich viel in der Welt von Maven. In diesem BoF laden wir *alle, die mit Maven zu tun haben*, zur Diskussion ein. Es spielt keine Rolle, ob Du Anwender:in, Contributor oder Committer bist, mach einfach mit.
 
 Birds of a Feather-Sessions (oder BoFs) sind informelle Zusammenkünfte von Gleichgesinnten, die ein bestimmtes Thema ohne eine im Voraus festgelegte Agenda diskutieren möchten. BoFs ermöglichen es Gruppen, sich zu treffen und Themen zu diskutieren und gemeinsame Herausforderungen und Ideen zu besprechen, mit denen die Gemeinschaft konfrontiert ist.
 
@@ -55,4 +66,23 @@ Wunsch-Slot: Am liebsten abends vor dem Abendessen, damit man ggf. beim Essen we
 Dauer: 1 Stunde.
 
 Ausstattung: Raum für ca. 20 Personen mit Sitzgelegenheiten; Beamer brauchen wir denk ich nicht unbedingt, wenn einer da ist schadet es nicht.
+
+
+## JavaLand Sternfahrt (JUG Schweiz: *Marcus Fihlon*)
+
+Wir kommen aus allen Ecken von Deutschland, Österreich und der Schweiz zur JavaLand, um ein paar schöne und nerdige Tage miteinander zu verbringen. Einige von uns werden die Anreise mit dem Fahrrad wagen. Vielleicht gehörst du auch dazu? Genau darum geht es bei dieser Community-Aktivität: Mit dem Fahrrad zum JavaLand anreisen. Über einen Matrix-Chat können wir uns dabei koordinieren, um uns unterwegs zu treffen und Teilstrecken gemeinsam zu fahren. Idealerweise zeichnest du deine Fahrt mit einem GPS-Gerät, Navi oder Smartphone auf.
+
+Die GPX-Datei kannst du dann nach deiner Ankunft einreichen und wir werden während der JavaLand (wahrscheinlich im Rahmen des Hackergarten) mithilfe einer in Java entwickelten Open Source Anwendung ([GPX-Animator](https://gpx-animator.app/)) eine Animation der Sternfahrt erstellen. Vielleicht schaffen wir es damit sogar in die Community-Keynote?
+
+Falls du bei der Planung deiner Fahrt oder der Aufzeichnung als GPX-Datei Unterstützung benötigst, stehe ich dir vor der JavaLand gerne zur Verfügung. Eigentlich logisch, aber besser vorher informiert als hinterher bereut: Die Java User Group Switzerland, die JavaLand GmbH und der iJUG e.V. übernehmen keine Haftung. Du solltest also selbst versichert sein, falls unterwegs etwas passiert.
+
+**Teilnahmevoraussetzungen: Du solltest ein Fahrrad haben und idealerweise (nicht zwingend) ein Gerät, um deine Fahrt als GPX-Datei aufzuzeichnen.**
+
+Wunsch-Slot: Vor Beginn der JavaLand.
+
+Dauer: Je nach Entfernung... 😉
+
+Ausstattung:
+- Eine Möglichkeit, das Fahrrad für die Dauer der Teilnahme an der JavaLand sicher und geschützt einzustellen.
+- Einen Slot im JUG-Cafe für die Java User Group Switzerland als Treffpunkt für alle Fahrradfahrenden zum Austausch. Free Coffee, Beer, Ice Cream by JUG.CH...
 
