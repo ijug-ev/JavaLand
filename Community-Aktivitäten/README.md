@@ -29,6 +29,17 @@ Das JavaLand ist thematisch ("Java Community") und vom Platz her (Vergnügungspa
 An dieser Stelle veröffentlichen wir den jeweils aktuellen Planungsstand, auf welche Community-Aktivitäten Ihr Euch im nächsten JavaLand freuen dürft! Bitte beachtet, dass sich dieser Stand täglich ändern kann und **keine verbindliche Zusage** über eine bestimmte Community-Aktivität darstellt. Es ist durchaus realistisch, dass hier genannte Aktivitäten kurzfristig ausfallen (z. B. durch Krankheit des Veranstalters) oder spontan welche vor Ort hinzukommen!
 
 
+## JavaLand Jogging (JUG Hamburg: [*Bennet Schulz*](https://github.com/bennetelli)
+
+Beschreibung: Für Frühaufsteher: In idyllischer Umgebung Energie tanken am Morgen des zweiten Konferenztages - ganz einfach beim JavaLand Jogging. Die Strecke ist ein rund drei Kilometer langer Rundkurs, der zweimal gelaufen wird.
+
+Teilnahmevoraussetzungen: keine.
+
+Dauer: 1 Stunde.
+
+Ausstattung: keine.
+
+
 ## JavaLand Kung-Fu (JUG Goldstadt: [*Markus KARG*](https://github.com/mkarg))
 
 Wie das alte Sprichwort "Mens sana in corpore sano" bereits andeutet: Mit Kreuzschmerz ist es schwer sich zu konzentrieren! Erstaunlich daher, wie viele Geeks, Nerds und Hacker sich trotzdem jahrelang mit Berufskrankheiten wie Kopf- und Rückenschmerzen, Stress und Verspannungen herumplagen. Dabei kennt die chinesische Kultur seit Jahrhunderten ein erstaunlich einfaches, wirksames und von jedem, selbst im Büro, anwendbares Gegenmittel: Shaolin Qigong – gymnastische Übungen des Kung-Fu. Aber keine Angst, hier wird nicht gekämpft – wir zeigen dir, wie du mit einfachen Dehnübungen Kopfschmerzen sofort ausschaltest und mit nur 20 Minuten Sport am Tag Rückenschmerzen dauerhaft beseitigst. Als Nebeneffekt winkt dank besserer Konzentration sogar besserer Code!
