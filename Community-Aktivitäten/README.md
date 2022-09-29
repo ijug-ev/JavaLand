@@ -59,7 +59,7 @@ Es bewegt sich viel in der Welt von Maven. In diesem BoF laden wir *alle, die mi
 
 Birds of a Feather-Sessions (oder BoFs) sind informelle Zusammenkünfte von Gleichgesinnten, die ein bestimmtes Thema ohne eine im Voraus festgelegte Agenda diskutieren möchten. BoFs ermöglichen es Gruppen, sich zu treffen und Themen zu diskutieren und gemeinsame Herausforderungen und Ideen zu besprechen, mit denen die Gemeinschaft konfrontiert ist.
 
-**Es bestehen keine besonderen Teilenahmevoraussetzungen! Du solltest allerdings schon mal Berührung mit Maven gehabt haben, sonst wird das nicht sehr interessant für Dich.**
+**Es bestehen keine besonderen Teilnahmevoraussetzungen! Du solltest allerdings schon mal Berührung mit Maven gehabt haben, sonst wird das nicht sehr interessant für Dich.**
 
 Wunsch-Slot: Am liebsten abends vor dem Abendessen, damit man ggf. beim Essen weiter diskutieren kann.
 
@@ -85,4 +85,19 @@ Dauer: Je nach Entfernung... 😉
 Ausstattung:
 - Eine Möglichkeit, das Fahrrad für die Dauer der Teilnahme an der JavaLand sicher und geschützt einzustellen.
 - Einen Slot im JUG-Cafe für die Java User Group Switzerland als Treffpunkt für alle Fahrradfahrenden zum Austausch. Free Coffee, Beer, Ice Cream by JUG.CH...
+
+## MicroStream BOF (JUG Oberpfalz: [*Richard FICHTNER*](https://twitter.com/RichardFichtner))
+
+Mitglieder der JUG Oberpfalz machen sich seit Jahren Gedanken darüber, wie man das Speichern von Daten in Java einfacher machen kann. In vielen Stunden hitziger Diskussionen haben wir viel gelernt. Einige Kollegen haben das MicroStream Projekt ins Leben gerufen. [MicroStream](https://microstream.one/) ist eine open-source Lösung, um Java-Objekt-Graphen sehr einfach, sicher und performant zu speichern. Ein Teil, der im Java Eco-System fehlt – entwickelt in der Oberpfalz.  In diesem BoF laden wir *alle Java Anwender*, zur Diskussion über Persistenz in Java ein. Es spielt keine Rolle, ob Du das Thema noch gar nicht kennst, Anwender:in, Contributor oder Committer bist, mach einfach mit.
+
+Birds of a Feather-Sessions (oder BoFs) sind informelle Zusammenkünfte von Gleichgesinnten, die ein bestimmtes Thema ohne eine im Voraus festgelegte Agenda diskutieren möchten. BoFs ermöglichen es Gruppen, sich zu treffen und Themen zu diskutieren und gemeinsame Herausforderungen und Ideen zu besprechen, mit denen die Gemeinschaft konfrontiert ist.
+
+**Es bestehen keine besonderen Teilnahmevoraussetzungen!**
+
+Wunsch-Slot: Am liebsten abends vor dem Abendessen, damit man ggf. beim Essen weiter diskutieren kann.
+
+Dauer: 1 Stunde.
+
+Ausstattung: Raum für ca. 20 Personen mit Sitzgelegenheiten; Beamer brauchen wir denk ich nicht unbedingt, wenn einer da ist schadet es nicht.
+
 
