@@ -29,7 +29,7 @@ Das JavaLand ist thematisch ("Java Community") und vom Platz her (Vergnügungspa
 An dieser Stelle veröffentlichen wir den jeweils aktuellen Planungsstand, auf welche Community-Aktivitäten Ihr Euch im nächsten JavaLand freuen dürft! Bitte beachtet, dass sich dieser Stand täglich ändern kann und **keine verbindliche Zusage** über eine bestimmte Community-Aktivität darstellt. Es ist durchaus realistisch, dass hier genannte Aktivitäten kurzfristig ausfallen (z. B. durch Krankheit des Veranstalters) oder spontan welche vor Ort hinzukommen!
 
 
-## JavaLand Jogging (JUG Hamburg: [*Bennet Schulz*](https://github.com/bennetelli)
+## JavaLand Jogging ([JUG Hamburg](https://jughh.de/): [*Bennet Schulz*](https://github.com/bennetelli))
 
 Beschreibung: Für Frühaufsteher: In idyllischer Umgebung Energie tanken am Morgen des zweiten Konferenztages - ganz einfach beim JavaLand Jogging. Die Strecke ist ein rund drei Kilometer langer Rundkurs, der zweimal gelaufen wird.
 
@@ -40,7 +40,7 @@ Dauer: 1 Stunde.
 Ausstattung: keine.
 
 
-## JavaLand Kung-Fu (JUG Goldstadt: [*Markus KARG*](https://github.com/mkarg))
+## JavaLand Kung-Fu ([JUG Goldstadt](http://jugpf.de/): [*Markus KARG*](https://github.com/mkarg))
 
 Wie das alte Sprichwort "Mens sana in corpore sano" bereits andeutet: Mit Kreuzschmerz ist es schwer sich zu konzentrieren! Erstaunlich daher, wie viele Geeks, Nerds und Hacker sich trotzdem jahrelang mit Berufskrankheiten wie Kopf- und Rückenschmerzen, Stress und Verspannungen herumplagen. Dabei kennt die chinesische Kultur seit Jahrhunderten ein erstaunlich einfaches, wirksames und von jedem, selbst im Büro, anwendbares Gegenmittel: Shaolin Qigong – gymnastische Übungen des Kung-Fu. Aber keine Angst, hier wird nicht gekämpft – wir zeigen dir, wie du mit einfachen Dehnübungen Kopfschmerzen sofort ausschaltest und mit nur 20 Minuten Sport am Tag Rückenschmerzen dauerhaft beseitigst. Als Nebeneffekt winkt dank besserer Konzentration sogar besserer Code!
 
@@ -53,7 +53,7 @@ Dauer: 1 Stunde.
 Ausstattung: Freier Platz ohne Bestuhlung für alle Teilnehmer, optimalerweise im Community-Zelt oder bei sehr gutem Wetter auch im Freien.
 
 
-## Apache Maven BOF (JUG Oberpfalz: [*Richard FICHTNER*](https://twitter.com/RichardFichtner))
+## Apache Maven BOF ([JUG Oberpfalz](http://jug-oberpfalz.de/): [*Richard FICHTNER*](https://twitter.com/RichardFichtner))
 
 Es bewegt sich viel in der Welt von Maven. In diesem BoF laden wir *alle, die mit Maven zu tun haben*, zur Diskussion ein. Es spielt keine Rolle, ob Du Anwender:in, Contributor oder Committer bist, mach einfach mit.
 
@@ -68,7 +68,7 @@ Dauer: 1 Stunde.
 Ausstattung: Raum für ca. 20 Personen mit Sitzgelegenheiten; Beamer brauchen wir denk ich nicht unbedingt, wenn einer da ist schadet es nicht.
 
 
-## JavaLand Sternfahrt (JUG Schweiz: *Marcus Fihlon*)
+## JavaLand Sternfahrt ([JUG Schweiz](https://www.jug.ch/): *Marcus Fihlon*)
 
 Wir kommen aus allen Ecken von Deutschland, Österreich und der Schweiz zur JavaLand, um ein paar schöne und nerdige Tage miteinander zu verbringen. Einige von uns werden die Anreise mit dem Fahrrad wagen. Vielleicht gehörst du auch dazu? Genau darum geht es bei dieser Community-Aktivität: Mit dem Fahrrad zum JavaLand anreisen. Über einen Matrix-Chat können wir uns dabei koordinieren, um uns unterwegs zu treffen und Teilstrecken gemeinsam zu fahren. Idealerweise zeichnest du deine Fahrt mit einem GPS-Gerät, Navi oder Smartphone auf.
 
