@@ -53,7 +53,7 @@ Dauer: 1 Stunde.
 Ausstattung: Freier Platz ohne Bestuhlung für alle Teilnehmer, optimalerweise im Community-Zelt oder bei sehr gutem Wetter auch im Freien.
 
 
-## Apache Maven BOF ([JUG Oberpfalz](http://jug-oberpfalz.de/): [*Richard FICHTNER*](https://twitter.com/RichardFichtner))
+## Apache Maven BOF ([JUG Oberpfalz](http://jug-oberpfalz.de/): [*Richard FICHTNER*](https://github.com/rfitchtner))
 
 Es bewegt sich viel in der Welt von Maven. In diesem BoF laden wir *alle, die mit Maven zu tun haben*, zur Diskussion ein. Es spielt keine Rolle, ob Du Anwender:in, Contributor oder Committer bist, mach einfach mit.
 
