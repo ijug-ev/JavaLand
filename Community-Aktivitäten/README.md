@@ -68,7 +68,7 @@ Dauer: 1 Stunde.
 Ausstattung: Raum für ca. 20 Personen mit Sitzgelegenheiten; Beamer brauchen wir denk ich nicht unbedingt, wenn einer da ist schadet es nicht.
 
 
-## JavaLand Sternfahrt ([JUG Schweiz](https://www.jug.ch/): *Marcus Fihlon*)
+## JavaLand Sternfahrt ([JUG Schweiz](https://www.jug.ch/): [*Marcus Fihlon*](https://github.com/McPringle))
 
 Wir kommen aus allen Ecken von Deutschland, Österreich und der Schweiz zur JavaLand, um ein paar schöne und nerdige Tage miteinander zu verbringen. Einige von uns werden die Anreise mit dem Fahrrad wagen. Vielleicht gehörst du auch dazu? Genau darum geht es bei dieser Community-Aktivität: Mit dem Fahrrad zum JavaLand anreisen. Über einen Matrix-Chat können wir uns dabei koordinieren, um uns unterwegs zu treffen und Teilstrecken gemeinsam zu fahren. Idealerweise zeichnest du deine Fahrt mit einem GPS-Gerät, Navi oder Smartphone auf.
 
