@@ -141,3 +141,16 @@ Wunsch-Slot: Anreisetag Abends.
 Dauer: 2,5 Stunden.
 
 Ausstattung: Papier/Whiteboard/Flipchart/irgendwas zum Malen. Gruppentische a max 5-6 Teilnehmer pro Gruppe. Bis zu 8 Tische.
+
+## Community Unkonferenz ([JUG Darmstadt](https://www.jug-da.de/): Gerd Aschemann, [JUG Stuttgart](https://www.jugs.org/): [Tobias Frech](https://github.com/JOpsDev))
+
+Zum Einstimmung auf die Konferenz: Bringt Eure Themen mit und wir starten am Vorabend der Konferenz mit einer [Runde lockerer 
+Diskussionen](https://de.wikipedia.org/wiki/Tagung#Unkonferenz) mit Gleichgesinnten.
+
+Dauer: 2 Stunden
+
+Voraussetzungen: Interesse am Austausch mit Anderen, eigene Ideen und Gedanken gerne mitbringen und teilen. Alle sind willkommen. Der [Verhaltenskodex der JavaLand](https://www.javaland.eu/de/verhaltenscodex/) gilt natürlich auch hier.
+
+Wunsch-Slot: Montag vor der Konferenz, 16-18 Uhr.
+
+Ausstattung: Zwei oder mehr Räume, ein Flipchart oder eine Pin-Wand mit FLip-Chart-Block. Evtl. im Tagungsraum-Bereich des Ling-Bao?
