@@ -153,4 +153,4 @@ Voraussetzungen: Interesse am Austausch mit Anderen, eigene Ideen und Gedanken g
 
 Wunsch-Slot: Montag vor der Konferenz, 16-18 Uhr.
 
-Ausstattung: Zwei oder mehr Räume, ein Flipchart oder eine Pin-Wand mit FLip-Chart-Block. Evtl. im Tagungsraum-Bereich des Ling-Bao?
+Ausstattung: Zwei oder mehr Räume, ein Flipchart oder eine Pin-Wand mit Flip-Chart-Block. Evtl. im Tagungsraum-Bereich des Ling-Bao? [Wang Wei](https://www.phantasialand.de/files/uploads/business-to-pleasure/documents/factsheets/factsheet_wang_wei.pdf) [Fuxing](https://www.phantasialand.de/files/uploads/business-to-pleasure/documents/factsheets/factsheet_fuxing.pdf) [Shouxing](https://www.phantasialand.de/files/uploads/business-to-pleasure/documents/factsheets/factsheet_shouxing.pdf) etc.
