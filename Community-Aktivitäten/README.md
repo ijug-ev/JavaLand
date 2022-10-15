@@ -86,3 +86,58 @@ Ausstattung:
 - Eine Möglichkeit, das Fahrrad für die Dauer der Teilnahme an der JavaLand sicher und geschützt einzustellen.
 - Einen Slot im JUG-Cafe für die Java User Group Switzerland als Treffpunkt für alle Fahrradfahrenden zum Austausch. Free Coffee, Beer, Ice Cream by JUG.CH...
 
+## Coding Dojo: Die sieben Schulen der TDD (JUG Darmstadt: [*Sebastian Rose*](https://twitter.com/srose204)) unterstützt von [*Marco Emrich*](https://twitter.com/marcoemrich))
+
+In diesem Coding Dojo wollen wir uns dem Thema Testgetriebene Softwareentwicklung (TDD) widmen.
+Nach einem knackigen Intro zu TDD allgemein, landen wir bei einer Liste von möglichen Schulen.
+Diese Schulen unterscheiden sich im genauen Vorgehen und bieten unterschiedliche Schwerpunkte, Stärken und Schwächen.
+Wir werden Vertiefungen für die Schulen "Chicago", "London", "Munich", "St. Pauli", "as if you mean it", "Hamburg" vorbereitet dabei haben.
+
+Wir iterieren dann gemeinsam und vertiefen eine ausgewählte Schule.
+Welche Schule wir vertiefen entscheiden wir gemeinsam.
+Die Teilnehmer werden dazu in Paaren arbeiten und jede Schule in vorbereiteten Code Katas selbst ausprobieren.
+Pro Iteration werden min. 20 Minuten selbst machen angestrebt.
+Wir wollen versuchen drei Schulen zu schaffen.
+
+### Ablauf
+
+Intro:
+10 min - Intro 
+
+---
+
+5 min. - Auswahl
+
+---
+
+5-10 min. - Vorstellen als Slides & Vorführung
+20-25 min. - Selber machen
+
+---
+
+10 min Abschluss
+
+### Weitere Details
+
+**Es bestehen keine besonderen Teilenahmevoraussetzungen! Ein Rechner mit lauffähiger IDE, Java 17 und einem Buildtool deiner Wahl. Vorbereitetes git-Repo downloaden und Ausführung getestet**
+
+Wunsch-Slot: Anreisetag Abends.
+
+Dauer: 2,5 Stunden.
+
+Ausstattung: Raum für ca. 20 Personen mit Sitzgelegenheiten; Beamer für die Vorführungen und Kurzpräsentationen. Jeder braucht Platz für sein Laptop um mitmachen zu können. Strom und WLAN 
+
+
+## Architecture Kata (JUG Darmstadt: [*Sebastian Rose*](https://twitter.com/srose204), [*Alexander Schwartz*](https://twitter.com/ahus1de))
+
+Beschreibung: Als ArchitektInnen oder EntwicklerInnen bauen wir Systemarchitekturen und bekommen meist erst am Ende des Projekts Feedback, ob es so funktionierte oder nicht. In diesem Architektur Dojo ist das anders: Bereits nach einer halben Stunde präsentiert ihr euren Entwurf, bekommt Feedback und könnt die Lösung anschließend verbessern! Bearbeitet jenseits von eingetretenen Pfaden des Projektalltags gemeinsam mit anderen eine Architekturaufgabe. Übt es, Architekturen und Architekturentscheidungen zu präsentieren und zu begründen!
+
+Vorlage für uns sind die Architektur Katas von Neal Ford (http://nealford.com/katas/about.html). Mehrere Gruppen zu je 3-5 Personen entwerfen eine Architektur für eine vorgegebene Aufgabe. Danach stellen sich die Gruppen ihre Lösungen gegenseitig vor und bekommen Feedback. In der nächsten Iteration arbeiten sie Anregungen und Fragen ein und präsentieren ihre angepasste Lösung erneut.
+
+Teilnahmevoraussetzungen: Spaß am Austausch mit anderen zu Architekturthemen!
+
+Wunsch-Slot: Anreisetag Abends.
+
+Dauer: 2,5 Stunden.
+
+Ausstattung: Papier/Whiteboard/Flipchart/irgendwas zum Malen. Gruppentische a max 5-6 Teilnehmer pro Gruppe. Bis zu 8 Tische.
