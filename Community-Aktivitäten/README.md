@@ -141,3 +141,13 @@ Wunsch-Slot: Anreisetag Abends.
 Dauer: 2,5 Stunden.
 
 Ausstattung: Papier/Whiteboard/Flipchart/irgendwas zum Malen. Gruppentische a max 5-6 Teilnehmer pro Gruppe. Bis zu 8 Tische.
+
+## Platzhalter (JUG Dortmund: [*Hendrik Ebbers*](https://twitter.com/hendrikEbbers), JUG Freiburg: [*Michael Heinrichs*](https://twitter.com/net0pyr))
+
+Wir planen ein Hands-On Lab. Aktuell arbeiten wir noch am Abstrakt / genauen Inhalt aber ich wollte es schon einmal eintragen :) Das ganze soll als Hack-Session in Gruppenarbeit (jeweils 2-4 Personen) erfolgen.
+
+Teilnahmevoraussetzungen: Je Gruppen sollte ein Laptop mit Docker (Docker-Compose), aktueller Java-Version und IDE (Maven Build muss. laufen) vorhanden sein.
+
+Wunsch-Slot: Nicht wenn die Achterbahnen auf haben :)
+
+Dauer: 2 Stunden.
