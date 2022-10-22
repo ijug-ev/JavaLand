@@ -142,6 +142,38 @@ Dauer: 2,5 Stunden.
 
 Ausstattung: Papier/Whiteboard/Flipchart/irgendwas zum Malen. Gruppentische a max 5-6 Teilnehmer pro Gruppe. Bis zu 8 Tische.
 
+## Community Unkonferenz ([JUG Darmstadt](https://www.jug-da.de/): [Gerd Aschemann](https://github.com/ascheman), [JUG Stuttgart](https://www.jugs.org/): [Tobias Frech](https://github.com/JOpsDev))
+
+Zum Einstimmung auf die Konferenz: Bringt Eure Themen mit und wir starten am Vorabend der Konferenz mit einer [Runde lockerer 
+Diskussionen](https://de.wikipedia.org/wiki/Tagung#Unkonferenz) mit Gleichgesinnten.
+
+Dauer: 3 Stunden
+
+Voraussetzungen: Interesse am Austausch mit Anderen, eigene Ideen und Gedanken gerne mitbringen und teilen. Alle sind willkommen. Der [Verhaltenskodex der JavaLand](https://www.javaland.eu/de/verhaltenscodex/) gilt natürlich auch hier.
+
+### Ablauf
+
+15 Min - Intro (Konzept und Regeln erklären)
+
+15 Min - Marktplatz (Vorstellen, Plan, Testlauf)
+
+60 Min - Slot 1 alle Räume
+
+60 Min - Slot 2 alle Räume
+
+15 Min - Wrap-Up
+
+
+### Wunsch-Slot
+Montag vor der Konferenz, 16:00-18:45 Uhr.
+
+### Ausstattung
+Drei oder mehr Räume.
+Pro Raum: ein Flipchart oder eine Pin-Wand mit Flip-Chart-Papier, große Karten/große Post-Its, Stifte.
+
+Best case: im Tagungsraum-Bereich des Ling-Bao [Wang Wei](https://www.phantasialand.de/files/uploads/business-to-pleasure/documents/factsheets/factsheet_wang_wei.pdf) [Fuxing](https://www.phantasialand.de/files/uploads/business-to-pleasure/documents/factsheets/factsheet_fuxing.pdf) [Shouxing](https://www.phantasialand.de/files/uploads/business-to-pleasure/documents/factsheets/factsheet_shouxing.pdf) etc.
+
+
 ## Platzhalter (JUG Dortmund: [*Hendrik Ebbers*](https://twitter.com/hendrikEbbers), JUG Freiburg: [*Michael Heinrichs*](https://twitter.com/net0pyr))
 
 Wir planen ein Hands-On Lab. Aktuell arbeiten wir noch am Abstrakt / genauen Inhalt aber ich wollte es schon einmal eintragen :) Das ganze soll als Hack-Session in Gruppenarbeit (jeweils 2-4 Personen) erfolgen.
