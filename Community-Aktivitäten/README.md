@@ -211,3 +211,17 @@ Keine speziellen
 
 ### Ausstattung
 Tische mit Stühlen, Flipchart (gern auch mehrere), Beamer, Strom, WLAN
+
+## Developer on the Stage - Zusammen mit erfahrenen Speakern deinen ersten eigenen Vortrag entwickeln! (JUG Darmstadt: Sergej Tihonov, Falk Sippach; JUG Ostfalen: Steven Schwenke)
+
+Beschreibung: 
+
+Vorträge zu halten ist in der IT Community eine der wichtigsten Mittel, Wissen zu verteilen. Zusätzlich dazu erhöht der Sprecher seine eigene Sichtbarkeit und wird als Experte in seinem Thema wahrgenommen. Das sind nur zwei der vielen Vorteile eines Konferenz- oder Community-Event Vortrags. In diesem Community-Event lernst du von gleich drei sehr erfahrenen Speakern, wie du dein ganz individuelles Thema findest, dich umfassend auf deinen Auftritt vorbereitest und erfolgreich vorträgst. Anschließend werfen wir noch einen Blick auf die oft vernachlässigte Nachbereitung und auf Materialien, die dir dabei helfen, ein erfolgreicher Speaker zu werden. Dabei nehmen wir uns die Zeit, erste inhaltliche Ideen für deinen Vortrag zu entwickeln und ausführlich Fragen zu beantworten. Am Ende hast du nicht nur ganz konkrete inhaltliche Ansätze für deinen ersten eigenen Vortrag, sondern weißt auch genau, wie du dich organisatorisch vorbereiten solltest.
+
+Teilnahmevoraussetzungen: keine.
+
+Dauer: 1h.
+
+Wunsch-Zeitslot: Gern wieder im Anschluss an einen thematisch zugehörigen Vortrag. Im letzten Jahr hatten wir zunächst den Vortrag am späten Nachmittag und dann die Diskussionsrunde direkt im Anschluss.
+
+Ausstattung: ein Vortragsraum oder eines der Cafés.
