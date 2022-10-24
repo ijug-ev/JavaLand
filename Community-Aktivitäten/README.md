@@ -186,3 +186,28 @@ Vorraussetzung: Wenn der [Setup der DocToolchain](http://doctoolchain.org/docToo
 Wunsch-Slot: nicht abends
 
 Ausstattung: Ein Beamer, Strom
+
+## Flexible Softwarearchitektur mit der Clean Architecture ([JUG Darmstadt](https://www.jug-da.de/): Matthias Eschhold und Falk Sippach)
+
+Flexible Geschäftsmodelle benötigen flexible Softwarearchitekturen. Setzt die Softwarearchitektur die Bedürfnisse der fachlichen Domäne optimal um, können entscheidende Wettbewerbsvorteile erzielt werden. Neben einer fachlichen Ausrichtung der Softwarearchitektur werden Architekturmuster benötigt, die "Design for Change" und weiterführend "Flexibility by Design" unterstützen.
+Die Clean Architecture verspricht eine Entkopplung der fachlichen Domäne von infrastrukturellen Aspekten. Dies ist die Basis für eine flexible Softwarearchitektur. Die zu Grunde liegende Idee von Ports und Adapters ist mächtig und hilft technische und fachliche in der Anwendungsarchitektur zu realisieren.
+
+In diesem Community-Workshop werden wir uns die Kernaspekte der Clean Architecture mit verschiedenen praktischen Übungen gemeinsam erarbeiten. Ihr erhaltet ein tiefgehendes Verständnis und könnt einschätzen, wann der Einsatz der Clean Architecture zielführend ist und wie ihr sie auf der technischen Ebene realisiert. Anhand von Codebeispielen in Java diskutieren wir Vorteile, Nachteile sowie Kompromisse für pragmatische Lösungen.
+
+Lernziele:
+
+* Die Probleme der Schichtenarchitektur erkennen und ihnen mittels Ports & Adapter sowie fachlicher Modularisierung begegnen können
+* Die Clean Architecture implementieren sowie diese Architekturmuster unterscheiden können
+* Unterschiedliche Modularisierungsvarianten und Mappingsstrategien für die Clean Architecture anwenden können
+
+### Dauer
+2 h (bzw. 1h 45 min)
+
+### Wunsch-Slot
+Dienstag oder Mittwoch, tagsüber
+
+### Teilnahmevoraussetzungen
+Keine speziellen
+
+### Ausstattung
+Tische mit Stühlen, Flipchart (gern auch mehrere), Beamer, Strom, WLAN
