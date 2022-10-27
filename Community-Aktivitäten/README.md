@@ -183,6 +183,6 @@ Dauer: 2h
 
 Vorraussetzung: Wenn der [Setup der DocToolchain](http://doctoolchain.org/docToolchain/v2.0.x/020_tutorial/010_Install.html) schonmal fertig ist sparen wir uns Zeit für den interessanten Part ;)
 
-Wunsch-Slot: nicht abends
+Wunsch-Slot: Di oder Mi, nicht abends
 
 Ausstattung: Ein Beamer, Strom
