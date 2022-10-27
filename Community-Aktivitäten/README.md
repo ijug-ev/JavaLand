@@ -173,7 +173,7 @@ Pro Raum: ein Flipchart oder eine Pin-Wand mit Flip-Chart-Papier, große Karten/
 
 Best case: im Tagungsraum-Bereich des Ling-Bao [Wang Wei](https://www.phantasialand.de/files/uploads/business-to-pleasure/documents/factsheets/factsheet_wang_wei.pdf) [Fuxing](https://www.phantasialand.de/files/uploads/business-to-pleasure/documents/factsheets/factsheet_fuxing.pdf) [Shouxing](https://www.phantasialand.de/files/uploads/business-to-pleasure/documents/factsheets/factsheet_shouxing.pdf) etc.
 
-## Let's try: docToolchain
+## Let's try: docToolchain ([EuregJUG Maas-Rhine](http://www.euregjug.eu/): [Merlin Bögershausen](https://github.com/mboegers))
 Beschreibung: Ausprobieren ist in der Gruppe immer einfacher und lustiger!
 Lass uns zusammen die [docToolchain](http://doctoolchain.org/docToolchain/v2.0.x/) ausprobieren und nutzen lernen.
 Wir werden versuchen einige Standardanforderungen an Dokumentationsprozesse umzusetzen, um uns selbst eine Meinung zu bilden.
