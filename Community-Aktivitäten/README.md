@@ -150,11 +150,13 @@ Vorkenntnisse in Clojure sind nicht notwendig.
 
 - Ablauf: Intro in Clojure, danach geht's ins gemeinsame Coden auf den eigenen Laptops. Dabei werden wir euch unterstützen.  
 - Dauer: 2 Stunden  
-- Anforderungen:  
-	- Eigener Notebook (oder Zusammenarbeit mit dem:der Nachbar:in)  
-	- [Clojure installieren](https://clojure.org/guides/install_clojure)  
-	- [VSCode](https://code.visualstudio.com/) / [VSCodium](https://vscodium.com/) installieren  
-		- Das Plugin [Calva](https://calva.io/) installieren  
+- Anforderungen an die Teilnehmer:innen:  
+  - Eigener Notebook (oder Zusammenarbeit mit dem:der Nachbar:in)  
+  - [Clojure installieren](https://clojure.org/guides/install_clojure)  
+  - [VSCode](https://code.visualstudio.com/) / [VSCodium](https://vscodium.com/) installieren  
+  - Das Plugin [Calva](https://calva.io/) installieren  
+
+Anforderungen an den Ort: W-LAN mit Internetzugang, Bildschirm für Intro, Gruppenarbeitstische, Steckdosen
 
 ## Community Unkonferenz ([JUG Darmstadt](https://www.jug-da.de/): [Gerd Aschemann](https://github.com/ascheman), [JUG Stuttgart](https://www.jugs.org/): [Tobias Frech](https://github.com/JOpsDev))
 
