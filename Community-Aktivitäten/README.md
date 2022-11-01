@@ -142,6 +142,22 @@ Dauer: 2,5 Stunden.
 
 Ausstattung: Papier/Whiteboard/Flipchart/irgendwas zum Malen. Gruppentische a max 5-6 Teilnehmer pro Gruppe. Bis zu 8 Tische.
 
+## Clojure Workshop (Clojure UG Düsseldorf [Christian Meter](https://github.com/n2o), [Björn Ebbinghaus](https://github.com/MrEbbinghaus))
+
+Wir werden in dem Workshop die Grundlagen von Clojure kennenlernen und uns danach entweder mit dem Lösen von kleinen Aufgaben befassen oder sogar einen eigenen Microservice entwickeln den wir mit Daten füttern, um eine OpenGraph-Bilddatei zu erzeugen und auszuliefern. Daten rein, Bild raus, fertig.  
+
+Vorkenntnisse in Clojure sind nicht notwendig.
+
+- Ablauf: Intro in Clojure, danach geht's ins gemeinsame Coden auf den eigenen Laptops. Dabei werden wir euch unterstützen.  
+- Dauer: 2 Stunden  
+- Anforderungen an die Teilnehmer:innen:  
+  - Eigener Notebook (oder Zusammenarbeit mit dem:der Nachbar:in)  
+  - [Clojure installieren](https://clojure.org/guides/install_clojure)  
+  - [VSCode](https://code.visualstudio.com/) / [VSCodium](https://vscodium.com/) installieren  
+  - Das Plugin [Calva](https://calva.io/) installieren  
+
+Anforderungen an den Ort: W-LAN mit Internetzugang, Bildschirm für Intro, Gruppenarbeitstische, Steckdosen
+
 ## Community Unkonferenz ([JUG Darmstadt](https://www.jug-da.de/): [Gerd Aschemann](https://github.com/ascheman), [JUG Stuttgart](https://www.jugs.org/): [Tobias Frech](https://github.com/JOpsDev))
 
 Zum Einstimmung auf die Konferenz: Bringt Eure Themen mit und wir starten am Vorabend der Konferenz mit einer [Runde lockerer 
