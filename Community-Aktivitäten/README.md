@@ -142,9 +142,13 @@ Dauer: 2,5 Stunden.
 
 Ausstattung: Papier/Whiteboard/Flipchart/irgendwas zum Malen. Gruppentische a max 5-6 Teilnehmer pro Gruppe. Bis zu 8 Tische.
 
-## Clojure Workshop (Clojure UG Düsseldorf [Christian Meter](https://github.com/n2o), [Björn Ebbinghaus](https://github.com/MrEbbinghaus))
+## Functional Fun (Clojure UG Düsseldorf [Christian Meter](https://github.com/n2o), [Björn Ebbinghaus](https://github.com/MrEbbinghaus), [Jens Bendisposto](https://github.com/bendisposto))
 
-Wir werden in dem Workshop die Grundlagen von Clojure kennenlernen und uns danach entweder mit dem Lösen von kleinen Aufgaben befassen oder sogar einen eigenen Microservice entwickeln den wir mit Daten füttern, um eine OpenGraph-Bilddatei zu erzeugen und auszuliefern. Daten rein, Bild raus, fertig.  
+Wir werden hier die Grundlagen von Clojure kennenlernen und uns danach entweder mit dem Lösen von kleinen Aufgaben befassen oder sogar einen eigenen Microservice entwickeln den wir mit Daten füttern, um eine OpenGraph-Bilddatei zu erzeugen und auszuliefern. Daten rein, Bild raus, fertig. Analog wie GitHub sie erzeugt, wenn ihr einen Link teilt, hier ein Beispiel:
+
+<a href="https://opengraph.githubassets.com/be53870f72572bdbeebe33482e7fcea3c1e6f5bdf83a8e3e6aa3ea1eb7e65eeb/n2o/reveal-cljs">
+  <img width="250px" src="https://opengraph.githubassets.com/be53870f72572bdbeebe33482e7fcea3c1e6f5bdf83a8e3e6aa3ea1eb7e65eeb/n2o/reveal-cljs">
+</a>
 
 Vorkenntnisse in Clojure sind nicht notwendig.
 
