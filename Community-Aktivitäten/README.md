@@ -258,3 +258,47 @@ Dienstag oder Mittwoch, tagsüber - gerne auch (zusätzlich) am Montag im Vorpgr
 
 ### Ausstattung
 Tische mit Stühlen, Beamer, Strom, WLAN
+
+## Die "Java by Comparison" Kata ([JUG Darmstadt](https://www.jug-da.de/): Simon Harrer, Sebastian Rose und Falk Sippach)
+
+Code Katas sind eine gute Methode, um das Schreiben von sauberen Code zu lernen. In unserer zweistündigen Übung werden die Java by Comparison-Methode anwenden, um unseren fiktiven, absichtlich verschlimmerten Legacy-Code zu bereinigen.
+
+Unser Ziel ist es, eine der wichtigsten Fähigkeiten für einen professionellen Entwickler zu trainieren: problematischen Code auch in kleinen Zeitfenstern effektiv zu verbessern.
+
+Ablauf:
+* 15 min Intro
+* 120 min Arbeit
+* 15 min Abschluss + Diskussion
+
+### Dauer
+2,5 h
+
+### Wunsch-Slot
+Montag nachmittag vor dem Speaker-Dinner
+
+### Teilnahmevoraussetzungen
+Java-Enwickler
+
+### Ausstattung
+Tische mit Stühlen, Flipchart, Beamer, Strom, WLAN
+
+## Kreativ durch die JavaLand - das etwas andere Event für Zwischendurch (Lisa Moritz (JUG Darmstadt), Nora Schöner (JUG Nürnberg))
+
+Du brauchst eine kreative Pause vom hektischen Konferenzalltag, willst deine Gedanken zur letzten Session kreativ festhalten oder deine ganz persönliche Javaland-Erinnerung gestalten? Dann bist du bei uns gold-richtig!  
+
+Wir bieten dir eine Kreativ-Ecke, bei der du alles findest, was du benötigst um deine(n) Tag(e) auf der Javaland noch bunter zu gestalten.
+
+Eine Einführung in das Thema Sketch-Notes!
+-> Erkunden mit Lisa (https://www.sketchnotes.tech/) die Welt der Sketchnotes. Du erfährst, was Sketchnotes sind, und wie du sie in deinen Arbeitsalltag integrieren kannst. Du bist hier richtig, wenn du deine Notizen endlich hilfreicher gestalten möchtest. Dafür brauchst du keine 1 in Kunst, sondern einfach nur Lust, mal etwas Neues auszuprobieren.
+
+Erweitere deine Sketch-Notes mit einem coolen Mini-Me von dir selbst oder der Speaker*innen!
+-> Nora zeigt dir wie du Personen in deinen Notizen hervorheben oder dich selbst als Mini-Me mit wenig Aufwand zeichnen kannst. 
+
+Und außerdem genügend Material um dir deine ganz persönliche Javaland-Badge zu gestalten. 
+
+Wir treffen uns alle zwei Stunden in der Community Hall und zeigen dir die besten Tipps und Tricks, um deine Notizen mit markanten und hilfreichen Symbolen aufzuwerten. Außerdem geben wir dir die wichtigsten Grundlagen mit, so dass du in der nächsten Session auf der Javaland gleich loslegen kannst. An die Stifte, fertig, los!
+
+### Hinweis an die Organisatoren: 
+Wir bieten das Sketchnoting + Mini-Me Zeichnen jeweils 3x am Dienstag und Mittwoch an. Die genauen Zeiten klären wir nach Absprache (z. B. 11 Uhr, 13 Uhr, 15 Uhr). Zusätzlich wollen wir zwischen den Zeiten den Raum für eine kreative Pause für alle Teilnehmenden bereitstellen.
+Wir benötigen einen Tisch in der Community Halle, 1 Flipchart und Blöcke/Stifte.
+
