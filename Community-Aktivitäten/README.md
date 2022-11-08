@@ -302,3 +302,16 @@ Wir treffen uns alle zwei Stunden in der Community Hall und zeigen dir die beste
 Wir bieten das Sketchnoting + Mini-Me Zeichnen jeweils 3x am Dienstag und Mittwoch an. Die genauen Zeiten klären wir nach Absprache (z. B. 11 Uhr, 13 Uhr, 15 Uhr). Zusätzlich wollen wir zwischen den Zeiten den Raum für eine kreative Pause für alle Teilnehmenden bereitstellen.
 Wir benötigen einen Tisch in der Community Halle, 1 Flipchart und Blöcke/Stifte.
 
+## Responsive Anwendungen mit Kotlin Multiplatform ([JUG Darmstadt](https://www.jug-da.de/): [Michal Harakal](michal@harakal.de) und [Alexander von Below](alex@vonbelow.com))
+
+Mit fortgeschrittener Digitalisierung wachsen Anforderungen auch an HMI-Anwendungen (Human Machine Interface) in verschiedenen industriellen Bereichen. Nicht nur sicher, zuverlässig und schlank – auch modern, gutaussehend und vernetzt sollten sie sein. In diesem Hand-on-Workshop bauen wir eine einfache JVM Desktop App, die mit einem echten Gerät (Arduino) kommuniziert und schauen uns die
+Stärken von Kotlin und Kotlin Multiplatform an. Wir lernen, wie man einfach mehrere Plattformen (Desktop  und  Mobil, besonders mit  Fokus  auf  Betriebssysteme  von  Apple) ohne Kompromisse unterstützen kann, wie wunderbar die Interoperabilität zwischen Kotlin und JVM funktioniert und wie deklarative UI Frameworks, wie  Jetpack Compose und Swift UI, die Art und Weise verändern, wie man reaktive Bedienoberfläche heutzutage entwickelt.
+
+### Dauer
+3 h
+
+### Teilnahmevoraussetzungen
+Java-/Kotlin-Enwickler
+
+### Ausstattung
+Tische mit Stühlen, Flipchart, Beamer, Strom, WLAN
