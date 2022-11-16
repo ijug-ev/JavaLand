@@ -142,6 +142,26 @@ Dauer: 2,5 Stunden.
 
 Ausstattung: Papier/Whiteboard/Flipchart/irgendwas zum Malen. Gruppentische a max 5-6 Teilnehmer pro Gruppe. Bis zu 8 Tische.
 
+## Functional Fun (Clojure UG Düsseldorf [Christian Meter](https://github.com/n2o), [Björn Ebbinghaus](https://github.com/MrEbbinghaus), [Jens Bendisposto](https://github.com/bendisposto))
+
+Wir werden hier die Grundlagen von Clojure kennenlernen und uns danach entweder mit dem Lösen von kleinen Aufgaben befassen oder sogar einen eigenen Microservice entwickeln den wir mit Daten füttern, um eine OpenGraph-Bilddatei zu erzeugen und auszuliefern. Daten rein, Bild raus, fertig. Analog wie GitHub sie erzeugt, wenn ihr einen Link teilt, hier ein Beispiel:
+
+<a href="https://opengraph.githubassets.com/be53870f72572bdbeebe33482e7fcea3c1e6f5bdf83a8e3e6aa3ea1eb7e65eeb/n2o/reveal-cljs">
+  <img width="250px" src="https://opengraph.githubassets.com/be53870f72572bdbeebe33482e7fcea3c1e6f5bdf83a8e3e6aa3ea1eb7e65eeb/n2o/reveal-cljs">
+</a>
+
+Vorkenntnisse in Clojure sind nicht notwendig.
+
+- Ablauf: Intro in Clojure, danach geht's ins gemeinsame Coden auf den eigenen Laptops. Dabei werden wir euch unterstützen.  
+- Dauer: 2 Stunden  
+- Anforderungen an die Teilnehmer:innen:  
+  - Eigener Notebook (oder Zusammenarbeit mit dem:der Nachbar:in)  
+  - [Clojure installieren](https://clojure.org/guides/install_clojure)  
+  - [VSCode](https://code.visualstudio.com/) / [VSCodium](https://vscodium.com/) installieren  
+  - Das Plugin [Calva](https://calva.io/) installieren  
+
+Anforderungen an den Ort: W-LAN mit Internetzugang, Bildschirm für Intro, Gruppenarbeitstische, Steckdosen
+
 ## Community Unkonferenz ([JUG Darmstadt](https://www.jug-da.de/): [Gerd Aschemann](https://github.com/ascheman), [JUG Stuttgart](https://www.jugs.org/): [Tobias Frech](https://github.com/JOpsDev))
 
 Zum Einstimmung auf die Konferenz: Bringt Eure Themen mit und wir starten am Vorabend der Konferenz mit einer [Runde lockerer 
@@ -173,7 +193,6 @@ Pro Raum: ein Flipchart oder eine Pin-Wand mit Flip-Chart-Papier, große Karten/
 
 Best case: im Tagungsraum-Bereich des Ling-Bao [Wang Wei](https://www.phantasialand.de/files/uploads/business-to-pleasure/documents/factsheets/factsheet_wang_wei.pdf) [Fuxing](https://www.phantasialand.de/files/uploads/business-to-pleasure/documents/factsheets/factsheet_fuxing.pdf) [Shouxing](https://www.phantasialand.de/files/uploads/business-to-pleasure/documents/factsheets/factsheet_shouxing.pdf) etc.
 
-
 ## Wir entwickeln den Javaland Coin (JUG Dortmund: [*Hendrik Ebbers*](https://twitter.com/hendrikEbbers), JUG Freiburg: [*Michael Heinrichs*](https://twitter.com/net0pyr))
 
 In den letzten Jahren sind Distributed-Ledger-Technologien wie Blockchain und Hashgraph ein Teil unserer modernen Welt geworden. Auf dieser Basis können mit Hilfe von Smart Contracts und Tokens unterschiedlichste Use Cases umgesetzt werden. Auch wenn manche dieser Use Cases wie der Verkauf von generierten Affen-PNGs eher fragwürdig ist, gibt es auch wirklich sinnvolle Szenarien in denen die Technologien zum Einsatz kommen.
@@ -189,3 +208,69 @@ Ausstattung: Raum für ca. 10-16 Personen mit Sitzgelegenheiten; Beamer für die
 Wunsch-Slot: Nicht wenn die Achterbahnen auf haben :)
 
 Dauer: 2 Stunden.
+
+## Let's try: docToolchain ([EuregJUG Maas-Rhine](http://www.euregjug.eu/): [Merlin Bögershausen](https://github.com/mboegers))
+Beschreibung: Ausprobieren ist in der Gruppe immer einfacher und lustiger!
+Lass uns zusammen die [docToolchain](http://doctoolchain.org/docToolchain/v2.0.x/) ausprobieren und nutzen lernen.
+Wir werden versuchen einige Standardanforderungen an Dokumentationsprozesse umzusetzen, um uns selbst eine Meinung zu bilden.
+Hast du evtl. sogar etwas Interessantes aus deinen Projekten parat?
+
+Dauer: 2h
+
+Vorraussetzung: Wenn der [Setup der DocToolchain](http://doctoolchain.org/docToolchain/v2.0.x/020_tutorial/010_Install.html) schonmal fertig ist sparen wir uns Zeit für den interessanten Part ;)
+
+Wunsch-Slot: Di oder Mi, nicht abends
+
+Ausstattung: Ein Beamer, Strom
+
+## Flexible Softwarearchitektur mit der Clean Architecture ([JUG Darmstadt](https://www.jug-da.de/): Matthias Eschhold und Falk Sippach)
+
+Flexible Geschäftsmodelle benötigen flexible Softwarearchitekturen. Setzt die Softwarearchitektur die Bedürfnisse der fachlichen Domäne optimal um, können entscheidende Wettbewerbsvorteile erzielt werden. Neben einer fachlichen Ausrichtung der Softwarearchitektur werden Architekturmuster benötigt, die "Design for Change" und weiterführend "Flexibility by Design" unterstützen.
+Die Clean Architecture verspricht eine Entkopplung der fachlichen Domäne von infrastrukturellen Aspekten. Dies ist die Basis für eine flexible Softwarearchitektur. Die zu Grunde liegende Idee von Ports und Adapters ist mächtig und hilft technische und fachliche in der Anwendungsarchitektur zu realisieren.
+
+In diesem Community-Workshop werden wir uns die Kernaspekte der Clean Architecture mit verschiedenen praktischen Übungen gemeinsam erarbeiten. Ihr erhaltet ein tiefgehendes Verständnis und könnt einschätzen, wann der Einsatz der Clean Architecture zielführend ist und wie ihr sie auf der technischen Ebene realisiert. Anhand von Codebeispielen in Java diskutieren wir Vorteile, Nachteile sowie Kompromisse für pragmatische Lösungen.
+
+Lernziele:
+
+* Die Probleme der Schichtenarchitektur erkennen und ihnen mittels Ports & Adapter sowie fachlicher Modularisierung begegnen können
+* Die Clean Architecture implementieren sowie diese Architekturmuster unterscheiden können
+* Unterschiedliche Modularisierungsvarianten und Mappingsstrategien für die Clean Architecture anwenden können
+
+### Dauer
+2 h (bzw. 1h 45 min)
+
+### Wunsch-Slot
+Dienstag oder Mittwoch, tagsüber
+
+### Teilnahmevoraussetzungen
+Keine speziellen
+
+### Ausstattung
+Tische mit Stühlen, Flipchart (gern auch mehrere), Beamer, Strom, WLAN
+
+## Developer on the Stage - Zusammen mit erfahrenen Speakern deinen ersten eigenen Vortrag entwickeln! (JUG Darmstadt: Sergej Tihonov, Falk Sippach; JUG Ostfalen: Steven Schwenke)
+
+Beschreibung: 
+
+Vorträge zu halten ist in der IT Community eine der wichtigsten Mittel, Wissen zu verteilen. Zusätzlich dazu erhöht der Sprecher seine eigene Sichtbarkeit und wird als Experte in seinem Thema wahrgenommen. Das sind nur zwei der vielen Vorteile eines Konferenz- oder Community-Event Vortrags. In diesem Community-Event lernst du von gleich drei sehr erfahrenen Speakern, wie du dein ganz individuelles Thema findest, dich umfassend auf deinen Auftritt vorbereitest und erfolgreich vorträgst. Anschließend werfen wir noch einen Blick auf die oft vernachlässigte Nachbereitung und auf Materialien, die dir dabei helfen, ein erfolgreicher Speaker zu werden. Dabei nehmen wir uns die Zeit, erste inhaltliche Ideen für deinen Vortrag zu entwickeln und ausführlich Fragen zu beantworten. Am Ende hast du nicht nur ganz konkrete inhaltliche Ansätze für deinen ersten eigenen Vortrag, sondern weißt auch genau, wie du dich organisatorisch vorbereiten solltest.
+
+Teilnahmevoraussetzungen: keine.
+
+Dauer: 1h.
+
+Wunsch-Zeitslot: Gern wieder im Anschluss an einen thematisch zugehörigen Vortrag. Im letzten Jahr hatten wir zunächst den Vortrag am späten Nachmittag und dann die Diskussionsrunde direkt im Anschluss.
+
+Ausstattung: ein Vortragsraum oder eines der Cafés.
+
+## "Java 20 ruft JDK 1..20 Tools" Workshop ([JUG Bonn](https://github.com/jug-bonn): Christian Stein)
+
+Beschreibung: In diesem Workshop wird mit Java 20 ein Programm entwickelt (passend zum Launch von Java 20 am 21. März 2023), mit dem aktuelle und alt-bekannte Java Tools ausgeführt werden können. Dadurch lernen Teilnehmer sowohl modernes Java kennen; und können auch den Umgang mit der Kommandozeile und interaktiven JShell üben. Das Java Development Kit (JDK) bringt seit seiner ersten Version eine ganze Reihe von Tools mit. Mit deren Hilfe können wir Java-Projekte bauen: kompilieren, dokumentieren verpacken, und vieles mehr. Wir werden uns zunächst einen Überblick über all die nützlichen Tools verschaffen, und die wesentlichen Tools und deren Optionen etwas genauer anschauen. Dabei stehen uns die ausführliche Spezifikationen und auch die direkte Erprobung der Tools via JShell zur Seite. Mit diesem Wissen und dem in Java 9 bereits eingeführten ToolProvider SPI rufen wir dann einige dieser Tools direkt aus Java heraus auf. Native und externe Tools werden mittels einer im Workshop erabeitenden ToolFinder SPI eingebunden. Dabei kommt der "Launch Single-File Source-Code Programs"-Mechanismus aus Java 11 zum Einsatz. Bei der Implementierung kann jeder Teilnehmer die kurz zuvor auf der Konferenz vorgestellten neue Java Syntax und APIs einsetzen.
+
+### Dauer
+2 Stunden
+
+### Wunsch-Slot
+Dienstag oder Mittwoch, tagsüber - gerne auch (zusätzlich) am Montag im Vorpgrogramm
+
+### Ausstattung
+Tische mit Stühlen, Beamer, Strom, WLAN
