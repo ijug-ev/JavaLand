@@ -184,6 +184,8 @@ Auch wenn niemand im Workshop durch den “Javaland Coin” reich werden wird, w
 
 Teilnahmevoraussetzungen: Team-Arbeit ist bei diesem Hands-On Workshop erwünscht und auf den Rechnern sollte neben einer IDE mit Maven und Java 17 Support und auch Docker und Docker-Compose installiert sein. Kenntnisse in Smart Contracts oder deren Programmiersprache Solidity werden nicht benötigt, da wir dies im Workshop durchgehen werden.
 
+Ausstattung: Raum für ca. 10-16 Personen mit Sitzgelegenheiten; Beamer für die Vorführungen und Kurzpräsentationen. Teams brauchen Platz für den Laptop um mitmachen zu können. Strom und WLAN 
+
 Wunsch-Slot: Nicht wenn die Achterbahnen auf haben :)
 
 Dauer: 2 Stunden.
