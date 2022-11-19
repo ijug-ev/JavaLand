@@ -197,7 +197,7 @@ Best case: im Tagungsraum-Bereich des Ling-Bao [Wang Wei](https://www.phantasial
 
 Beschreibung: Der Raspberry Pico 2040 hat die Welt der Hardware-Bastler im Sturm erobert. 
 Lasst und ein wenig Zeit nehmen um diese faszinierende Welt zu erkunden. 
-Ich werde dazu ein paar [Tufty-2040](https://shop.pimoroni.com/products/tufty-2040?variant=40036912595027) mitbringen, die den Prozessor gleich mit einem Display und ein paar Buttons kombinieren.
+Ich werde dazu ein paar [Tufty-2040](https://shop.pimoroni.com/products/tufty-2040?variant=40036912595027) oder [Badger-2040](https://shop.pimoroni.com/products/badger-2040?variant=39752959885395) mitbringen, die den Prozessor gleich mit einem Display und ein paar Buttons kombinieren.
 
 *WICHTIG*: für die Hardware wird noch ein Sponsor benötigt - ohne wird es langweilig
 
@@ -206,7 +206,10 @@ Ich werde dazu ein paar [Tufty-2040](https://shop.pimoroni.com/products/tufty-20
 * gemeinsames Aufsetzen der Entwicklungsumgebung
 * Umsetzung eines ersten "Hello-World" Beispiels
 * Kurzvorstellung der features des Boards
-* Sammlung von weiteren Ideen
+* Sammlung von weiteren Ideen wie z.B.
+** Umsetzung eines Video-Spiels
+** Darstellung eines QR-Codes (JavaLand Eintritts-Code?)
+** Grafikdemo
 * Hacking in Gruppen um die Ideen zu besprechen und auszuprobieren
 
 Dauer: ca. 2h
