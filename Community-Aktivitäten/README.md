@@ -223,6 +223,7 @@ Wunsch-Slot: Di oder Mi, nicht abends
 
 Ausstattung: Ein Beamer, Strom
 
+
 ## Flexible Softwarearchitektur mit der Clean Architecture ([JUG Darmstadt](https://www.jug-da.de/): Matthias Eschhold und Falk Sippach)
 
 Flexible Geschäftsmodelle benötigen flexible Softwarearchitekturen. Setzt die Softwarearchitektur die Bedürfnisse der fachlichen Domäne optimal um, können entscheidende Wettbewerbsvorteile erzielt werden. Neben einer fachlichen Ausrichtung der Softwarearchitektur werden Architekturmuster benötigt, die "Design for Change" und weiterführend "Flexibility by Design" unterstützen.
@@ -248,6 +249,7 @@ Keine speziellen
 ### Ausstattung
 Tische mit Stühlen, Flipchart (gern auch mehrere), Beamer, Strom, WLAN
 
+
 ## Developer on the Stage - Zusammen mit erfahrenen Speakern deinen ersten eigenen Vortrag entwickeln! (JUG Darmstadt: Sergej Tihonov, Falk Sippach; JUG Ostfalen: Steven Schwenke)
 
 Beschreibung: 
@@ -262,6 +264,7 @@ Wunsch-Zeitslot: Gern wieder im Anschluss an einen thematisch zugehörigen Vortr
 
 Ausstattung: ein Vortragsraum oder eines der Cafés.
 
+
 ## "Java 20 ruft JDK 1..20 Tools" Workshop ([JUG Bonn](https://github.com/jug-bonn): Christian Stein)
 
 Beschreibung: In diesem Workshop wird mit Java 20 ein Programm entwickelt (passend zum Launch von Java 20 am 21. März 2023), mit dem aktuelle und alt-bekannte Java Tools ausgeführt werden können. Dadurch lernen Teilnehmer sowohl modernes Java kennen; und können auch den Umgang mit der Kommandozeile und interaktiven JShell üben. Das Java Development Kit (JDK) bringt seit seiner ersten Version eine ganze Reihe von Tools mit. Mit deren Hilfe können wir Java-Projekte bauen: kompilieren, dokumentieren verpacken, und vieles mehr. Wir werden uns zunächst einen Überblick über all die nützlichen Tools verschaffen, und die wesentlichen Tools und deren Optionen etwas genauer anschauen. Dabei stehen uns die ausführliche Spezifikationen und auch die direkte Erprobung der Tools via JShell zur Seite. Mit diesem Wissen und dem in Java 9 bereits eingeführten ToolProvider SPI rufen wir dann einige dieser Tools direkt aus Java heraus auf. Native und externe Tools werden mittels einer im Workshop erabeitenden ToolFinder SPI eingebunden. Dabei kommt der "Launch Single-File Source-Code Programs"-Mechanismus aus Java 11 zum Einsatz. Bei der Implementierung kann jeder Teilnehmer die kurz zuvor auf der Konferenz vorgestellten neue Java Syntax und APIs einsetzen.
@@ -274,6 +277,66 @@ Dienstag oder Mittwoch, tagsüber - gerne auch (zusätzlich) am Montag im Vorpgr
 
 ### Ausstattung
 Tische mit Stühlen, Beamer, Strom, WLAN
+
+
+## Die "Java by Comparison" Kata ([JUG Darmstadt](https://www.jug-da.de/): Simon Harrer, Sebastian Rose und Falk Sippach)
+
+Code Katas sind eine gute Methode, um das Schreiben von sauberen Code zu lernen. In unserer zweistündigen Übung werden die Java by Comparison-Methode anwenden, um unseren fiktiven, absichtlich verschlimmerten Legacy-Code zu bereinigen.
+
+Unser Ziel ist es, eine der wichtigsten Fähigkeiten für einen professionellen Entwickler zu trainieren: problematischen Code auch in kleinen Zeitfenstern effektiv zu verbessern.
+
+Ablauf:
+* 15 min Intro
+* 120 min Arbeit
+* 15 min Abschluss + Diskussion
+
+### Dauer
+2,5 h
+
+### Wunsch-Slot
+Montag nachmittag vor dem Speaker-Dinner
+
+### Teilnahmevoraussetzungen
+Java-Enwickler
+
+### Ausstattung
+Tische mit Stühlen, Flipchart, Beamer, Strom, WLAN
+
+
+## Kreativ durch die JavaLand - das etwas andere Event für Zwischendurch (Lisa Moritz (JUG Darmstadt), Nora Schöner (JUG Nürnberg))
+
+Du brauchst eine kreative Pause vom hektischen Konferenzalltag, willst deine Gedanken zur letzten Session kreativ festhalten oder deine ganz persönliche Javaland-Erinnerung gestalten? Dann bist du bei uns gold-richtig!  
+
+Wir bieten dir eine Kreativ-Ecke, bei der du alles findest, was du benötigst um deine(n) Tag(e) auf der Javaland noch bunter zu gestalten.
+
+Eine Einführung in das Thema Sketch-Notes!
+-> Erkunden mit Lisa (https://www.sketchnotes.tech/) die Welt der Sketchnotes. Du erfährst, was Sketchnotes sind, und wie du sie in deinen Arbeitsalltag integrieren kannst. Du bist hier richtig, wenn du deine Notizen endlich hilfreicher gestalten möchtest. Dafür brauchst du keine 1 in Kunst, sondern einfach nur Lust, mal etwas Neues auszuprobieren.
+
+Erweitere deine Sketch-Notes mit einem coolen Mini-Me von dir selbst oder der Speaker*innen!
+-> Nora zeigt dir wie du Personen in deinen Notizen hervorheben oder dich selbst als Mini-Me mit wenig Aufwand zeichnen kannst. 
+
+Und außerdem genügend Material um dir deine ganz persönliche Javaland-Badge zu gestalten. 
+
+Wir treffen uns alle zwei Stunden in der Community Hall und zeigen dir die besten Tipps und Tricks, um deine Notizen mit markanten und hilfreichen Symbolen aufzuwerten. Außerdem geben wir dir die wichtigsten Grundlagen mit, so dass du in der nächsten Session auf der Javaland gleich loslegen kannst. An die Stifte, fertig, los!
+
+### Hinweis an die Organisatoren: 
+Wir bieten das Sketchnoting + Mini-Me Zeichnen jeweils 3x am Dienstag und Mittwoch an. Die genauen Zeiten klären wir nach Absprache (z. B. 11 Uhr, 13 Uhr, 15 Uhr). Zusätzlich wollen wir zwischen den Zeiten den Raum für eine kreative Pause für alle Teilnehmenden bereitstellen.
+Wir benötigen einen Tisch in der Community Halle, 1 Flipchart und Blöcke/Stifte.
+
+
+## Responsive Anwendungen mit Kotlin Multiplatform ([JUG Darmstadt](https://www.jug-da.de/): [Michal Harakal](michal@harakal.de) und [Alexander von Below](alex@vonbelow.com))
+
+Mit fortgeschrittener Digitalisierung wachsen Anforderungen auch an HMI-Anwendungen (Human Machine Interface) in verschiedenen industriellen Bereichen. Nicht nur sicher, zuverlässig und schlank – auch modern, gutaussehend und vernetzt sollten sie sein. In diesem Hand-on-Workshop bauen wir eine einfache JVM Desktop App, die mit einem echten Gerät (Arduino) kommuniziert und schauen uns die
+Stärken von Kotlin und Kotlin Multiplatform an. Wir lernen, wie man einfach mehrere Plattformen (Desktop  und  Mobil, besonders mit  Fokus  auf  Betriebssysteme  von  Apple) ohne Kompromisse unterstützen kann, wie wunderbar die Interoperabilität zwischen Kotlin und JVM funktioniert und wie deklarative UI Frameworks, wie  Jetpack Compose und Swift UI, die Art und Weise verändern, wie man reaktive Bedienoberfläche heutzutage entwickelt.
+
+### Dauer
+3 h
+
+### Teilnahmevoraussetzungen
+Java-/Kotlin-Enwickler
+
+### Ausstattung
+Tische mit Stühlen, Flipchart, Beamer, Strom, WLAN
 
 
 ## JavaLand4"Große"Kids (Arbeitstitel) (JUGHamburg / [Kids4IT](http:://www.kids4it.de) / [*Fin Labusch*](mailto:fin@labusch.de))
@@ -303,5 +366,3 @@ Keine.
 
 ### Ablauf
 Kein fester Ablauf. Die Teilnehmer:innen können jederzeit kommen und die MINT-Spielzeuge ausprobieren.
-
-
