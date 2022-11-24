@@ -258,3 +258,34 @@ Dienstag oder Mittwoch, tagsüber - gerne auch (zusätzlich) am Montag im Vorpgr
 
 ### Ausstattung
 Tische mit Stühlen, Beamer, Strom, WLAN
+
+
+## JavaLand4"Große"Kids (Arbeitstitel) (JUGHamburg / [Kids4IT](http:://www.kids4it.de) / [*Fin Labusch*](mailto:fin@labusch.de))
+Beschreibung:
+Am Vortag der JavaLand-Konferenz findet traditionell die *JavaLand4Kids* statt, auf der Kinder
+und Jugendliche in verschiedenen Workshops einen Einblick in die Informatik bekommen. Unter
+anderem bauen wir aus Klemmbausteinen kleine Roboter und programmieren diese oder "programmieren"
+Musik mit Sonic Pi. (Hinweis: Workshops noch in Planung).
+
+Aus ähnlichen Veranstaltungen wissen wir, das auch "große" Kinder gerne einmal ihrem Spieltrieb nachgehen
+würden. Hier habt ihr dazu Gelegenheit. Wir bringen unsere MINT-Spielzeuge mit und ihr könnt nach Herzenslust
+wieder Kind sein. Oder ihr tauscht euch mit den anwesenden Mentoren der *JavaLand4Kids* aus und erfahrt
+alles über unsere meist ehrenamtliche Tätigkeit. Vielleicht möchtet ihr auch einmal selbst als Mentor tätig
+sein oder euren eigenen Workshop organisieren? Hier bekommt Ihr Infos aus erster Hand.
+
+### Dauer
+ca. 2 Stunden
+
+### Wunsch-Slot
+Montag (nach der JavaLand4Kids) und Dienstag oder Mittwoch (Zeit egal).
+
+### Ausstattung
+Raum mit Tischen (7 bis 14), Stühle, Strom, Pinnwand oder Flipchart
+
+### Voraussetzung der Teilnehmer:innen
+Keine.
+
+### Ablauf
+Kein fester Ablauf. Die Teilnehmer:innen können jederzeit kommen und die MINT-Spielzeuge ausprobieren.
+
+
