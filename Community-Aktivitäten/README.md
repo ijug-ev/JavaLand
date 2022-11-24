@@ -193,6 +193,22 @@ Pro Raum: ein Flipchart oder eine Pin-Wand mit Flip-Chart-Papier, große Karten/
 
 Best case: im Tagungsraum-Bereich des Ling-Bao [Wang Wei](https://www.phantasialand.de/files/uploads/business-to-pleasure/documents/factsheets/factsheet_wang_wei.pdf) [Fuxing](https://www.phantasialand.de/files/uploads/business-to-pleasure/documents/factsheets/factsheet_fuxing.pdf) [Shouxing](https://www.phantasialand.de/files/uploads/business-to-pleasure/documents/factsheets/factsheet_shouxing.pdf) etc.
 
+## Wir entwickeln den Javaland Coin (JUG Dortmund: [*Hendrik Ebbers*](https://twitter.com/hendrikEbbers), JUG Freiburg: [*Michael Heinrichs*](https://twitter.com/net0pyr))
+
+In den letzten Jahren sind Distributed-Ledger-Technologien wie Blockchain und Hashgraph ein Teil unserer modernen Welt geworden. Auf dieser Basis können mit Hilfe von Smart Contracts und Tokens unterschiedlichste Use Cases umgesetzt werden. Auch wenn manche dieser Use Cases wie der Verkauf von generierten Affen-PNGs eher fragwürdig ist, gibt es auch wirklich sinnvolle Szenarien in denen die Technologien zum Einsatz kommen.
+
+Um diese Technologien und Konzepte besser einordnen zu können wollen wir zusammen den “Javaland Coin” entwickeln. Diese Cryptowährung soll auf Tokens in einem Public Ledger basieren und durch die Nutzung von Smart Contracts werden wir die “Regeln” der Währung und deren Transaktionsmöglichkeiten definieren. Hierbei werden wir nicht nur lernen, wie man Smart Contracts erstellt, kompiliert und dezentral in einem Public Ledger ausführt sondern auch wie wir das Ganze mit einer Spring Boot Anwendung kombinieren können um so eine echte Trading-Platform für unseren “Javaland Coin” zu erstellen.
+
+Auch wenn niemand im Workshop durch den “Javaland Coin” reich werden wird, werden viele Konzepte hinter den Hypes Web3, Cryptowährungen und Smart Contracts durch Hands-On Beispiele nicht nur erklärt sondern auch umgesetzt.
+
+Teilnahmevoraussetzungen: Team-Arbeit ist bei diesem Hands-On Workshop erwünscht und auf den Rechnern sollte neben einer IDE mit Maven und Java 17 Support und auch Docker und Docker-Compose installiert sein. Kenntnisse in Smart Contracts oder deren Programmiersprache Solidity werden nicht benötigt, da wir dies im Workshop durchgehen werden.
+
+Ausstattung: Raum für ca. 10-16 Personen mit Sitzgelegenheiten; Beamer für die Vorführungen und Kurzpräsentationen. Teams brauchen Platz für den Laptop um mitmachen zu können. Strom und WLAN 
+
+Wunsch-Slot: Nicht wenn die Achterbahnen auf haben :)
+
+Dauer: 2 Stunden.
+
 ## Let's try: docToolchain ([EuregJUG Maas-Rhine](http://www.euregjug.eu/): [Merlin Bögershausen](https://github.com/mboegers))
 Beschreibung: Ausprobieren ist in der Gruppe immer einfacher und lustiger!
 Lass uns zusammen die [docToolchain](http://doctoolchain.org/docToolchain/v2.0.x/) ausprobieren und nutzen lernen.
@@ -206,6 +222,7 @@ Vorraussetzung: Wenn der [Setup der DocToolchain](http://doctoolchain.org/docToo
 Wunsch-Slot: Di oder Mi, nicht abends
 
 Ausstattung: Ein Beamer, Strom
+
 
 ## Flexible Softwarearchitektur mit der Clean Architecture ([JUG Darmstadt](https://www.jug-da.de/): Matthias Eschhold und Falk Sippach)
 
@@ -232,6 +249,7 @@ Keine speziellen
 ### Ausstattung
 Tische mit Stühlen, Flipchart (gern auch mehrere), Beamer, Strom, WLAN
 
+
 ## Developer on the Stage - Zusammen mit erfahrenen Speakern deinen ersten eigenen Vortrag entwickeln! (JUG Darmstadt: Sergej Tihonov, Falk Sippach; JUG Ostfalen: Steven Schwenke)
 
 Beschreibung: 
@@ -246,6 +264,7 @@ Wunsch-Zeitslot: Gern wieder im Anschluss an einen thematisch zugehörigen Vortr
 
 Ausstattung: ein Vortragsraum oder eines der Cafés.
 
+
 ## "Java 20 ruft JDK 1..20 Tools" Workshop ([JUG Bonn](https://github.com/jug-bonn): Christian Stein)
 
 Beschreibung: In diesem Workshop wird mit Java 20 ein Programm entwickelt (passend zum Launch von Java 20 am 21. März 2023), mit dem aktuelle und alt-bekannte Java Tools ausgeführt werden können. Dadurch lernen Teilnehmer sowohl modernes Java kennen; und können auch den Umgang mit der Kommandozeile und interaktiven JShell üben. Das Java Development Kit (JDK) bringt seit seiner ersten Version eine ganze Reihe von Tools mit. Mit deren Hilfe können wir Java-Projekte bauen: kompilieren, dokumentieren verpacken, und vieles mehr. Wir werden uns zunächst einen Überblick über all die nützlichen Tools verschaffen, und die wesentlichen Tools und deren Optionen etwas genauer anschauen. Dabei stehen uns die ausführliche Spezifikationen und auch die direkte Erprobung der Tools via JShell zur Seite. Mit diesem Wissen und dem in Java 9 bereits eingeführten ToolProvider SPI rufen wir dann einige dieser Tools direkt aus Java heraus auf. Native und externe Tools werden mittels einer im Workshop erabeitenden ToolFinder SPI eingebunden. Dabei kommt der "Launch Single-File Source-Code Programs"-Mechanismus aus Java 11 zum Einsatz. Bei der Implementierung kann jeder Teilnehmer die kurz zuvor auf der Konferenz vorgestellten neue Java Syntax und APIs einsetzen.
@@ -258,6 +277,7 @@ Dienstag oder Mittwoch, tagsüber - gerne auch (zusätzlich) am Montag im Vorpgr
 
 ### Ausstattung
 Tische mit Stühlen, Beamer, Strom, WLAN
+
 
 ## Die "Java by Comparison" Kata ([JUG Darmstadt](https://www.jug-da.de/): Simon Harrer, Sebastian Rose und Falk Sippach)
 
@@ -282,6 +302,7 @@ Java-Enwickler
 ### Ausstattung
 Tische mit Stühlen, Flipchart, Beamer, Strom, WLAN
 
+
 ## Kreativ durch die JavaLand - das etwas andere Event für Zwischendurch (Lisa Moritz (JUG Darmstadt), Nora Schöner (JUG Nürnberg))
 
 Du brauchst eine kreative Pause vom hektischen Konferenzalltag, willst deine Gedanken zur letzten Session kreativ festhalten oder deine ganz persönliche Javaland-Erinnerung gestalten? Dann bist du bei uns gold-richtig!  
@@ -302,6 +323,7 @@ Wir treffen uns alle zwei Stunden in der Community Hall und zeigen dir die beste
 Wir bieten das Sketchnoting + Mini-Me Zeichnen jeweils 3x am Dienstag und Mittwoch an. Die genauen Zeiten klären wir nach Absprache (z. B. 11 Uhr, 13 Uhr, 15 Uhr). Zusätzlich wollen wir zwischen den Zeiten den Raum für eine kreative Pause für alle Teilnehmenden bereitstellen.
 Wir benötigen einen Tisch in der Community Halle, 1 Flipchart und Blöcke/Stifte.
 
+
 ## Responsive Anwendungen mit Kotlin Multiplatform ([JUG Darmstadt](https://www.jug-da.de/): [Michal Harakal](michal@harakal.de) und [Alexander von Below](alex@vonbelow.com))
 
 Mit fortgeschrittener Digitalisierung wachsen Anforderungen auch an HMI-Anwendungen (Human Machine Interface) in verschiedenen industriellen Bereichen. Nicht nur sicher, zuverlässig und schlank – auch modern, gutaussehend und vernetzt sollten sie sein. In diesem Hand-on-Workshop bauen wir eine einfache JVM Desktop App, die mit einem echten Gerät (Arduino) kommuniziert und schauen uns die
@@ -315,3 +337,32 @@ Java-/Kotlin-Enwickler
 
 ### Ausstattung
 Tische mit Stühlen, Flipchart, Beamer, Strom, WLAN
+
+
+## JavaLand4"Große"Kids (Arbeitstitel) (JUGHamburg / [Kids4IT](http:://www.kids4it.de) / [*Fin Labusch*](mailto:fin@labusch.de))
+Beschreibung:
+Am Vortag der JavaLand-Konferenz findet traditionell die *JavaLand4Kids* statt, auf der Kinder
+und Jugendliche in verschiedenen Workshops einen Einblick in die Informatik bekommen. Unter
+anderem bauen wir aus Klemmbausteinen kleine Roboter und programmieren diese oder "programmieren"
+Musik mit Sonic Pi. (Hinweis: Workshops noch in Planung).
+
+Aus ähnlichen Veranstaltungen wissen wir, das auch "große" Kinder gerne einmal ihrem Spieltrieb nachgehen
+würden. Hier habt ihr dazu Gelegenheit. Wir bringen unsere MINT-Spielzeuge mit und ihr könnt nach Herzenslust
+wieder Kind sein. Oder ihr tauscht euch mit den anwesenden Mentoren der *JavaLand4Kids* aus und erfahrt
+alles über unsere meist ehrenamtliche Tätigkeit. Vielleicht möchtet ihr auch einmal selbst als Mentor tätig
+sein oder euren eigenen Workshop organisieren? Hier bekommt Ihr Infos aus erster Hand.
+
+### Dauer
+ca. 2 Stunden
+
+### Wunsch-Slot
+Montag (nach der JavaLand4Kids) und Dienstag oder Mittwoch (Zeit egal).
+
+### Ausstattung
+Raum mit Tischen (7 bis 14), Stühle, Strom, Pinnwand oder Flipchart
+
+### Voraussetzung der Teilnehmer:innen
+Keine.
+
+### Ablauf
+Kein fester Ablauf. Die Teilnehmer:innen können jederzeit kommen und die MINT-Spielzeuge ausprobieren.
