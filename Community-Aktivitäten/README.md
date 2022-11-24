@@ -193,6 +193,22 @@ Pro Raum: ein Flipchart oder eine Pin-Wand mit Flip-Chart-Papier, große Karten/
 
 Best case: im Tagungsraum-Bereich des Ling-Bao [Wang Wei](https://www.phantasialand.de/files/uploads/business-to-pleasure/documents/factsheets/factsheet_wang_wei.pdf) [Fuxing](https://www.phantasialand.de/files/uploads/business-to-pleasure/documents/factsheets/factsheet_fuxing.pdf) [Shouxing](https://www.phantasialand.de/files/uploads/business-to-pleasure/documents/factsheets/factsheet_shouxing.pdf) etc.
 
+## Wir entwickeln den Javaland Coin (JUG Dortmund: [*Hendrik Ebbers*](https://twitter.com/hendrikEbbers), JUG Freiburg: [*Michael Heinrichs*](https://twitter.com/net0pyr))
+
+In den letzten Jahren sind Distributed-Ledger-Technologien wie Blockchain und Hashgraph ein Teil unserer modernen Welt geworden. Auf dieser Basis können mit Hilfe von Smart Contracts und Tokens unterschiedlichste Use Cases umgesetzt werden. Auch wenn manche dieser Use Cases wie der Verkauf von generierten Affen-PNGs eher fragwürdig ist, gibt es auch wirklich sinnvolle Szenarien in denen die Technologien zum Einsatz kommen.
+
+Um diese Technologien und Konzepte besser einordnen zu können wollen wir zusammen den “Javaland Coin” entwickeln. Diese Cryptowährung soll auf Tokens in einem Public Ledger basieren und durch die Nutzung von Smart Contracts werden wir die “Regeln” der Währung und deren Transaktionsmöglichkeiten definieren. Hierbei werden wir nicht nur lernen, wie man Smart Contracts erstellt, kompiliert und dezentral in einem Public Ledger ausführt sondern auch wie wir das Ganze mit einer Spring Boot Anwendung kombinieren können um so eine echte Trading-Platform für unseren “Javaland Coin” zu erstellen.
+
+Auch wenn niemand im Workshop durch den “Javaland Coin” reich werden wird, werden viele Konzepte hinter den Hypes Web3, Cryptowährungen und Smart Contracts durch Hands-On Beispiele nicht nur erklärt sondern auch umgesetzt.
+
+Teilnahmevoraussetzungen: Team-Arbeit ist bei diesem Hands-On Workshop erwünscht und auf den Rechnern sollte neben einer IDE mit Maven und Java 17 Support und auch Docker und Docker-Compose installiert sein. Kenntnisse in Smart Contracts oder deren Programmiersprache Solidity werden nicht benötigt, da wir dies im Workshop durchgehen werden.
+
+Ausstattung: Raum für ca. 10-16 Personen mit Sitzgelegenheiten; Beamer für die Vorführungen und Kurzpräsentationen. Teams brauchen Platz für den Laptop um mitmachen zu können. Strom und WLAN 
+
+Wunsch-Slot: Nicht wenn die Achterbahnen auf haben :)
+
+Dauer: 2 Stunden.
+
 ## Let's try: docToolchain ([EuregJUG Maas-Rhine](http://www.euregjug.eu/): [Merlin Bögershausen](https://github.com/mboegers))
 Beschreibung: Ausprobieren ist in der Gruppe immer einfacher und lustiger!
 Lass uns zusammen die [docToolchain](http://doctoolchain.org/docToolchain/v2.0.x/) ausprobieren und nutzen lernen.
