@@ -200,8 +200,6 @@ Beschreibung: Der Raspberry Pico 2040 hat die Welt der Hardware-Bastler im Sturm
 Lasst und ein wenig Zeit nehmen um diese faszinierende Welt zu erkunden. 
 Ich werde dazu ein paar [Tufty-2040](https://shop.pimoroni.com/products/tufty-2040?variant=40036912595027) oder [Badger-2040](https://shop.pimoroni.com/products/badger-2040?variant=39752959885395) mitbringen, die den Prozessor gleich mit einem Display und ein paar Buttons kombinieren.
 
-*WICHTIG*: für die Hardware wird noch ein Sponsor benötigt - ohne wird es langweilig
-
 ### Ablauf
 
 * gemeinsames Aufsetzen der Entwicklungsumgebung
@@ -215,7 +213,7 @@ Ich werde dazu ein paar [Tufty-2040](https://shop.pimoroni.com/products/tufty-20
 
 Dauer: ca. 2h
 
-Wunsch-Slot: abends
+Wunsch-Slot: abends, vielleicht nach dem ersten Vortrags-Tag?
 
 Ausstattung: Raum mit Steckdosen, WLAN. Teilnehmer müssen ein Notebook mitbringen
 
