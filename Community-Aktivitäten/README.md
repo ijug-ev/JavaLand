@@ -206,9 +206,9 @@ Ich werde dazu ein paar [Tufty-2040](https://shop.pimoroni.com/products/tufty-20
 * Umsetzung eines ersten "Hello-World" Beispiels
 * Kurzvorstellung der features des Boards
 * Sammlung von weiteren Ideen wie z.B.
-** Umsetzung eines Video-Spiels
-** Darstellung eines QR-Codes (JavaLand Eintritts-Code?)
-** Grafikdemo
+  * Umsetzung eines Video-Spiels
+  * Darstellung eines QR-Codes (JavaLand Eintritts-Code?)
+  * Grafikdemo
 * Hacking in Gruppen um die Ideen zu besprechen und auszuprobieren
 
 Dauer: ca. 2h
