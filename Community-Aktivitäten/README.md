@@ -11,7 +11,7 @@ Das Ziel jeder Aktivität ist es, Euch miteinander in Kontakt zu bringen, den Au
 Dabei muss es nicht immer nur direkt um Java gehen. Außergewöhnliche Einreichungen der zurückliegenden Jahre umfassten unter anderem schon "Mentoring Speed-Dating", "JavaLand Kung-Fu", eine "JavaLand Big Band", ein Tischfußballturnier, und natürlich das alljährliche "JavaLand Jogging" um 07:00 Uhr bei dem man schon mit bekannten "VIPs" wie Arun Gupta und Ivar Grimstad vor dem Frühstück schwitzen konnte, sowie das "JUG Café", wo man die im iJUG zusammengeschlossenen Java User Groups kennenlernen konnte. Interessiert? Dann mach mit! Denn es ist Deine JavaLand, Deine Community-Aktivität - Wir stellen Deiner JUG nur den Platz und die Infrastruktur bereit, die Show macht Ihr selber!
 
 
-# Call for Participation - **OFFEN - BITTE JETZT EINREICHEN!**
+# Call for Participation - **ABGESCHLOSSEN - WIR DANKEN FÜR EUERE EINREICHUNGEN**
 
 **Wir freuen uns auf Euere Einreichungen für die JavaLand 2023!** Optimalerweise schickt Ihr uns einfach einen Pull Request, der *dieses* Markdown-Dokument ändert, und in dem Titel, kurze Beschreibung, und -ganz wichtig!- Euere E-Mail-Adresse steht. Wir melden uns dann umgehend bei Euch! Wenn Euch ein PR zu aufwändig ist, könnt Ihr statt dessen auch gerne einfach eine E-Mail an *all-ca-sprecher@javaland.eu* senden mit diesen Informationen.
 
