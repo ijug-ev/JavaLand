@@ -193,6 +193,31 @@ Pro Raum: ein Flipchart oder eine Pin-Wand mit Flip-Chart-Papier, große Karten/
 
 Best case: im Tagungsraum-Bereich des Ling-Bao [Wang Wei](https://www.phantasialand.de/files/uploads/business-to-pleasure/documents/factsheets/factsheet_wang_wei.pdf) [Fuxing](https://www.phantasialand.de/files/uploads/business-to-pleasure/documents/factsheets/factsheet_fuxing.pdf) [Shouxing](https://www.phantasialand.de/files/uploads/business-to-pleasure/documents/factsheets/factsheet_shouxing.pdf) etc.
 
+
+## Hacking the 2040 (JUG Darmstadt: [*Ralf D. Müller*](https://twitter.com/ralfdmueller))
+
+Beschreibung: Der Raspberry Pico 2040 hat die Welt der Hardware-Bastler im Sturm erobert. 
+Lasst und ein wenig Zeit nehmen um diese faszinierende Welt zu erkunden. 
+Ich werde dazu ein paar [Tufty-2040](https://shop.pimoroni.com/products/tufty-2040?variant=40036912595027) oder [Badger-2040](https://shop.pimoroni.com/products/badger-2040?variant=39752959885395) mitbringen, die den Prozessor gleich mit einem Display und ein paar Buttons kombinieren.
+
+### Ablauf
+
+* gemeinsames Aufsetzen der Entwicklungsumgebung
+* Umsetzung eines ersten "Hello-World" Beispiels
+* Kurzvorstellung der features des Boards
+* Sammlung von weiteren Ideen wie z.B.
+  * Umsetzung eines Video-Spiels
+  * Darstellung eines QR-Codes (JavaLand Eintritts-Code?)
+  * Grafikdemo
+* Hacking in Gruppen um die Ideen zu besprechen und auszuprobieren
+
+Dauer: ca. 2h
+
+Wunsch-Slot: abends, vielleicht nach dem ersten Vortrags-Tag?
+
+Ausstattung: Raum mit Steckdosen, WLAN. Teilnehmer müssen ein Notebook mitbringen
+
+
 ## Wir entwickeln den Javaland Coin (JUG Dortmund: [*Hendrik Ebbers*](https://twitter.com/hendrikEbbers), JUG Freiburg: [*Michael Heinrichs*](https://twitter.com/net0pyr))
 
 In den letzten Jahren sind Distributed-Ledger-Technologien wie Blockchain und Hashgraph ein Teil unserer modernen Welt geworden. Auf dieser Basis können mit Hilfe von Smart Contracts und Tokens unterschiedlichste Use Cases umgesetzt werden. Auch wenn manche dieser Use Cases wie der Verkauf von generierten Affen-PNGs eher fragwürdig ist, gibt es auch wirklich sinnvolle Szenarien in denen die Technologien zum Einsatz kommen.
@@ -208,6 +233,7 @@ Ausstattung: Raum für ca. 10-16 Personen mit Sitzgelegenheiten; Beamer für die
 Wunsch-Slot: Nicht wenn die Achterbahnen auf haben :)
 
 Dauer: 2 Stunden.
+
 
 ## Let's try: docToolchain ([EuregJUG Maas-Rhine](http://www.euregjug.eu/): [Merlin Bögershausen](https://github.com/mboegers))
 Beschreibung: Ausprobieren ist in der Gruppe immer einfacher und lustiger!
