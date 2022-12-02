@@ -392,3 +392,22 @@ Keine.
 
 ### Ablauf
 Kein fester Ablauf. Die Teilnehmer:innen können jederzeit kommen und die MINT-Spielzeuge ausprobieren.
+
+## [Funktionale Programmierung in Java](https://github.com/gtrefs/fpworkshop) (majug ([JUG Mannheim](https://www.majug.de) / [Gregor Trefs](https://github.com/gtrefs) / [Falk Sippach](https://github.com/sippsack) )
+
+Funktionale Programmierung ist im Moment in aller Mund. Seit Java 8 und Lambdas stehen auch Java-Anwendern einige Werkzeuge zur Verfügung um funktionale Anwendungen komfortabler umzusetzen. Darum wollen wir uns mit einigen Grundlagen der funktionalen Programmierung auseinandersetzen und schauen, wie man sie in Java einsetzen kann. Nach dieser Einführung und Mob-Programming wirst du wissen, was eine pure Funktion ist, warum referentielle Transparenz ein tolles Konzept ist, was Werte sind, wie ein funktionales Programm ausgewertet werden kann und was funktionale Datenstrukturen sind. Weiterhin schauen wir uns an, wie man eine funktionale DSL schreiben kann und warum das auch für den Alltag sehr interessant ist.
+
+### Dauer
+90 bis 120 Minuten
+
+### Wunsch-Slot
+Dienstag oder Mittwoch (Zeit egal).
+
+### Ausstattung
+Tische mit Stühlen, Beamer, Strom, WLAN
+
+### Voraussetzung der Teilnehmer:innen
+Keine.
+
+### Ablauf
+Wir werden zwei von drei Übungen (Pure Funktion, Funktion höherer Ordnung, funktionale Datenstruktur) bearbeiten, jeweils mit einer Einführung und anschließendem Mob-Programming. Am Ende machen wir noch eine kleine Retro.
