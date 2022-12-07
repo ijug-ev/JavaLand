@@ -40,19 +40,6 @@ Dauer: 1 Stunde.
 Ausstattung: keine.
 
 
-## JavaLand Kung-Fu ([JUG Goldstadt](http://jugpf.de/): [*Markus KARG*](https://github.com/mkarg))
-
-Wie das alte Sprichwort "Mens sana in corpore sano" bereits andeutet: Mit Kreuzschmerz ist es schwer sich zu konzentrieren! Erstaunlich daher, wie viele Geeks, Nerds und Hacker sich trotzdem jahrelang mit Berufskrankheiten wie Kopf- und Rückenschmerzen, Stress und Verspannungen herumplagen. Dabei kennt die chinesische Kultur seit Jahrhunderten ein erstaunlich einfaches, wirksames und von jedem, selbst im Büro, anwendbares Gegenmittel: Shaolin Qigong – gymnastische Übungen des Kung-Fu. Aber keine Angst, hier wird nicht gekämpft – wir zeigen dir, wie du mit einfachen Dehnübungen Kopfschmerzen sofort ausschaltest und mit nur 20 Minuten Sport am Tag Rückenschmerzen dauerhaft beseitigst. Als Nebeneffekt winkt dank besserer Konzentration sogar besserer Code!
-
-**Es bestehen keine besonderen Teilenahmevoraussetzungen!**
-
-Wunsch-Slot: Am ersten Konferenztag zwischen letzter Session und Abendessen.
-
-Dauer: 1 Stunde.
-
-Ausstattung: Freier Platz ohne Bestuhlung für alle Teilnehmer, optimalerweise im Community-Zelt oder bei sehr gutem Wetter auch im Freien.
-
-
 ## Apache Maven BOF ([JUG Oberpfalz](http://jug-oberpfalz.de/): [*Richard FICHTNER*](https://github.com/rfitchtner))
 
 Es bewegt sich viel in der Welt von Maven. In diesem BoF laden wir *alle, die mit Maven zu tun haben*, zur Diskussion ein. Es spielt keine Rolle, ob Du Anwender:in, Contributor oder Committer bist, mach einfach mit.
