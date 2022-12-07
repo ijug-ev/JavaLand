@@ -57,11 +57,13 @@ Ausstattung: Raum für ca. 20 Personen mit Sitzgelegenheiten; Beamer brauchen wi
 
 ## JavaLand Sternfahrt ([JUG Schweiz](https://www.jug.ch/): [*Marcus Fihlon*](https://github.com/McPringle))
 
-Wir kommen aus allen Ecken von Deutschland, Österreich und der Schweiz zur JavaLand, um ein paar schöne und nerdige Tage miteinander zu verbringen. Einige von uns werden die Anreise mit dem Fahrrad wagen. Vielleicht gehörst du auch dazu? Genau darum geht es bei dieser Community-Aktivität: Mit dem Fahrrad zum JavaLand anreisen. Über einen Matrix-Chat können wir uns dabei koordinieren, um uns unterwegs zu treffen und Teilstrecken gemeinsam zu fahren. Idealerweise zeichnest du deine Fahrt mit einem GPS-Gerät, Navi oder Smartphone auf.
+Wir kommen aus allen Ecken von Deutschland, Österreich und der Schweiz zur JavaLand, um ein paar schöne und nerdige Tage miteinander zu verbringen. Einige von uns werden die Anreise mit dem Fahrrad wagen. Vielleicht gehörst du auch dazu? Genau darum geht es bei dieser Community-Aktivität: Mit dem Fahrrad zum JavaLand anreisen. Über einen [Matrix-Chat](https://matrix.to/#/#javaland-sternfahrt:ijug.eu) können wir uns dabei koordinieren, um uns unterwegs zu treffen und Teilstrecken gemeinsam zu fahren. Idealerweise zeichnest du deine Fahrt mit einem GPS-Gerät, Navi oder Smartphone auf.
 
 Die GPX-Datei kannst du dann nach deiner Ankunft einreichen und wir werden während der JavaLand (wahrscheinlich im Rahmen des Hackergarten) mithilfe einer in Java entwickelten Open Source Anwendung ([GPX-Animator](https://gpx-animator.app/)) eine Animation der Sternfahrt erstellen. Vielleicht schaffen wir es damit sogar in die Community-Keynote?
 
 Falls du bei der Planung deiner Fahrt oder der Aufzeichnung als GPX-Datei Unterstützung benötigst, stehe ich dir vor der JavaLand gerne zur Verfügung. Eigentlich logisch, aber besser vorher informiert als hinterher bereut: Die Java User Group Switzerland, die JavaLand GmbH und der iJUG e.V. übernehmen keine Haftung. Du solltest also selbst versichert sein, falls unterwegs etwas passiert.
+
+Viele weitere Informationen findest du im [GitHub Repository zur JavaLand Sternfahrt 2023](https://github.com/McPringle/javaland-sternfahrt-2023). Dort siehst du auch eine Liste der Teilnehmer, die schon zugesagt haben, und Informationen über ihre Routen.
 
 **Teilnahmevoraussetzungen: Du solltest ein Fahrrad haben und idealerweise (nicht zwingend) ein Gerät, um deine Fahrt als GPX-Datei aufzuzeichnen.**
 
