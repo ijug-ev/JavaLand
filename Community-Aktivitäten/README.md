@@ -24,7 +24,7 @@ Das JavaLand ist thematisch ("Java Community") und vom Platz her (Vergnügungspa
 * Es geht um die Plattform Java bzw. das Leben als Java-Entwickler - dazu zählen aber auch Sport, Ernährung, Erfahrungsaustausch und soziale Kontakte!
 
 
-# Planungsstand
+# Planungsstand - **Untenstehende Veranstaltungen SIND ANGENOMMEN**
 
 An dieser Stelle veröffentlichen wir den jeweils aktuellen Planungsstand, auf welche Community-Aktivitäten Ihr Euch im nächsten JavaLand freuen dürft! Bitte beachtet, dass sich dieser Stand täglich ändern kann und **keine verbindliche Zusage** über eine bestimmte Community-Aktivität darstellt. Es ist durchaus realistisch, dass hier genannte Aktivitäten kurzfristig ausfallen (z. B. durch Krankheit des Veranstalters) oder spontan welche vor Ort hinzukommen!
 
