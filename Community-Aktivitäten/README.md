@@ -400,3 +400,46 @@ Keine.
 
 ### Ablauf
 Wir werden zwei von drei Übungen (Pure Funktion, Funktion höherer Ordnung, funktionale Datenstruktur) bearbeiten, jeweils mit einer Einführung und anschließendem Mob-Programming. Am Ende machen wir noch eine kleine Retro.
+
+## Meet-the-Lib ([JUG Darmstadt](https://www.jug-da.de) / [Jan Westerkamp](https://github.com/JanWesterkamp-iJUG) )
+Hast du ein nützliches kleines Werkzeug, eine Bibliothek, eine Site oder ein brandneues Projekt (auch abseits von Java) im Kopf, zudem du dein Wissen gerne mit der Community teilen möchtest?
+In dieser Konferenz in der Konferenz hast du die Gelegenheit einen Kurzvortrag (5-15 min) dazu zu halten.
+Programmvorschläge und Bewertungen kannst du am Dienstag schon vorab auf dem bereitgestellten Flipchart einreichen bzw. vornehmen.
+
+### Dauer
+1-2 h
+
+### Wunsch-Slot
+Dienstag ab 18:00
+
+### Ausstattung
+Stehtisch mit Beamer mit Leinwand oder großer Monitor, WLAN, Anschlüssen (Video, Strom) und etwas Platz für Teilnemer drumherum.
+Gegebenenfalls bei vielen Teilnehmern und lauterer Umgebung ein Mikrophon mit Lautsprecher.
+
+### Voraussetzung der Teilnehmer:innen
+keine, optional Laptop für Vortragende
+
+### Ablauf
+UnConference: Kurzvorträge gemäß der Einreichungen in Rangfolge der Bewertungen bzw. Anwesendheit der Vortragenden.
+
+## Wie werde ich Eclipse Contributor/Committer? ([JUG Darmstadt](https://www.jug-da.de) / [Jan Westerkamp](https://github.com/JanWesterkamp-iJUG) / [Ivar Grimstad](https://github.com/ivargrimstad) )
+Wolltest Du schon immer mal wissen, wie man zu einem Open-Source-Projekt wie z.B. Jakarta EE, MicroProfile oder Adoptium beitragen kann?
+Dann bist du hier richtig!
+Wir stellen vor was nötig ist, um sich bei von der Eclipse Foundation verwalteten Projekten einzubringen.
+Wir erklären Voraussetzungen, Rollen, Prozesse und geben konkrete Hilfestellung zu diesen Themen, um den Einstieg so leicht wie möglich zu machen oder auszubauen.
+
+### Dauer
+45 min
+
+### Wunsch-Slot
+Mittwoch 13:00 oder 14:00 Uhr.
+
+### Ausstattung
+Tische mit Stühlen, Beamer, Strom, WLAN
+
+### Voraussetzung der Teilnehmer:innen
+Keine.
+
+### Ablauf
+Workshop: Eine kurze Einführung in the Themen und Vorraussetzungen, dann Beantworung von Fragen und gegebenenfalls Hilfe bei Einrichtung von EF Accounts, Mailinglisten etc.
+Das Ganze findet vermutlich auf Englisch statt, gegebenenfalls auf Wunsch der Teilnehmer auch Übersetzung und Unterstützung auf Deutsch bezw. Sprache gemischt.
