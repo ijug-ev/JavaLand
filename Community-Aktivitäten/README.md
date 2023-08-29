@@ -13,7 +13,7 @@ Dabei muss es nicht immer nur direkt um Java gehen. Außergewöhnliche Einreichu
 
 # Call for Participation - **OFFEN - BITTE JETZT EINREICHEN!**
 
-**Wir freuen uns auf Euere Einreichungen für die JavaLand 2024!**
+**Wir freuen uns auf Eure Einreichungen für die JavaLand 2024!**
 
 Die JavaLand 2024 findet vom 27.02. - 29.02.2024 statt.
 
