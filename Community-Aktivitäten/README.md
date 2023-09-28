@@ -154,6 +154,18 @@ Dauer: 2,5 Stunden.
 Ausstattung: WLAN, Beamer, Je nach Interesse der Teilnehmer, Gruppen-Tische, Pro Tisch ein Fernseher. Vier Gruppen max. oder 2/3er Gruppen.
 
 
+## HTMX und Java ([JUG Paderborn](https://jug-pb.gitlab.io/): [*Frederik Hahne*](https://www.linkedin.com/in/frederikhahne/))
+
+Beschreibung: Nachdem intercooler.js keine große Beachtung gefunden hat, da Frameworks wie React, Angular und Vue allgegenwärtig waren hat es HTMX inzwischen sogar auf das Techradar von Thoughworks geschafft.
+In diesem kleinen Workshop möchte ich euch HTMX etwas näher bringen und wie man es im Java Umfeld verwenden kann. Bringt euren Laptop mit und wir bauen zusammen eine kleine Anwendung mit Spring Boot, Quarkus oder Micronaut und HTMX.
+
+Teilnahmevoraussetzungen: Laptop mit Java Entwicklungsumgebung
+
+Dauer: 2 Stunden (bei Bedarf auch gerne mehr)
+
+Ausstattung: großer Screen/Beamer, Internet
+
+
 ## TEMPLATE
 
 Beschreibung: 
