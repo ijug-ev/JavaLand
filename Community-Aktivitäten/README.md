@@ -35,13 +35,13 @@ An dieser Stelle veröffentlichen wir den jeweils aktuellen Planungsstand, auf w
 
 ## JUG Café (JUG Deutschland: *Daniel van Ross*, Frank Schwichtenberg)
 
-Beschreibung: Jetzt wo die Vor-Ort Aktivitäten nach langer Pause wieder beginnen, möchten wir euch im JUG Café wieder die Möglichkeit geben Vertreter eurer lokalen User Groups kennenzulernen. Kommt ins Gespräch und erfahrt was die User Group in euer Heimat- oder Nachbarstadt veranstaltet. Ihr seid bereits aktiv in eurer JUG, umso besser, dann kommt vorbei und redet mit Vertretern anderer JUGs um Erfahrungen auszutauschen und Ideen für eigene Aktivitäten zu sammeln. 
+Beschreibung: Auch wenn sich die Location ändert, wollen wir euch natürlich wieder die Möglichkeit geben eure lokalen Java User Groups persönlich kennenzulernen. Kommt mit Vertretern der JUGs aus eurer Heimat- oder Nachbarstadt ins Gespräch, redet über Java, die Aktivitäten euer JUG oder welchen Speaker ihr gerne als nächstes vor Ort sehen würdet. Ihr seit selber Vertreter eine JUG? Dann präsentiert eure Aktivitäten hier, redet mit Vertretern anderer JUGs und tauscht eure Erfahrungen bei der Organisation eurer Events aus.
 
 Teilnahmevoraussetzungen: keine.
 
-Dauer: an beiden Tagen durchgehend.
+Dauer: noch unklar
 
-Ausstattung: großer Monitor 
+Ausstattung: noch unklar
 
 
 ## JavaLand Jogging ([JUG Hamburg](https://jughh.de/): [*Bennet Schulz*](https://github.com/bennetelli))
