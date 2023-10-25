@@ -54,7 +54,7 @@ Dauer: 1 Stunde.
 
 Ausstattung: keine.
 
-## Wir erstellen einen ChatGPT-Klon von Grund auf, in Kotlin
+## Wir erstellen einen ChatGPT-Klon von Grund auf, in Kotlin ([JUG Darmstadt](https://www.jug-da.de/) - [*Michal Harakal*](https://github.com/michalharakal), [*Alexander von Below*](https://github.com/below), *Falk Sippach*)
 
 Beschreibung: In diesem Workshop implementieren wir ein Sprachmodell, mit einer ähnlichen Architektur, auf der auch die bekannte "Large Language Models" wie z.B. ChatGPT aufbauen, mit Kotlin von Grund auf. 
 Wir arbeiten in reinem Kotlin-Code. Wir lernen dabei, wie das ganze funktioniert. Währenddessen werden wir alle relevanten Konzepte und Ideen erläutern. 
