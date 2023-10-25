@@ -54,6 +54,19 @@ Dauer: 1 Stunde.
 
 Ausstattung: keine.
 
+## Wir erstellen einen ChatGPT-Klon von Grund auf, in Kotlin
+
+Beschreibung: In diesem Workshop implementieren wir ein Sprachmodell, mit einer ähnlichen Architektur, auf der auch die bekannte "Large Language Models" wie z.B. ChatGPT aufbauen, mit Kotlin von Grund auf. 
+Wir arbeiten in reinem Kotlin-Code. Wir lernen dabei, wie das ganze funktioniert. Währenddessen werden wir alle relevanten Konzepte und Ideen erläutern. 
+
+Ziel des Workshops ist eine funktionsfähige Implementierung auf dem Laptop, die wir auf einem (viel) kleineren Datensatz trainieren und testen können.
+
+Teilnahmevoraussetzungen: Es sind keine Vorkenntnisse über GPT- oder Data-Science-Kenntnisse erforderlich und dieser Workshop ist auf JVM-Programmierer zugeschnitten (Fokus Kotlin). Wir werden die verschiedenen Komponenten und Konzepte von dem Modell erforschen, während wir gemeinsam den Code schreiben - von der ersten bis zur letzten Zeile.
+
+Dauer: 3 Std.
+
+Ausstattung: In unserem Workshop soll wirklich gearbeitet werden, deshalb bringt am besten einen Laptop (macOS, Linux, Windows) mit, einer JVM/Kotlin/Gradle fähigen Entwicklungsumgebung in der aktuellen Version. Das ist zum Beispiel IntelliJ oder Android Studio. Aktuelle Informationen zum Workshop gibs hier: https://michalharakal.github.io/KPTChat
+
 
 ##
 
