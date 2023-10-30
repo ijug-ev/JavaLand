@@ -58,6 +58,43 @@ Ausstattung: keine.
 ##
 
 
+## Architektur Dojo (JUG Darmstadt: *Sebastian Rose*, *Alexander Schwartz*)
+
+Beschreibung: Als Architekten oder Entwickler bauen wir Systemarchitekturen und bekommen meist erst am Ende des Projekts Feedback, ob es so funktionierte oder nicht.
+In diesem Architektur Dojo ist das anders: Bereits nach einer halben Stunde präsentiert ihr euren Entwurf, bekommt Feedback und könnt die Lösung anschließend verbessern!
+Bearbeitet jenseits von eingetretenen Pfaden des Projektalltags gemeinsam mit anderen eine Architekturaufgabe.
+Übt es, Architekturen und Architekturentscheidungen zu präsentieren und zu begründen!
+
+Vorlage für uns sind die Architektur Katas von Neal Ford (http://nealford.com/katas/about.html).
+Mehrere Gruppen zu je 3-5 Personen entwerfen eine Architektur für eine vorgegebene Aufgabe.
+Danach stellen sich die Gruppen ihre Lösungen gegenseitig vor und bekommen Feedback.
+In der nächsten Iteration arbeiten sie Anregungen und Fragen ein und präsentieren ihre angepasste Lösung erneut.
+
+Teilnahmevoraussetzungen: Keine.
+
+Dauer: 2,5 Stunden.
+
+Ausstattung: Papier/Whiteboard/Flipchart/irgendwas zum Malen. Gruppentische a max 5-6 Teilnehmer pro Gruppe. Bis zu 8 Tische.
+
+
+## Coding Dojo: ChatGPT powered programming (JUG Darmstadt: *Sebastian Rose*)
+
+Beschreibung: Für den beruflichen Alltag ist es wichtig, sich ständig fortzubilden und seine Fertigkeiten als Entwickler zu trainieren.
+Mit Code Katas in einem Coding Dojo kannst du in einer kleinen Gruppe überschaubare Programmieraufgaben lösen.
+Dabei lernst du mit und von anderen in einer geschützten Umgebung.
+Es zählt weniger das Ergebnis, als vielmehr ist der Weg das Ziel.
+
+In diesem Jahr ist das Thema ChatGPT als Unterstützung beim Programmieren in aller Munde.
+Im Dojo sollen die Teilneher daher eine Kata mit Hilfe von ChatGPT lösen.
+Die Teilnehmer entscheiden selbst in welcher Form sie ChatGPT integrieren: z.B. als Pair Programming Partner, als Code Reviewer oder als Coach, etc.
+
+Teilnahmevoraussetzungen: Min jeder zweite Teilnehmer benötigt ein eigenes Laptop mit lauffähigen JVM-Entwicklungsumgebung. 
+
+Dauer: 2,5 Stunden.
+
+Ausstattung: WLAN, Beamer, Je nach Interesse der Teilnehmer, Gruppen-Tische, Pro Tisch ein Fernseher. Vier Gruppen max. oder 2/3er Gruppen.
+
+
 ## TEMPLATE
 
 Beschreibung: 
