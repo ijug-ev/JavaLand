@@ -54,6 +54,31 @@ Dauer: 1 Stunde.
 
 Ausstattung: keine.
 
+## JavaLand Sternfahrt ([JUG Schweiz](https://www.jug.ch/): [*Marcus Fihlon*](https://github.com/McPringle))
+
+### Beschreibung
+
+Wir kommen aus allen Ecken von Deutschland, Österreich und der Schweiz zur JavaLand, um ein paar schöne und nerdige Tage miteinander zu verbringen. Einige von uns werden die Anreise mit dem Fahrrad wagen. Vielleicht gehörst du auch dazu? Genau darum geht es bei dieser Community-Aktivität: Mit dem Fahrrad zum JavaLand anreisen. Über einen [Matrix-Chat](https://matrix.to/#/#javaland-sternfahrt:ijug.eu) können wir uns dabei koordinieren, um uns unterwegs zu treffen und Teilstrecken gemeinsam zu fahren.
+
+Vielleicht magst du deine Strecke auch mit einem GPS-Gerät, Navi oder Smartphone aufzeichnen? Die GPX-Datei kannst du dann nach deiner Ankunft per E-Mail mich schicken und ich werde mithilfe einer in Java entwickelten Open Source Anwendung ([GPX-Animator](https://gpx-animator.app/)) eine Animation der Sternfahrt erstellen. Vielleicht schaffen wir es mit dem Video sogar in die Community-Keynote?
+
+Falls du bei der Planung deiner Fahrt oder der Aufzeichnung als GPX-Datei Unterstützung benötigst, stehe ich dir vor der JavaLand gerne zur Verfügung. Eigentlich logisch, aber besser vorher informiert als hinterher bereut: Die Java User Group Switzerland, die JavaLand GmbH und der iJUG e.V. übernehmen keine Haftung. Du solltest also selbst versichert sein, falls unterwegs etwas passiert.
+
+Viele weitere Informationen findest du im [GitHub Repository zur JavaLand Sternfahrt 2024](https://github.com/McPringle/javaland-sternfahrt-202
+4). Dort siehst du auch eine Liste der Teilnehmer, die schon zugesagt haben, und Informationen über ihre Routen.
+
+### Teilnahmevoraussetzungen
+
+Du solltest ein Fahrrad haben und idealerweise (nicht zwingend) ein Gerät, um deine Fahrt als GPX-Datei aufzuzeichnen.
+
+### Dauer
+
+Je nach Entfernung mehrere Stunden oder auch Tage... 😉
+
+### Ausstattung
+
+- Eine Möglichkeit, das Fahrrad für die Dauer der Teilnahme an der JavaLand sicher und geschützt einzustellen. Echte Biker bevorzugen ihr Rad im Hotel mit auf das Zimmer zu nehmen.
+
 
 ##
 
