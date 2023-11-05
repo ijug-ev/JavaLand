@@ -15,7 +15,7 @@ Dabei muss es nicht immer nur direkt um Java gehen. Außergewöhnliche Einreichu
 
 **Wir freuen uns auf Eure Einreichungen für die JavaLand 2024!**
 
-Die JavaLand 2024 findet vom 27.02. - 29.02.2024 statt.
+Die JavaLand 2024 findet vom 09.04. - 11.04.2024 statt.
 
 Optimalerweise schickt Ihr uns einfach einen Pull Request, der *dieses* Markdown-Dokument ändert, und in dem Titel, kurze Beschreibung, und -ganz wichtig!- Euere E-Mail-Adresse steht. Wir melden uns dann umgehend bei Euch! Wenn Euch ein PR zu aufwändig ist, könnt Ihr statt dessen auch gerne einfach eine E-Mail an *all-ca-sprecher@javaland.eu* senden mit diesen Informationen.
 
