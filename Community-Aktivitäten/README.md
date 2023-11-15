@@ -65,8 +65,7 @@ Vielleicht magst du deine Strecke auch mit einem GPS-Gerät, Navi oder Smartphon
 
 Falls du bei der Planung deiner Fahrt oder der Aufzeichnung als GPX-Datei Unterstützung benötigst, stehe ich dir vor der JavaLand gerne zur Verfügung. Eigentlich logisch, aber besser vorher informiert als hinterher bereut: Die Java User Group Switzerland, die JavaLand GmbH und der iJUG e.V. übernehmen keine Haftung. Du solltest also selbst versichert sein, falls unterwegs etwas passiert.
 
-Viele weitere Informationen findest du im [GitHub Repository zur JavaLand Sternfahrt 2024](https://github.com/jugch/javaland-sternfahrt-202
-4). Dort siehst du auch eine Liste der Teilnehmer, die schon zugesagt haben, und Informationen über ihre Routen.
+Viele weitere Informationen findest du im [GitHub Repository zur JavaLand Sternfahrt 2024](https://github.com/jugch/javaland-sternfahrt-2024). Dort siehst du auch eine Liste der Teilnehmer, die schon zugesagt haben, und Informationen über ihre Routen.
 
 ### Teilnahmevoraussetzungen
 
