@@ -94,6 +94,21 @@ Dauer: 3 Std.
 Ausstattung: In unserem Workshop soll wirklich gearbeitet werden, deshalb bringt am besten einen Laptop (macOS, Linux, Windows) mit, einer JVM/Kotlin/Gradle fähigen Entwicklungsumgebung in der aktuellen Version. Das ist zum Beispiel IntelliJ oder Android Studio. Aktuelle Informationen zum Workshop gibs hier: https://michalharakal.github.io/KPTChat
 
 
+
+## Tech2Talk - Erstelle mit Hilfe erfahrener Speaker deinen ersten eigenen Vortrag!
+
+Beschreibung: Vorträge zu halten ist in der IT Community eine der wichtigsten Mittel, Wissen zu verteilen. Zusätzlich dazu erhöht der Sprecher seine eigene Sichtbarkeit und wird als Experte in seinem Thema wahrgenommen. Das sind nur zwei der vielen Vorteile eines Konferenz- oder User Group Votrages.
+
+In diesem Community-Event lernst du von gleich drei sehr erfahrenen Speakern, wie du dein ganz individuelles Thema findest, dich umfassend auf deinen Auftritt vorbereitest und erfolgreich vorträgst. Anschließend werfen wir noch einen Blick auf die oft vernachlässigte Nachbereitung und auf Materialien, die dir dabei helfen, ein erfolgreicher Speaker zu werden. Dabei nehmen wir uns die Zeit, erste inhaltliche Ideen für deinen Vortrag zu entwickeln und ausführlich Fragen zu beantworten. Am Ende hast du nicht nur ganz konkrete inhaltliche Ansätze für deinen ersten eigenen Vortrag, sondern weißt auch genau, wie du dich organisatorisch vorbereiten solltest.
+
+[Tech2Talk](https://tech2talk.de) ist eine von Falk Sippach, Sergej Tihonov und Steven Schwenke gegründete Community-Organisation, die in der Technologie-Branche arbeitende Personen dabei unterstützt, ihr Wissen mittels Vorträgen zu teilen. So fördert sie eine lebendige Community, den Austausch untereinander, persönliche Weiterentwicklung und aktives Lernen.
+
+Teilnahmevoraussetzungen: keine
+
+Dauer: 2h
+
+Ausstattung: Wir werden aktiv an deinem Vortrag arbeiten. Bring also etwas zum Festhalten deiner Ideen mit, in aller Regel also deinen Laptop. Wir werden per Beamer Inhalte präsentieren und an einem Flipchart oder Whiteboard wichtige Gedanken festhalten.
+
 ##
 
 
