@@ -94,7 +94,27 @@ Dauer: 3 Std.
 Ausstattung: In unserem Workshop soll wirklich gearbeitet werden, deshalb bringt am besten einen Laptop (macOS, Linux, Windows) mit, einer JVM/Kotlin/Gradle fähigen Entwicklungsumgebung in der aktuellen Version. Das ist zum Beispiel IntelliJ oder Android Studio. Aktuelle Informationen zum Workshop gibs hier: https://michalharakal.github.io/KPTChat
 
 
-##
+## Java Koans Challenge (JUG Schweiz: Patrick Baumgartner, JUG Darmstadt: Falk Sippach)
+
+**Beschreibung:** 
+
+Java Koans sind eine unterhaltsame Lernmethode. Sie bieten Java-Entwicklern interaktive Herausforderungen, um die eigenen Programmierfähigkeiten zu verbessern. Wir haben für euch praktische Rätsel vorbereitet, mit denen ihr die Neuerungen von Java 17 bis 21+ direkt ausprobieren könnt. Ihr müsst die Lücken in vorgegebenen Code-Schnipseln füllen, um die bereitgestellten Unit-Tests zu bestehen.
+
+Ihr könnt die Aufgaben am Dienstag und Mittwoch während des JavaLands lösen und eure Lösungen automatisiert in der Cloud validieren lassen. Nutzt dafür die Pausen oder gönnt Euch eine Pause und lasst einen der Vorträge ausfallen. An beiden Tagen bieten wir eine Sprechstunde an, in der Ihr mit Euren Fragen zu uns kommen könnt. Und die besten und schnellsten Lösungen belohnen wir mit tollen Preisen. 
+
+**Teilnahmevoraussetzungen:**
+
+- Java Kenntnisse
+- Eigener Laptop mit IDE & Java 21+
+
+**Dauer:**
+
+- Dienstag & Mittwoch während der Konferenz (2Tage)
+
+**Ausstattung:**
+
+- WLAN für die Teilnehmer
+- Monitor für Leaderboard
 
 
 ## Architektur Dojo (JUG Darmstadt: *Sebastian Rose*, *Alexander Schwartz*)
