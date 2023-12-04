@@ -154,6 +154,26 @@ Dauer: 2,5 Stunden.
 Ausstattung: WLAN, Beamer, Je nach Interesse der Teilnehmer, Gruppen-Tische, Pro Tisch ein Fernseher. Vier Gruppen max. oder 2/3er Gruppen.
 
 
+## JavaLand4Kidadults - Das große Rennen
+
+Beschreibung: Passend zum Veranstaltungsort der diesjährigen Jubiläums-JavaLand dreht sich dieses Jahr bei der JavaLand4Kidadults alles um das Thema Motorsport. Ihr habt die Möglichkeit, aus Klemmbausteinen euren eigenen Rennwagen zu bauen und müsst euch mit eurem Boliden gegen andere Teams beweisen. Für den Bau stellen wir verschiedene Sets zur Verfügung (Lego Wedo, Lego Education und Apitor Robot X). Ihr könnt die vorhandene Software zur Programmierung nutzen oder - wenn ihr crazy genug seid, eure eigene App zur Steuerung programmieren. In einem Qualifying könnt ihr euren Wagen testen. Im finalen Rennen geht es dann darum, auf das oberste Treppchen zu kommen. 
+
+Ablauf: 
+Am Montag- und Dienstagabend findet ihr euch zu Teams zusammen, baut und programmiert euren Wagen (Qualifying).
+Am Mittwoch findet das große Rennen statt. In drei Kategorieren (passend zu den Sets oben) ermitteln wir den Sieger.
+
+Teilnahmevoraussetzungen: Spaß am Klemmen und Programmieren. Für eigene Apps müssen die TeilnehmerInnen entsprechende Software auf ihren eigenen Laptops installieren.
+
+Dauer: Qualifying (Mo/Di) nach Bedarf, Finales Rennen: 1 h
+
+Ausstattung: Klemmbausteinsets werden als Leihgabe zur Verfügung gestellt. Ggf. auch Tablets. 
+
+Räumlichkeiten: Falls Montag- und Dienstagabend ein Konferenzraum zur Verfügung steht könnten sich die Teams dort treffen und tüfteln. Für das Rennen am Mittwoch (nachmittags?) wäre ein zentraler Ort wünschenswert.
+
+Links:
+Lego WeDo SDK: https://education.lego.com/en-us/product-resources/wedo-2/downloads/developer-kits/
+Apitor Robot X: https://labusch.de/wp/lego-education-wedo-2-0/apitor-robot-x-bluetooth-commands/
+
 ## TEMPLATE
 
 Beschreibung: 
