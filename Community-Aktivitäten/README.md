@@ -15,7 +15,7 @@ Dabei muss es nicht immer nur direkt um Java gehen. Außergewöhnliche Einreichu
 
 **Wir freuen uns auf Eure Einreichungen für die JavaLand 2024!**
 
-Die JavaLand 2024 findet vom 27.02. - 29.02.2024 statt.
+Die JavaLand 2024 findet vom 09.04. - 11.04.2024 statt.
 
 Optimalerweise schickt Ihr uns einfach einen Pull Request, der *dieses* Markdown-Dokument ändert, und in dem Titel, kurze Beschreibung, und -ganz wichtig!- Euere E-Mail-Adresse steht. Wir melden uns dann umgehend bei Euch! Wenn Euch ein PR zu aufwändig ist, könnt Ihr statt dessen auch gerne einfach eine E-Mail an *all-ca-sprecher@javaland.eu* senden mit diesen Informationen.
 
@@ -35,13 +35,13 @@ An dieser Stelle veröffentlichen wir den jeweils aktuellen Planungsstand, auf w
 
 ## JUG Café (JUG Deutschland: *Daniel van Ross*, Frank Schwichtenberg)
 
-Beschreibung: Jetzt wo die Vor-Ort Aktivitäten nach langer Pause wieder beginnen, möchten wir euch im JUG Café wieder die Möglichkeit geben Vertreter eurer lokalen User Groups kennenzulernen. Kommt ins Gespräch und erfahrt was die User Group in euer Heimat- oder Nachbarstadt veranstaltet. Ihr seid bereits aktiv in eurer JUG, umso besser, dann kommt vorbei und redet mit Vertretern anderer JUGs um Erfahrungen auszutauschen und Ideen für eigene Aktivitäten zu sammeln. 
+Beschreibung: Auch wenn sich die Location ändert, wollen wir euch natürlich wieder die Möglichkeit geben eure lokalen Java User Groups persönlich kennenzulernen. Kommt mit Vertretern der JUGs aus eurer Heimat- oder Nachbarstadt ins Gespräch, redet über Java, die Aktivitäten euer JUG oder welchen Speaker ihr gerne als nächstes vor Ort sehen würdet. Ihr seit selber Vertreter eine JUG? Dann präsentiert eure Aktivitäten hier, redet mit Vertretern anderer JUGs und tauscht eure Erfahrungen bei der Organisation eurer Events aus.
 
 Teilnahmevoraussetzungen: keine.
 
-Dauer: an beiden Tagen durchgehend.
+Dauer: noch unklar
 
-Ausstattung: großer Monitor 
+Ausstattung: noch unklar
 
 
 ## JavaLand Jogging ([JUG Hamburg](https://jughh.de/): [*Bennet Schulz*](https://github.com/bennetelli))
@@ -65,6 +65,105 @@ Teilnahmevoraussetzungen: Laptop mit Java Entwicklungsumgebung
 Dauer: 2 Stunden (bei Bedarf auch gerne mehr)
 
 Ausstattung: großer Screen/Beamer, Internet
+
+
+## JavaLand Sternfahrt ([JUG Schweiz](https://www.jug.ch/): [*Marcus Fihlon*](https://github.com/McPringle))
+
+### Beschreibung
+
+Wir kommen aus allen Ecken von Deutschland, Österreich und der Schweiz zur JavaLand, um ein paar schöne und nerdige Tage miteinander zu verbringen. Einige von uns werden die Anreise mit dem Fahrrad wagen. Vielleicht gehörst du auch dazu? Genau darum geht es bei dieser Community-Aktivität: Mit dem Fahrrad zum JavaLand anreisen. Über einen [Matrix-Chat](https://matrix.to/#/#javaland-sternfahrt:ijug.eu) können wir uns dabei koordinieren, um uns unterwegs zu treffen und Teilstrecken gemeinsam zu fahren.
+
+Vielleicht magst du deine Strecke auch mit einem GPS-Gerät, Navi oder Smartphone aufzeichnen? Die GPX-Datei kannst du dann nach deiner Ankunft per E-Mail mich schicken und ich werde mithilfe einer in Java entwickelten Open Source Anwendung ([GPX-Animator](https://gpx-animator.app/)) eine Animation der Sternfahrt erstellen. Vielleicht schaffen wir es mit dem Video sogar in die Community-Keynote?
+
+Falls du bei der Planung deiner Fahrt oder der Aufzeichnung als GPX-Datei Unterstützung benötigst, stehe ich dir vor der JavaLand gerne zur Verfügung. Eigentlich logisch, aber besser vorher informiert als hinterher bereut: Die Java User Group Switzerland, die JavaLand GmbH und der iJUG e.V. übernehmen keine Haftung. Du solltest also selbst versichert sein, falls unterwegs etwas passiert.
+
+Viele weitere Informationen findest du im [GitHub Repository zur JavaLand Sternfahrt 2024](https://github.com/jugch/javaland-sternfahrt-2024). Dort siehst du auch eine Liste der Teilnehmer, die schon zugesagt haben, und Informationen über ihre Routen.
+
+### Teilnahmevoraussetzungen
+
+Du solltest ein Fahrrad haben und idealerweise (nicht zwingend) ein Gerät, um deine Fahrt als GPX-Datei aufzuzeichnen.
+
+### Dauer
+
+Je nach Entfernung mehrere Stunden oder auch Tage... 😉
+
+### Ausstattung
+
+- Eine Möglichkeit, das Fahrrad für die Dauer der Teilnahme an der JavaLand sicher und geschützt einzustellen. Echte Biker bevorzugen ihr Rad im Hotel mit auf das Zimmer zu nehmen.
+
+
+## Wir erstellen einen ChatGPT-Klon von Grund auf, in Kotlin ([JUG Darmstadt](https://www.jug-da.de/) - [*Michal Harakal*](https://github.com/michalharakal), [*Alexander von Below*](https://github.com/below), *Falk Sippach*)
+
+Beschreibung: In diesem Workshop implementieren wir ein Sprachmodell, mit einer ähnlichen Architektur, auf der auch die bekannte "Large Language Models" wie z.B. ChatGPT aufbauen, mit Kotlin für JVM von Grund auf. 
+Wir lernen dabei, wie das ganze funktioniert. Wir werden sämtliche relevanten Konzepte und Ideen erläutern und sie auf eine Weise präsentieren, die es erlaubt, sie in anderen Sprachen selbst nachzubauen.
+
+Ziel des Workshops ist eine funktionsfähige Implementierung auf dem Laptop, die wir auf einem (viel) kleineren Datensatz trainieren und testen können.
+
+Teilnahmevoraussetzungen: Es sind keine Vorkenntnisse in GPT oder Data Science erforderlich und dieser Workshop ist auch für Java-Entwickler mit grundlegenden Kotlin-Kenntnissen geeignet. Wir werden die verschiedenen Komponenten und Konzepte von dem Modell erforschen, während wir gemeinsam den Code schreiben - von der ersten bis zur letzten Zeile.
+
+Dauer: 3 Std.
+
+Ausstattung: In unserem Workshop soll wirklich gearbeitet werden, deshalb bringt am besten einen Laptop (macOS, Linux, Windows) mit, einer JVM/Kotlin/Gradle fähigen Entwicklungsumgebung in der aktuellen Version. Das ist zum Beispiel IntelliJ oder Android Studio. Aktuelle Informationen zum Workshop gibs hier: https://michalharakal.github.io/KPTChat
+
+
+## Java Koans Challenge (JUG Schweiz: Patrick Baumgartner, JUG Darmstadt: Falk Sippach)
+
+**Beschreibung:** 
+
+Java Koans sind eine unterhaltsame Lernmethode. Sie bieten Java-Entwicklern interaktive Herausforderungen, um die eigenen Programmierfähigkeiten zu verbessern. Wir haben für euch praktische Rätsel vorbereitet, mit denen ihr die Neuerungen von Java 17 bis 21+ direkt ausprobieren könnt. Ihr müsst die Lücken in vorgegebenen Code-Schnipseln füllen, um die bereitgestellten Unit-Tests zu bestehen.
+
+Ihr könnt die Aufgaben am Dienstag und Mittwoch während des JavaLands lösen und eure Lösungen automatisiert in der Cloud validieren lassen. Nutzt dafür die Pausen oder gönnt Euch eine Pause und lasst einen der Vorträge ausfallen. An beiden Tagen bieten wir eine Sprechstunde an, in der Ihr mit Euren Fragen zu uns kommen könnt. Und die besten und schnellsten Lösungen belohnen wir mit tollen Preisen. 
+
+**Teilnahmevoraussetzungen:**
+
+- Java Kenntnisse
+- Eigener Laptop mit IDE & Java 21+
+
+**Dauer:**
+
+- Dienstag & Mittwoch während der Konferenz (2Tage)
+
+**Ausstattung:**
+
+- WLAN für die Teilnehmer
+- Monitor für Leaderboard
+
+
+## Architektur Dojo (JUG Darmstadt: *Sebastian Rose*, *Alexander Schwartz*)
+
+Beschreibung: Als Architekten oder Entwickler bauen wir Systemarchitekturen und bekommen meist erst am Ende des Projekts Feedback, ob es so funktionierte oder nicht.
+In diesem Architektur Dojo ist das anders: Bereits nach einer halben Stunde präsentiert ihr euren Entwurf, bekommt Feedback und könnt die Lösung anschließend verbessern!
+Bearbeitet jenseits von eingetretenen Pfaden des Projektalltags gemeinsam mit anderen eine Architekturaufgabe.
+Übt es, Architekturen und Architekturentscheidungen zu präsentieren und zu begründen!
+
+Vorlage für uns sind die Architektur Katas von Neal Ford (http://nealford.com/katas/about.html).
+Mehrere Gruppen zu je 3-5 Personen entwerfen eine Architektur für eine vorgegebene Aufgabe.
+Danach stellen sich die Gruppen ihre Lösungen gegenseitig vor und bekommen Feedback.
+In der nächsten Iteration arbeiten sie Anregungen und Fragen ein und präsentieren ihre angepasste Lösung erneut.
+
+Teilnahmevoraussetzungen: Keine.
+
+Dauer: 2,5 Stunden.
+
+Ausstattung: Papier/Whiteboard/Flipchart/irgendwas zum Malen. Gruppentische a max 5-6 Teilnehmer pro Gruppe. Bis zu 8 Tische.
+
+
+## Coding Dojo: ChatGPT powered programming (JUG Darmstadt: *Sebastian Rose*)
+
+Beschreibung: Für den beruflichen Alltag ist es wichtig, sich ständig fortzubilden und seine Fertigkeiten als Entwickler zu trainieren.
+Mit Code Katas in einem Coding Dojo kannst du in einer kleinen Gruppe überschaubare Programmieraufgaben lösen.
+Dabei lernst du mit und von anderen in einer geschützten Umgebung.
+Es zählt weniger das Ergebnis, als vielmehr ist der Weg das Ziel.
+
+In diesem Jahr ist das Thema ChatGPT als Unterstützung beim Programmieren in aller Munde.
+Im Dojo sollen die Teilneher daher eine Kata mit Hilfe von ChatGPT lösen.
+Die Teilnehmer entscheiden selbst in welcher Form sie ChatGPT integrieren: z.B. als Pair Programming Partner, als Code Reviewer oder als Coach, etc.
+
+Teilnahmevoraussetzungen: Min jeder zweite Teilnehmer benötigt ein eigenes Laptop mit lauffähigen JVM-Entwicklungsumgebung. 
+
+Dauer: 2,5 Stunden.
+
+Ausstattung: WLAN, Beamer, Je nach Interesse der Teilnehmer, Gruppen-Tische, Pro Tisch ein Fernseher. Vier Gruppen max. oder 2/3er Gruppen.
 
 
 ## TEMPLATE
