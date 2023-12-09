@@ -94,7 +94,7 @@ Dauer: 3 Std.
 Ausstattung: In unserem Workshop soll wirklich gearbeitet werden, deshalb bringt am besten einen Laptop (macOS, Linux, Windows) mit, einer JVM/Kotlin/Gradle fähigen Entwicklungsumgebung in der aktuellen Version. Das ist zum Beispiel IntelliJ oder Android Studio. Aktuelle Informationen zum Workshop gibs hier: https://michalharakal.github.io/KPTChat
 
 
-## Tech2Talk - Erstelle mit Hilfe erfahrener Speaker deinen ersten eigenen Vortrag! (JUG Ostfalen: Steven Schwenke, JUG Darmstadt: Falk Sippach)
+## Tech2Talk - Erstelle mit Hilfe erfahrener Speaker deinen ersten eigenen Vortrag! (JUG Ostfalen: Steven Schwenke, JUG Darmstadt: Falk Sippach und Sergej Tihonov)
 
 Beschreibung: Vorträge zu halten ist in der IT Community eine der wichtigsten Mittel, Wissen zu verteilen. Zusätzlich dazu erhöht der Sprecher seine eigene Sichtbarkeit und wird als Experte in seinem Thema wahrgenommen. Das sind nur zwei der vielen Vorteile eines Konferenz- oder User Group Votrages.
 
