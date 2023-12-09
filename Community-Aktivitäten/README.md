@@ -94,7 +94,6 @@ Dauer: 3 Std.
 Ausstattung: In unserem Workshop soll wirklich gearbeitet werden, deshalb bringt am besten einen Laptop (macOS, Linux, Windows) mit, einer JVM/Kotlin/Gradle fähigen Entwicklungsumgebung in der aktuellen Version. Das ist zum Beispiel IntelliJ oder Android Studio. Aktuelle Informationen zum Workshop gibs hier: https://michalharakal.github.io/KPTChat
 
 
-
 ## Tech2Talk - Erstelle mit Hilfe erfahrener Speaker deinen ersten eigenen Vortrag!
 
 Beschreibung: Vorträge zu halten ist in der IT Community eine der wichtigsten Mittel, Wissen zu verteilen. Zusätzlich dazu erhöht der Sprecher seine eigene Sichtbarkeit und wird als Experte in seinem Thema wahrgenommen. Das sind nur zwei der vielen Vorteile eines Konferenz- oder User Group Votrages.
@@ -109,7 +108,77 @@ Dauer: 2h
 
 Ausstattung: Wir werden aktiv an deinem Vortrag arbeiten. Bring also etwas zum Festhalten deiner Ideen mit, in aller Regel also deinen Laptop. Wir werden per Beamer Inhalte präsentieren und an einem Flipchart oder Whiteboard wichtige Gedanken festhalten.
 
-##
+
+## Java Koans Challenge (JUG Schweiz: Patrick Baumgartner, JUG Darmstadt: Falk Sippach)
+
+**Beschreibung:** 
+
+Java Koans sind eine unterhaltsame Lernmethode. Sie bieten Java-Entwicklern interaktive Herausforderungen, um die eigenen Programmierfähigkeiten zu verbessern. Wir haben für euch praktische Rätsel vorbereitet, mit denen ihr die Neuerungen von Java 17 bis 21+ direkt ausprobieren könnt. Ihr müsst die Lücken in vorgegebenen Code-Schnipseln füllen, um die bereitgestellten Unit-Tests zu bestehen.
+
+Ihr könnt die Aufgaben am Dienstag und Mittwoch während des JavaLands lösen und eure Lösungen automatisiert in der Cloud validieren lassen. Nutzt dafür die Pausen oder gönnt Euch eine Pause und lasst einen der Vorträge ausfallen. An beiden Tagen bieten wir eine Sprechstunde an, in der Ihr mit Euren Fragen zu uns kommen könnt. Und die besten und schnellsten Lösungen belohnen wir mit tollen Preisen. 
+
+**Teilnahmevoraussetzungen:**
+
+- Java Kenntnisse
+- Eigener Laptop mit IDE & Java 21+
+
+**Dauer:**
+
+- Dienstag & Mittwoch während der Konferenz (2Tage)
+
+**Ausstattung:**
+
+- WLAN für die Teilnehmer
+- Monitor für Leaderboard
+
+
+## Architektur Dojo (JUG Darmstadt: *Sebastian Rose*, *Alexander Schwartz*)
+
+Beschreibung: Als Architekten oder Entwickler bauen wir Systemarchitekturen und bekommen meist erst am Ende des Projekts Feedback, ob es so funktionierte oder nicht.
+In diesem Architektur Dojo ist das anders: Bereits nach einer halben Stunde präsentiert ihr euren Entwurf, bekommt Feedback und könnt die Lösung anschließend verbessern!
+Bearbeitet jenseits von eingetretenen Pfaden des Projektalltags gemeinsam mit anderen eine Architekturaufgabe.
+Übt es, Architekturen und Architekturentscheidungen zu präsentieren und zu begründen!
+
+Vorlage für uns sind die Architektur Katas von Neal Ford (http://nealford.com/katas/about.html).
+Mehrere Gruppen zu je 3-5 Personen entwerfen eine Architektur für eine vorgegebene Aufgabe.
+Danach stellen sich die Gruppen ihre Lösungen gegenseitig vor und bekommen Feedback.
+In der nächsten Iteration arbeiten sie Anregungen und Fragen ein und präsentieren ihre angepasste Lösung erneut.
+
+Teilnahmevoraussetzungen: Keine.
+
+Dauer: 2,5 Stunden.
+
+Ausstattung: Papier/Whiteboard/Flipchart/irgendwas zum Malen. Gruppentische a max 5-6 Teilnehmer pro Gruppe. Bis zu 8 Tische.
+
+
+## Coding Dojo: ChatGPT powered programming (JUG Darmstadt: *Sebastian Rose*)
+
+Beschreibung: Für den beruflichen Alltag ist es wichtig, sich ständig fortzubilden und seine Fertigkeiten als Entwickler zu trainieren.
+Mit Code Katas in einem Coding Dojo kannst du in einer kleinen Gruppe überschaubare Programmieraufgaben lösen.
+Dabei lernst du mit und von anderen in einer geschützten Umgebung.
+Es zählt weniger das Ergebnis, als vielmehr ist der Weg das Ziel.
+
+In diesem Jahr ist das Thema ChatGPT als Unterstützung beim Programmieren in aller Munde.
+Im Dojo sollen die Teilneher daher eine Kata mit Hilfe von ChatGPT lösen.
+Die Teilnehmer entscheiden selbst in welcher Form sie ChatGPT integrieren: z.B. als Pair Programming Partner, als Code Reviewer oder als Coach, etc.
+
+Teilnahmevoraussetzungen: Min jeder zweite Teilnehmer benötigt ein eigenes Laptop mit lauffähigen JVM-Entwicklungsumgebung. 
+
+Dauer: 2,5 Stunden.
+
+Ausstattung: WLAN, Beamer, Je nach Interesse der Teilnehmer, Gruppen-Tische, Pro Tisch ein Fernseher. Vier Gruppen max. oder 2/3er Gruppen.
+
+
+## HTMX und Java ([JUG Paderborn](https://jug-pb.gitlab.io/): [*Frederik Hahne*](https://www.linkedin.com/in/frederikhahne/))
+
+Beschreibung: Nachdem intercooler.js keine große Beachtung gefunden hat, da Frameworks wie React, Angular und Vue allgegenwärtig waren hat es HTMX inzwischen sogar auf das Techradar von Thoughworks geschafft.
+In diesem kleinen Workshop möchte ich euch HTMX etwas näher bringen und wie man es im Java Umfeld verwenden kann. Bringt euren Laptop mit und wir bauen zusammen eine kleine Anwendung mit Spring Boot, Quarkus oder Micronaut und HTMX.
+
+Teilnahmevoraussetzungen: Laptop mit Java Entwicklungsumgebung
+
+Dauer: 2 Stunden (bei Bedarf auch gerne mehr)
+
+Ausstattung: großer Screen/Beamer, Internet
 
 
 ## TEMPLATE
