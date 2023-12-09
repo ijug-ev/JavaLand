@@ -175,6 +175,19 @@ Links:
 Lego WeDo SDK: https://education.lego.com/en-us/product-resources/wedo-2/downloads/developer-kits/
 Apitor Robot X: https://labusch.de/wp/lego-education-wedo-2-0/apitor-robot-x-bluetooth-commands/
 
+
+## HTMX und Java ([JUG Paderborn](https://jug-pb.gitlab.io/): [*Frederik Hahne*](https://www.linkedin.com/in/frederikhahne/))
+
+Beschreibung: Nachdem intercooler.js keine große Beachtung gefunden hat, da Frameworks wie React, Angular und Vue allgegenwärtig waren hat es HTMX inzwischen sogar auf das Techradar von Thoughworks geschafft.
+In diesem kleinen Workshop möchte ich euch HTMX etwas näher bringen und wie man es im Java Umfeld verwenden kann. Bringt euren Laptop mit und wir bauen zusammen eine kleine Anwendung mit Spring Boot, Quarkus oder Micronaut und HTMX.
+
+Teilnahmevoraussetzungen: Laptop mit Java Entwicklungsumgebung
+
+Dauer: 2 Stunden (bei Bedarf auch gerne mehr)
+
+Ausstattung: großer Screen/Beamer, Internet
+
+
 ## TEMPLATE
 
 Beschreibung: 
