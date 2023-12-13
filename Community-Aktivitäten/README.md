@@ -165,6 +165,27 @@ Dauer: 2 Stunden (bei Bedarf auch gerne mehr)
 
 Ausstattung: großer Screen/Beamer, Internet
 
+## Building your career: Ask anything
+<details>
+  <summary>Collaborator</summary>
+  <ol>
+    <li> ([JUG Schweiz](https://jug.ch): [*Ixchel Ruiz*](https://www.linkedin.com/in/ixchelruiz/))</li>
+    <li> ([JUG Dortmund](https://github.com/JUGDortmund): [*Sandra Parsick*](https://www.linkedin.com/in/sandra-parsick/))</li>
+    <li> ([JUG Dortmund](https://github.com/JUGDortmund): [*Hendrik Ebbers*](https://www.linkedin.com/in/hendrik-ebbers/))</li>
+  </ol>
+</details>
+
+### Description:
+If you're looking for career advice in software development, a good strategy is to ask your seniors. They have valuable experience and can provide insights that will help guide your professional development. Their first-hand knowledge can give you a clear understanding of the industry and its requirements. Don't hesitate to join this event with any questions or concerns you may have. By seeking the guidance and advice of our guests, you'll be better equipped to make informed decisions about your career path.
+
+### Duration : 2 hr : 1 hr Tuesday & Wednesday during the conference ( 2 Days ) 
+
+### Beschreibung:
+If you're looking for career advice in software development, a good strategy is to ask your seniors. They have valuable experience and can provide insights that will help guide your professional development. Their first-hand knowledge can give you a clear understanding of the industry and its requirements. Don't hesitate to come to this event with any questions or concerns that you may have. By seeking the guidance and advice of our guests, you'll be better equipped to make informed decisions about your career path.
+
+### Dauer: 2 Stunden : 1 Std. Dienstag & Mittwoch während der Konferenz ( 2 Tage )
+
+### Equipment: Panel of 4 seats ( fishbowl format )
 
 ## TEMPLATE
 
