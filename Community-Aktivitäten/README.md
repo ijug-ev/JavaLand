@@ -166,12 +166,12 @@ Dauer: 2 Stunden (bei Bedarf auch gerne mehr)
 Ausstattung: großer Screen/Beamer, Internet
 
 ## Building your career: Ask anything
-<details>
-  <summary>Collaborators</summary>
-   ([JUG Schweiz](https://jug.ch): [*Ixchel Ruiz*](https://www.linkedin.com/in/ixchelruiz/))
-   ([JUG Dortmund](https://github.com/JUGDortmund): [*Sandra Parsick*](https://www.linkedin.com/in/sandra-parsick/))
-   ([JUG Dortmund](https://github.com/JUGDortmund): [*Hendrik Ebbers*](https://www.linkedin.com/in/hendrik-ebbers/))
-</details>
+:us: :de:
+
+### Collaborators
+* [JUG Schweiz]: [Ixchel Ruiz]
+* [JUG Dortmund]: [Sandra Parsick]
+* [JUG Dortmund]: [Hendrik Ebbers]
 
 ### Description:
 If you're looking for career advice in software development, a good strategy is to ask your seniors. They have valuable experience and can provide insights that will help guide your professional development. Their first-hand knowledge can give you a clear understanding of the industry and its requirements. Don't hesitate to join this event with any questions or concerns you may have. By seeking the guidance and advice of our guests, you'll be better equipped to make informed decisions about your career path.
@@ -186,11 +186,13 @@ If you're looking for career advice in software development, a good strategy is 
 ### Equipment: Panel of 4 seats ( fishbowl format )
 
 ## Work Life : Cultural Transformation with Diversity and Inclusion
-<details>
-  <summary>Collaborators</summary>
-   ([JUG Schweiz](https://jug.ch): [*Ixchel Ruiz*](https://www.linkedin.com/in/ixchelruiz/))
-   ([JUG Dortmund](https://github.com/JUGDortmund): [*Sandra Parsick*](https://www.linkedin.com/in/sandra-parsick/))
-</details>
+:us: :de:
+
+### Collaborators
+- [JUG Schweiz]: [Ixchel Ruiz]
+- [JUG Dortmund]: [Sandra Parsick]
+- [JUG Dortmund]: [Hendrik Ebbers]
+
 
 ### Description:
 Interested in creating a positive work environment that embraces diversity and inclusion? We have the perfect open discussion for you! Join us as we delve into the world of workplace culture transformation with diversity and inclusion strategies. We will share their insights and experiences on how organisations can foster a culture that celebrates difference and promotes inclusivity. From implementing diversity training programmes to developing inclusive leadership strategies
@@ -213,5 +215,12 @@ Teilnahmevoraussetzungen:
 Dauer: 
 
 Ausstattung:
+
+[JUG Schweiz]: https://jug.ch
+[JUG Dortmund]: https://github.com/JUGDortmund
+[Ixchel Ruiz]: https://www.linkedin.com/in/ixchelruiz/
+[Sandra Parsick]: https://www.linkedin.com/in/sandra-parsick/
+[Hendrik Ebbers]: https://www.linkedin.com/in/hendrik-ebbers/
+
 
 
