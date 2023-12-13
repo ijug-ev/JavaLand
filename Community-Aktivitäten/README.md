@@ -167,12 +167,10 @@ Ausstattung: großer Screen/Beamer, Internet
 
 ## Building your career: Ask anything
 <details>
-  <summary>Collaborator</summary>
-  <ol>
-    <li> ([JUG Schweiz](https://jug.ch): [*Ixchel Ruiz*](https://www.linkedin.com/in/ixchelruiz/))</li>
-    <li> ([JUG Dortmund](https://github.com/JUGDortmund): [*Sandra Parsick*](https://www.linkedin.com/in/sandra-parsick/))</li>
-    <li> ([JUG Dortmund](https://github.com/JUGDortmund): [*Hendrik Ebbers*](https://www.linkedin.com/in/hendrik-ebbers/))</li>
-  </ol>
+  <summary>Collaborators</summary>
+   ([JUG Schweiz](https://jug.ch): [*Ixchel Ruiz*](https://www.linkedin.com/in/ixchelruiz/))
+   ([JUG Dortmund](https://github.com/JUGDortmund): [*Sandra Parsick*](https://www.linkedin.com/in/sandra-parsick/))
+   ([JUG Dortmund](https://github.com/JUGDortmund): [*Hendrik Ebbers*](https://www.linkedin.com/in/hendrik-ebbers/))
 </details>
 
 ### Description:
@@ -182,6 +180,25 @@ If you're looking for career advice in software development, a good strategy is 
 
 ### Beschreibung:
 If you're looking for career advice in software development, a good strategy is to ask your seniors. They have valuable experience and can provide insights that will help guide your professional development. Their first-hand knowledge can give you a clear understanding of the industry and its requirements. Don't hesitate to come to this event with any questions or concerns that you may have. By seeking the guidance and advice of our guests, you'll be better equipped to make informed decisions about your career path.
+
+### Dauer: 2 Stunden : 1 Std. Dienstag & Mittwoch während der Konferenz ( 2 Tage )
+
+### Equipment: Panel of 4 seats ( fishbowl format )
+
+## Work Life : Cultural Transformation with Diversity and Inclusion
+<details>
+  <summary>Collaborators</summary>
+   ([JUG Schweiz](https://jug.ch): [*Ixchel Ruiz*](https://www.linkedin.com/in/ixchelruiz/))
+   ([JUG Dortmund](https://github.com/JUGDortmund): [*Sandra Parsick*](https://www.linkedin.com/in/sandra-parsick/))
+</details>
+
+### Description:
+Interested in creating a positive work environment that embraces diversity and inclusion? We have the perfect open discussion for you! Join us as we delve into the world of workplace culture transformation with diversity and inclusion strategies. We will share their insights and experiences on how organisations can foster a culture that celebrates difference and promotes inclusivity. From implementing diversity training programmes to developing inclusive leadership strategies
+
+### Duration : 2 hr : 1 hr Tuesday & Wednesday during the conference ( 2 Days ) 
+
+### Beschreibung:
+Sind Sie daran interessiert, ein positives Arbeitsumfeld zu schaffen, in dem Vielfalt und Integration groß geschrieben werden? Wir haben die perfekte offene Diskussion für Sie! Tauchen Sie mit uns ein in die Welt der Veränderung der Arbeitsplatzkultur durch Strategien für Vielfalt und Integration. Wir werden ihre Einsichten und Erfahrungen darüber austauschen, wie Unternehmen eine Kultur fördern können, die Unterschiede würdigt und Inklusion fördert. Von der Umsetzung von Schulungsprogrammen für Vielfalt bis zur Entwicklung von Strategien für integrative Führung
 
 ### Dauer: 2 Stunden : 1 Std. Dienstag & Mittwoch während der Konferenz ( 2 Tage )
 
