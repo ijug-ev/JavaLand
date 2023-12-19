@@ -154,7 +154,7 @@ Dauer: 2,5 Stunden.
 Ausstattung: WLAN, Beamer, Je nach Interesse der Teilnehmer, Gruppen-Tische, Pro Tisch ein Fernseher. Vier Gruppen max. oder 2/3er Gruppen.
 
 
-## JavaLand4Kidadults - Das große Rennen (JUG Hamburg, *Fin Labusch*)
+## JavaLand4Kidults - Das große Rennen (JUG Hamburg, *Fin Labusch*)
 
 Beschreibung: Passend zum Veranstaltungsort der diesjährigen Jubiläums-JavaLand dreht sich dieses Jahr bei der JavaLand4Kidadults alles um das Thema Motorsport. Ihr habt die Möglichkeit, aus Klemmbausteinen euren eigenen Rennwagen zu bauen und müsst euch mit eurem Boliden gegen andere Teams beweisen. Für den Bau stellen wir verschiedene Sets zur Verfügung (Lego Wedo, Lego Mindstorms EV3 und Apitor Robot X). Ihr könnt die vorhandene Software zur Programmierung nutzen oder - wenn ihr crazy genug seid, eure eigene App zur Steuerung programmieren. In einem Qualifying könnt ihr euren Wagen testen. Im finalen Rennen geht es dann darum, auf das oberste Treppchen zu kommen. 
 Gefahren wird eine gerade Strecke von ca. 5 Metern, also ein klassisches Dragsterrennen.
