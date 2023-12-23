@@ -166,7 +166,7 @@ Dauer: 2 Stunden (bei Bedarf auch gerne mehr)
 Ausstattung: großer Screen/Beamer, Internet
 
 
-## Refactoring Towards Clean Architecture (JUG Darmstadt [*Matthias Eschhold*](https://www.linkedin.com/in/matthias-eschhold-22a33911a/), *Falk Sippach*)
+## Refactoring Towards Clean Architecture (JUG Darmstadt: [*Matthias Eschhold*](https://www.linkedin.com/in/matthias-eschhold-22a33911a/), *Falk Sippach*)
 
 Beschreibung: Im Rahmen unseres Workshops setzen wir uns intensiv mit der Herausforderung auseinander, einen "Big Ball of Mud" mithilfe der Philosophie des Clean Architecture Pattern in wartbare und verständliche Strukturen zu überführen. Dieser Workshop bietet eine interaktive Plattform, um das Clean Architecture Pattern kennenzulernen, zu verstehen und es als neue Zielarchitektur bei umfangreichen Refactorings einzusetzen. In Kleingruppen werden wir systematisch eine Komponente des "Big Ball of Mud" in ein sauber strukturiertes Modul gemäß dem Clean Architecture Pattern überführen. Deine Teilnahme ermöglicht also nicht nur die theoretische Auseinandersetzung mit diesen Konzepten, sondern auch deren praktische Anwendung.
 
