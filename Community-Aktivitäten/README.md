@@ -108,13 +108,13 @@ Dauer: 2h
 
 Ausstattung: Wir werden aktiv an deinem Vortrag arbeiten. Bring also etwas zum Festhalten deiner Ideen mit, in aller Regel also deinen Laptop. Wir werden per Beamer Inhalte präsentieren und an einem Flipchart oder Whiteboard wichtige Gedanken festhalten.
 
-## Mentoring Speed Dating - Finde den perfect match für deine Weiterentwicklung! (JUG Ostfalen: Steven Schwenke, Lisa Rosenberg)
+## Mentoring Speed-Dating - Finde den perfect match für deine Weiterentwicklung! (JUG Ostfalen: Steven Schwenke, Lisa Rosenberg)
 
-Beschreibung: Vor nun schon 20 Jahren habe ich meinen ersten offiziellen Mentor übergeholfen bekommen. Er verschaffte mir etliche zusätzliche Chancen und Optionen, gab mir Feedback, Unterstützung und Orientierung und half mir damit, mich auf meine Ziele zu konzentrieren und diese zu erreichen. Seitdem hatte ich teilweise mehrere inoffizielle und offizielle Mentoren gleichzeitig und habe selbst Studenten, Azubis und Kollegen auf ihrem Weg als Mentor begleitet. Das Schöne an diesem Prinzip: Jeder hat das Potential zum Mentor, und jeder darf zur gleichen Zeit ein Mentee sein!
+Beschreibung: Vor nun schon 20 Jahren habe ich meinen ersten offiziellen Mentor übergeholfen bekommen. Er verschaffte mir etliche zusätzliche Chancen und Optionen, gab mir Feedback, Unterstützung und Orientierung und half mir damit, mich auf meine Ziele zu konzentrieren und diese zu erreichen. Seitdem hatte ich teilweise mehrere inoffizielle und offizielle Mentoren gleichzeitig und habe selbst Studenten, Azubis und Kollegen auf ihrem Weg als Mentor begleitet. Das Schöne an diesem Prinzip: Jeder hat das Potenzial zum Mentor, und jeder darf zur gleichen Zeit ein Mentee sein!
 
 In dieser Community-Aktivität werde ich dir die wichtigsten Konzepte des Mentorings erklären und dir aus meiner persönlichen Erfahrung berichten. Wir nehmen uns in entspannter Atmosphäre die Zeit für ein Gespräch, in dem alle Fragen beantwortet werden. 
 
-Nachdem alle wissen, worauf es beim Mentoring ankommt, gehen wir zum Speed Dating über. In mehreren Runden lernst du Menschen kennen, die entweder ein Mentor für dich sein können, oder als Mentee von deinen Erfahrungen profitieren könnten. Wie es dann weiter geht, liegt ganz bei euch! Wenn alles passt, könnt ihr das vorher vermittelte Wissen für euer ganz persönliches Mentoring nutzen und euch zum Beispiel regelmäßig treffen, ab und zu mal telefonisch austauschen oder einfach bei Bedarf in Kontakt treten. Ihr könnt natürlich auch eine schlagkräftige Gruppe von Mentoren und Mentees aufbauen, es liegt in eurer Hand!
+Nachdem alle wissen, worauf es beim Mentoring ankommt, gehen wir zum Speed-Dating über. In mehreren Runden lernst du Menschen kennen, die entweder ein Mentor für dich sein können, oder als Mentee von deinen Erfahrungen profitieren könnten. Wie es dann weiter geht, liegt ganz bei euch! Wenn alles passt, könnt ihr das vorher vermittelte Wissen für euer ganz persönliches Mentoring nutzen und euch zum Beispiel regelmäßig treffen, ab und zu mal telefonisch austauschen oder einfach bei Bedarf in Kontakt treten. Ihr könnt natürlich auch eine schlagkräftige Gruppe von Mentoren und Mentees aufbauen, es liegt in eurer Hand!
 
 Teilnahmevoraussetzungen: keine
 
