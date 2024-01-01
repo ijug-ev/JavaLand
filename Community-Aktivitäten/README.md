@@ -96,7 +96,7 @@ Ausstattung: In unserem Workshop soll wirklich gearbeitet werden, deshalb bringt
 
 ## Tech2Talk - Erstelle mit Hilfe erfahrener Speaker deinen ersten eigenen Vortrag! (JUG Ostfalen: Steven Schwenke, JUG Darmstadt: Falk Sippach und Sergej Tihonov)
 
-Beschreibung: Vorträge zu halten ist in der IT Community eine der wichtigsten Mittel, Wissen zu verteilen. Zusätzlich dazu erhöht der Sprecher seine eigene Sichtbarkeit und wird als Experte in seinem Thema wahrgenommen. Das sind nur zwei der vielen Vorteile eines Konferenz- oder User Group Votrages.
+Beschreibung: Vorträge zu halten ist in der IT Community eine der wichtigsten Mittel, Wissen zu verteilen. Zusätzlich dazu erhöht der Sprecher seine eigene Sichtbarkeit und wird als Experte in seinem Thema wahrgenommen. Das sind nur zwei der vielen Vorteile eines Konferenz- oder User Group Vortrages.
 
 In diesem Community-Event gehst du Hands-On mit Hilfe von gleich drei sehr erfahrenen Speakern (Falk Sippach, Steven Schwenke, Sergej Tihonov) die ersten Schritte auf dem Weg zu deinem ersten Vortrag. Gemeinsam finden wir dein ganz individuelles Thema, strukturieren deinen Vortrag und bereiten dich umfassend auf deinen Auftritt vor. Anschließend werfen wir noch einen Blick auf die oft vernachlässigte Nachbereitung und auf Materialien, die dir dabei helfen, ein erfolgreicher Speaker zu werden. 
 
