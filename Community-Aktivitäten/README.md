@@ -200,7 +200,7 @@ Interested in creating a positive work environment that embraces diversity and i
 ### Duration : 2 hr : 1 hr Tuesday & Wednesday during the conference ( 2 Days ) 
 
 ### Beschreibung:
-Sind Sie daran interessiert, ein positives Arbeitsumfeld zu schaffen, in dem Vielfalt und Integration groß geschrieben werden? Wir haben die perfekte offene Diskussion für Sie! Tauchen Sie mit uns ein in die Welt der Veränderung der Arbeitsplatzkultur durch Strategien für Vielfalt und Integration. Wir werden ihre Einsichten und Erfahrungen darüber austauschen, wie Unternehmen eine Kultur fördern können, die Unterschiede würdigt und Inklusion fördert. Von der Umsetzung von Schulungsprogrammen für Vielfalt bis zur Entwicklung von Strategien für integrative Führung
+Du bist daran interessiert, ein positives Arbeitsumfeld zu schaffen, in dem Vielfalt und Inklusive groß geschrieben wird? Wir haben die perfekte offene Diskussion für Dich! Tauch mit uns ein in eine Welt der Veränderung der Arbeitsplatzkultur durch Strategien für Vielfalt und Inklusion. Wir werden Einsichten und Erfahrungen darüber austauschen, wie Unternehmen eine Kultur fördern können, die Unterschiede würdigt und Inklusion fördert. Von der Umsetzung von Schulungsprogrammen für Vielfalt bis zur Entwicklung von Strategien für integrative Führung.
 
 ### Dauer: 2 Stunden : 1 Std. Dienstag & Mittwoch während der Konferenz ( 2 Tage )
 
