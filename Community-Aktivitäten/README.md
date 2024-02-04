@@ -166,6 +166,37 @@ Dauer: 2 Stunden (bei Bedarf auch gerne mehr)
 Ausstattung: großer Screen/Beamer, Internet
 
 
+## Open Source - Die Hürde(n) etwas beizutragen (JUG ?? [Karl Heinz Marbaise](https://github.com/khmarbaise))
+
+### Beschreibung
+Eine oft angetroffene Meinung ist es, dass ein Beitrag es nicht wert ist, überhaupt beigetragen zu werden, oder dass die Person
+nicht gut genug ist, etwas beizusteuern oder... 
+
+Der Workshop bzw. die Gesprächsrunde möchte zeigen, wie einfach es ist, einen Beitrag zu Open Source zu leisten. Beiträge zu
+Open Source Projekten können in verschiedensten Formen gemacht werden. Das kann in Form von Quell-Code geschehen, aber auch
+in Form von Dokumentation oder der Verbesserung derselbigen. Das sind nur zwei Aspekte eines Beitrages zu Open Source 
+Projekten. Im Rahmen des Workshops möchten wir genauer vorstellen bzw. besprechen, welche anderen Möglichkeiten es gibt
+zu Open Source Projekten beizutragen, welche Rahmenbedingungen vorhanden sind usw. 
+Ziel ist es auch, die Fragen, die im Zusammenhang mit einem Beitrag zu einem Open Source Projekt vorhanden sind, zu beantworten. 
+
+Wir möchten die Vorgehensweisen für einen Beitrag zu einem Open Source Projekt vorstellen und zeigen, wie man z.B.
+sein Interesse an der Mitarbeit bekundet und dann auch in die Tat umsetzt. Stellvertretend möchte ich das Apache Maven Projekt
+vorstellen und zeigen, wie Teilnehmende sich dort beteiligen können. Es können gerne auch andere Projekte betrachtet werden.
+
+Teilnahmevoraussetzungen: 
+* Wer Fragen im Zusammenhang mit Beiträgen zu Open Source Projekten hat, ist herzlich willkommen.
+* Kenntnisse in Java sind hilfreich, aber nicht notwendig.
+* Laptop mit Java inkl. IDE im Falle für Code Beiträge
+
+Dauer:
+ * 1-2 Stündiger Workshop?? (Umfang und Dauer kann noch genauer abgestimmt werden.) 
+
+Ausstattung:
+ * Beamer
+ * WLAN 
+ * Raum oder abgetrennter Bereich für die Teilnehmenden?
+ * eigener Laptop
+
 ## TEMPLATE
 
 Beschreibung: 
