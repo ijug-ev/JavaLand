@@ -93,6 +93,49 @@ Dauer: 3 Std.
 
 Ausstattung: In unserem Workshop soll wirklich gearbeitet werden, deshalb bringt am besten einen Laptop (macOS, Linux, Windows) mit, einer JVM/Kotlin/Gradle fähigen Entwicklungsumgebung in der aktuellen Version. Das ist zum Beispiel IntelliJ oder Android Studio. Aktuelle Informationen zum Workshop gibs hier: https://michalharakal.github.io/KPTChat
 
+## Community UnKonferenz ([JUG Darmstadt](https://www.jug-da.de/): [Gerd Aschemann](https://github.com/ascheman) / [JUG Stuttgart](https://www.jugs.org/): [Tobias Frech](https://github.com/JOpsDev))
+
+### Beschreibung
+
+_Teaser_: Zur Einstimmung auf die Konferenz: Bringt Eure Themen mit und wir starten am Vorabend der Konferenz mit einer [Runde lockerer
+Diskussionen](https://de.wikipedia.org/wiki/Tagung#Unkonferenz) mit Gleichgesinnten.
+
+_Dauer_: 3-4 Stunden
+
+_Voraussetzungen_: Interesse am Austausch mit Anderen, eigene Ideen und Gedanken gerne mitbringen und teilen. Alle sind willkommen. Der [Verhaltenskodex der JavaLand](https://www.javaland.eu/de/verhaltenscodex/) gilt natürlich auch hier.
+
+### Ablauf
+
+* 15 Min - Intro (Konzept und Regeln erklären)
+* 15 Min - Marktplatz (Vorstellen, Plan, Testlauf)
+* 60 Min - Slot 1 alle Räume
+* 60 Min - Slot 2 alle Räume
+* [Optional: 60 Min - Slot 3 alle Räume]
+* 15 Min - Wrap-Up
+
+
+### Wunsch-Slot
+
+[//]: # (TODO: Wann werden die Räume ggf. frei / )
+Montag vor der Konferenz, 15:00 - 18:45 Uhr (ggf. auch nur 16:00 - 18:45 Uhr).
+
+### Ausstattung
+* Möglichst viele Räume (s.u.).
+* Pro Raum:
+  * ein Flipchart oder eine Pin-Wand mit Flip-Chart-Papier, ggf. aus JSail-Beständen (eingelagert in Köln),
+  * Alternativ: White-Board,
+  * große Post-Its,
+  * Stifte (dünne für Post-Its, dicke für Flipchart/White-Boards).
+* Einzelne Räume mit Beamer / großem Monitor (brauchen wir nicht für alle Räume).
+
+### Raum-Optionen Nürburgring
+
+Die Veranstalter wünschen sich eine möglichst großzügige Bereitstellung von Räumen, natürlich in Abstimmung mit anderen Community-Aktivitäten und JavaLand-Events (z.B. JavaLand4Kids), dem JavaLand Office, und vor allem unter finanziellen Aspekten.
+In 2023 gab es großes Interesse (> 50 Personen), durch das sehr positive Feedback rechnen wir für 2024 eher mit mehr Teilnehmenden.
+Da wir zeitlich eingeschränkt sind (ca. 2h für die eigentliche UnKonferenz), wären möglichst viele parallele Slots wünschenswert (und dementsprechend viele separate Räume).
+
+* Grundlegend wäre es hilfreich für Intro und Wrap-Up einen möglichst großen Raum zu bekommen, z.B. [Section 1 der Business Lounge](https://nuerburgring.de/business/eventlocations/businesslounge).
+* Für die Sessions würden wir uns mehrere (>= 2) der anderen Sections der [Business Lounge](https://nuerburgring.de/business/eventlocations/businesslounge) und/oder des [Business Center](https://nuerburgring.de/business/eventlocations/business-center) wünschen.
 
 ## Java Koans Challenge (JUG Schweiz: Patrick Baumgartner, JUG Darmstadt: Falk Sippach)
 
