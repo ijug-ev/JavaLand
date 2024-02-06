@@ -93,6 +93,78 @@ Dauer: 3 Std.
 
 Ausstattung: In unserem Workshop soll wirklich gearbeitet werden, deshalb bringt am besten einen Laptop (macOS, Linux, Windows) mit, einer JVM/Kotlin/Gradle fähigen Entwicklungsumgebung in der aktuellen Version. Das ist zum Beispiel IntelliJ oder Android Studio. Aktuelle Informationen zum Workshop gibs hier: https://michalharakal.github.io/KPTChat
 
+## Community UnKonferenz ([JUG Darmstadt](https://www.jug-da.de/): [Gerd Aschemann](https://github.com/ascheman) / [JUG Stuttgart](https://www.jugs.org/): [Tobias Frech](https://github.com/JOpsDev))
+
+### Beschreibung
+
+_Teaser_: Zur Einstimmung auf die Konferenz: Bringt Eure Themen mit und wir starten am Vorabend der Konferenz mit einer [Runde lockerer
+Diskussionen](https://de.wikipedia.org/wiki/Tagung#Unkonferenz) mit Gleichgesinnten.
+
+_Dauer_: 3-4 Stunden
+
+_Voraussetzungen_: Interesse am Austausch mit Anderen, eigene Ideen und Gedanken gerne mitbringen und teilen. Alle sind willkommen. Der [Verhaltenskodex der JavaLand](https://www.javaland.eu/de/verhaltenscodex/) gilt natürlich auch hier.
+
+### Ablauf
+
+* 15 Min - Intro (Konzept und Regeln erklären)
+* 15 Min - Marktplatz (Vorstellen, Plan, Testlauf)
+* 60 Min - Slot 1 alle Räume
+* 60 Min - Slot 2 alle Räume
+* [Optional: 60 Min - Slot 3 alle Räume]
+* 15 Min - Wrap-Up
+
+
+### Wunsch-Slot
+
+[//]: # (TODO: Wann werden die Räume ggf. frei / )
+Montag vor der Konferenz, 15:00 - 18:45 Uhr (ggf. auch nur 16:00 - 18:45 Uhr).
+
+### Ausstattung
+* Möglichst viele Räume (s.u.).
+* Pro Raum:
+  * ein Flipchart oder eine Pin-Wand mit Flip-Chart-Papier, ggf. aus JSail-Beständen (eingelagert in Köln),
+  * Alternativ: White-Board,
+  * große Post-Its,
+  * Stifte (dünne für Post-Its, dicke für Flipchart/White-Boards).
+* Einzelne Räume mit Beamer / großem Monitor (brauchen wir nicht für alle Räume).
+
+### Raum-Optionen Nürburgring
+
+Die Veranstalter wünschen sich eine möglichst großzügige Bereitstellung von Räumen, natürlich in Abstimmung mit anderen Community-Aktivitäten und JavaLand-Events (z.B. JavaLand4Kids), dem JavaLand Office, und vor allem unter finanziellen Aspekten.
+In 2023 gab es großes Interesse (> 50 Personen), durch das sehr positive Feedback rechnen wir für 2024 eher mit mehr Teilnehmenden.
+Da wir zeitlich eingeschränkt sind (ca. 2h für die eigentliche UnKonferenz), wären möglichst viele parallele Slots wünschenswert (und dementsprechend viele separate Räume).
+
+* Grundlegend wäre es hilfreich für Intro und Wrap-Up einen möglichst großen Raum zu bekommen, z.B. [Section 1 der Business Lounge](https://nuerburgring.de/business/eventlocations/businesslounge).
+* Für die Sessions würden wir uns mehrere (>= 2) der anderen Sections der [Business Lounge](https://nuerburgring.de/business/eventlocations/businesslounge) und/oder des [Business Center](https://nuerburgring.de/business/eventlocations/business-center) wünschen.
+
+## Tech2Talk - Erstelle mit Hilfe erfahrener Speaker deinen ersten eigenen Vortrag! (JUG Ostfalen: Steven Schwenke, JUG Darmstadt: Falk Sippach und Sergej Tihonov)
+
+Beschreibung: Vorträge zu halten ist in der IT Community eine der wichtigsten Mittel, Wissen zu verteilen. Zusätzlich dazu erhöht der Sprecher seine eigene Sichtbarkeit und wird als Experte in seinem Thema wahrgenommen. Das sind nur zwei der vielen Vorteile eines Konferenz- oder User Group Vortrages.
+
+In diesem Community-Event gehst du Hands-On mit Hilfe von gleich drei sehr erfahrenen Speakern (Falk Sippach, Steven Schwenke, Sergej Tihonov) die ersten Schritte auf dem Weg zu deinem ersten Vortrag. Gemeinsam finden wir dein ganz individuelles Thema, strukturieren deinen Vortrag und bereiten dich umfassend auf deinen Auftritt vor. Anschließend werfen wir noch einen Blick auf die oft vernachlässigte Nachbereitung und auf Materialien, die dir dabei helfen, ein erfolgreicher Speaker zu werden. 
+
+Der ganze Workshop ist so aufgebaut, dass die Teilnehmer und ihre entstehenden Talks im Vordergrund stehen. Wir nehmen uns viel Zeit, ausführlich Fragen zu beantworten und bereits gesammelten Erfahrungen einfließen zu lassen. Am Ende hast du nicht nur ganz konkrete inhaltliche Ansätze für deinen ersten eigenen Vortrag, sondern weißt auch genau, wie du dich organisatorisch vorbereiten solltest. Im besten Fall hast du sogar schon die erste Version deines Vortrags für einen ersten Probelauf!
+
+Teilnahmevoraussetzungen: keine
+
+Dauer: 2h
+
+Ausstattung: Wir werden aktiv an deinem Vortrag arbeiten. Bring also etwas zum Festhalten deiner Ideen mit, in aller Regel also deinen Laptop. Wir werden per Beamer Inhalte präsentieren und an einem Flipchart oder Whiteboard wichtige Gedanken festhalten.
+
+## Mentoring Speed-Dating - Finde den perfect match für deine Weiterentwicklung! (JUG Ostfalen: Steven Schwenke, Lisa Rosenberg)
+
+Beschreibung: Vor nun schon 20 Jahren habe ich meinen ersten offiziellen Mentor übergeholfen bekommen. Er verschaffte mir etliche zusätzliche Chancen und Optionen, gab mir Feedback, Unterstützung und Orientierung und half mir damit, mich auf meine Ziele zu konzentrieren und diese zu erreichen. Seitdem hatte ich teilweise mehrere inoffizielle und offizielle Mentoren gleichzeitig und habe selbst Studenten, Azubis und Kollegen auf ihrem Weg als Mentor begleitet. Das Schöne an diesem Prinzip: Jeder hat das Potenzial zum Mentor, und jeder darf zur gleichen Zeit ein Mentee sein!
+
+In dieser Community-Aktivität werde ich dir die wichtigsten Konzepte des Mentorings erklären und dir aus meiner persönlichen Erfahrung berichten. Wir nehmen uns in entspannter Atmosphäre die Zeit für ein Gespräch, in dem alle Fragen beantwortet werden. 
+
+Nachdem alle wissen, worauf es beim Mentoring ankommt, gehen wir zum Speed-Dating über. In mehreren Runden lernst du Menschen kennen, die entweder ein Mentor für dich sein können, oder als Mentee von deinen Erfahrungen profitieren könnten. Wie es dann weiter geht, liegt ganz bei euch! Wenn alles passt, könnt ihr das vorher vermittelte Wissen für euer ganz persönliches Mentoring nutzen und euch zum Beispiel regelmäßig treffen, ab und zu mal telefonisch austauschen oder einfach bei Bedarf in Kontakt treten. Ihr könnt natürlich auch eine schlagkräftige Gruppe von Mentoren und Mentees aufbauen, es liegt in eurer Hand!
+
+Teilnahmevoraussetzungen: keine
+
+Dauer: 2h
+
+Ausstattung: Neben verschiebbaren Tischen und Stühlen, an denen man sich gut gegenübersitzen kann, benötigen wir ein Flipchart oder Whiteboard, um wichtige Gedanken festzuhalten.
+
 
 ## Java Koans Challenge (JUG Schweiz: Patrick Baumgartner, JUG Darmstadt: Falk Sippach)
 
@@ -154,6 +226,28 @@ Dauer: 2,5 Stunden.
 Ausstattung: WLAN, Beamer, Je nach Interesse der Teilnehmer, Gruppen-Tische, Pro Tisch ein Fernseher. Vier Gruppen max. oder 2/3er Gruppen.
 
 
+## JavaLand4Kidults - Das große Rennen (JUG Hamburg, *Fin Labusch*)
+
+Beschreibung: Passend zum Veranstaltungsort der diesjährigen Jubiläums-JavaLand dreht sich dieses Jahr bei der JavaLand4Kidadults alles um das Thema Motorsport. Ihr habt die Möglichkeit, aus Klemmbausteinen euren eigenen Rennwagen zu bauen und müsst euch mit eurem Boliden gegen andere Teams beweisen. Für den Bau stellen wir verschiedene Sets zur Verfügung (Lego Wedo, Lego Mindstorms EV3 und Apitor Robot X). Ihr könnt die vorhandene Software zur Programmierung nutzen oder - wenn ihr crazy genug seid, eure eigene App zur Steuerung programmieren. In einem Qualifying könnt ihr euren Wagen testen. Im finalen Rennen geht es dann darum, auf das oberste Treppchen zu kommen. 
+Gefahren wird eine gerade Strecke von ca. 5 Metern, also ein klassisches Dragsterrennen.
+
+Ablauf: 
+Am Montag- und Dienstagabend findet ihr euch zu Teams zusammen, baut und programmiert euren Wagen (Qualifying).
+Am Mittwoch findet das große Rennen statt. In drei Kategorieren (passend zu den Sets oben) ermitteln wir den Sieger.
+
+Teilnahmevoraussetzungen: Spaß am Klemmen und Programmieren. Für eigene Apps müssen die TeilnehmerInnen entsprechende Software auf ihren eigenen Laptops installieren.
+
+Dauer: Qualifying (Mo/Di) nach Bedarf, Finales Rennen: 1 h
+
+Ausstattung: Klemmbausteinsets werden als Leihgabe zur Verfügung gestellt. Ggf. auch Tablets (beschränkte Verfügbarkeit). Für die Programmierung von Lego Mindstorms ist ein eigener Laptop o. ä. notwendig. 
+
+Räumlichkeiten: Falls Montag- und Dienstagabend ein Konferenzraum zur Verfügung steht könnten sich die Teams dort treffen und tüfteln. Für das Rennen am Mittwoch (nachmittags?) wäre ein zentraler Ort wünschenswert.
+
+Links:
+Lego WeDo SDK: https://education.lego.com/en-us/product-resources/wedo-2/downloads/developer-kits/
+Apitor Robot X: https://labusch.de/wp/lego-education-wedo-2-0/apitor-robot-x-bluetooth-commands/
+
+
 ## HTMX und Java ([JUG Paderborn](https://jug-pb.gitlab.io/): [*Frederik Hahne*](https://www.linkedin.com/in/frederikhahne/))
 
 Beschreibung: Nachdem intercooler.js keine große Beachtung gefunden hat, da Frameworks wie React, Angular und Vue allgegenwärtig waren hat es HTMX inzwischen sogar auf das Techradar von Thoughworks geschafft.
@@ -168,7 +262,13 @@ Ausstattung: großer Screen/Beamer, Internet
 
 ## Refactoring Towards Clean Architecture (JUG Darmstadt: [*Matthias Eschhold*](https://www.linkedin.com/in/matthias-eschhold-22a33911a/), *Falk Sippach*)
 
-Beschreibung: Im Rahmen unseres Workshops setzen wir uns intensiv mit der Herausforderung auseinander, einen "Big Ball of Mud" mithilfe der Philosophie des Clean Architecture Pattern in wartbare und verständliche Strukturen zu überführen. Dieser Workshop bietet eine interaktive Plattform, um das Clean Architecture Pattern kennenzulernen, zu verstehen und es als neue Zielarchitektur bei umfangreichen Refactorings einzusetzen. In Kleingruppen werden wir systematisch eine Komponente des "Big Ball of Mud" in ein sauber strukturiertes Modul gemäß dem Clean Architecture Pattern überführen. Deine Teilnahme ermöglicht also nicht nur die theoretische Auseinandersetzung mit diesen Konzepten, sondern auch deren praktische Anwendung.
+Beschreibung: Im Rahmen unseres Workshops setzen wir uns intensiv mit der Herausforderung auseinander, 
+einen "Big Ball of Mud" mithilfe der Philosophie des Clean Architecture Pattern in wartbare und 
+verständliche Strukturen zu überführen. Dieser Workshop bietet eine interaktive Plattform, um das 
+Clean Architecture Pattern kennenzulernen, zu verstehen und es als neue Zielarchitektur bei umfangreichen 
+Refactorings einzusetzen. In Kleingruppen werden wir systematisch eine Komponente des "Big Ball of Mud" in 
+ein sauber strukturiertes Modul gemäß dem Clean Architecture Pattern überführen. Deine Teilnahme ermöglicht 
+also nicht nur die theoretische Auseinandersetzung mit diesen Konzepten, sondern auch deren praktische Anwendung.
 
 Teilnahmevoraussetzungen: 
 - Java Kenntnisse
@@ -183,6 +283,38 @@ Ausstattung:
 - Screen/Beamer
 - Internet
 - Gruppen-Tische für Gruppen zwischen 2 bis 3 Personen für max. 5 Gruppen
+
+
+## Open Source - Die Hürde(n) etwas beizutragen (JUG ?? [Karl Heinz Marbaise](https://github.com/khmarbaise))
+
+### Beschreibung
+Eine oft angetroffene Meinung ist es, dass ein Beitrag es nicht wert ist, überhaupt beigetragen zu werden, oder dass die Person
+nicht gut genug ist, etwas beizusteuern oder... 
+
+Der Workshop bzw. die Gesprächsrunde möchte zeigen, wie einfach es ist, einen Beitrag zu Open Source zu leisten. Beiträge zu
+Open Source Projekten können in verschiedensten Formen gemacht werden. Das kann in Form von Quell-Code geschehen, aber auch
+in Form von Dokumentation oder der Verbesserung derselbigen. Das sind nur zwei Aspekte eines Beitrages zu Open Source 
+Projekten. Im Rahmen des Workshops möchten wir genauer vorstellen bzw. besprechen, welche anderen Möglichkeiten es gibt
+zu Open Source Projekten beizutragen, welche Rahmenbedingungen vorhanden sind usw. 
+Ziel ist es auch, die Fragen, die im Zusammenhang mit einem Beitrag zu einem Open Source Projekt vorhanden sind, zu beantworten. 
+
+Wir möchten die Vorgehensweisen für einen Beitrag zu einem Open Source Projekt vorstellen und zeigen, wie man z.B.
+sein Interesse an der Mitarbeit bekundet und dann auch in die Tat umsetzt. Stellvertretend möchte ich das Apache Maven Projekt
+vorstellen und zeigen, wie Teilnehmende sich dort beteiligen können. Es können gerne auch andere Projekte betrachtet werden.
+
+Teilnahmevoraussetzungen: 
+* Wer Fragen im Zusammenhang mit Beiträgen zu Open Source Projekten hat, ist herzlich willkommen.
+* Kenntnisse in Java sind hilfreich, aber nicht notwendig.
+* Laptop mit Java inkl. IDE im Falle für Code Beiträge
+
+Dauer:
+ * 1-2 Stündiger Workshop?? (Umfang und Dauer kann noch genauer abgestimmt werden.) 
+
+Ausstattung:
+ * Beamer
+ * WLAN 
+ * Raum oder abgetrennter Bereich für die Teilnehmenden?
+ * eigener Laptop
 
 
 ## TEMPLATE
