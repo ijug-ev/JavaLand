@@ -258,7 +258,27 @@ Teilnahmevoraussetzungen: Laptop mit Java Entwicklungsumgebung
 Dauer: 2 Stunden (bei Bedarf auch gerne mehr)
 
 Ausstattung: großer Screen/Beamer, Internet
+ 
+## Work Life : Cultural Transformation with Diversity and Inclusion
+:us: :de:
 
+### Collaborators
+- [JUG Schweiz]: [Ixchel Ruiz]  **US** coordinator
+- [JUG Dortmund]: [Sandra Parsick]
+- [JUG Dortmund]: [Hendrik Ebbers] **DE** coordinator
+
+
+### Description:
+Interested in creating a positive work environment that embraces diversity and inclusion? We have the perfect open discussion for you! Join us as we delve into the world of workplace culture transformation with diversity and inclusion strategies. We will share their insights and experiences on how organisations can foster a culture that celebrates difference and promotes inclusivity. From implementing diversity training programmes to developing inclusive leadership strategies
+
+### Duration : 2 hr : 1 hr Tuesday & Wednesday during the conference ( 2 Days ) 
+
+### Beschreibung:
+Du bist daran interessiert, ein positives Arbeitsumfeld zu schaffen, in dem Vielfalt und Inklusive groß geschrieben wird? Wir haben die perfekte offene Diskussion für Dich! Tauch mit uns ein in eine Welt der Veränderung der Arbeitsplatzkultur durch Strategien für Vielfalt und Inklusion. Wir werden Einsichten und Erfahrungen darüber austauschen, wie Unternehmen eine Kultur fördern können, die Unterschiede würdigt und Inklusion fördert. Von der Umsetzung von Schulungsprogrammen für Vielfalt bis zur Entwicklung von Strategien für integrative Führung.
+
+### Dauer: 2 Stunden : 1 Std. Dienstag & Mittwoch während der Konferenz ( 2 Tage )
+
+### Equipment: Panel of 4 seats ( fishbowl format )
 
 ## Refactoring Towards Clean Architecture (JUG Darmstadt: [*Matthias Eschhold*](https://www.linkedin.com/in/matthias-eschhold-22a33911a/), *Falk Sippach*)
 
@@ -326,5 +346,13 @@ Teilnahmevoraussetzungen:
 Dauer: 
 
 Ausstattung:
+
+[JUG Schweiz]: https://jug.ch
+[JUG Dortmund]: https://github.com/JUGDortmund
+[Ixchel Ruiz]: https://www.linkedin.com/in/ixchelruiz/
+[Sandra Parsick]: https://www.linkedin.com/in/sandra-parsick/
+[Hendrik Ebbers]: https://www.linkedin.com/in/hendrik-ebbers/
+
+
 
 
