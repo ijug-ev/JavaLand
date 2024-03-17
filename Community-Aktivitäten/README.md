@@ -208,16 +208,16 @@ Dauer: 2,5 Stunden.
 Ausstattung: Papier/Whiteboard/Flipchart/irgendwas zum Malen. Gruppentische a max 5-6 Teilnehmer pro Gruppe. Bis zu 8 Tische.
 
 
-## Coding Dojo: ChatGPT powered programming (JUG Darmstadt: *Sebastian Rose*)
+## Coding Dojo: AI powered programming (JUG Darmstadt: *Sebastian Rose*)
 
 Beschreibung: Für den beruflichen Alltag ist es wichtig, sich ständig fortzubilden und seine Fertigkeiten als Entwickler zu trainieren.
 Mit Code Katas in einem Coding Dojo kannst du in einer kleinen Gruppe überschaubare Programmieraufgaben lösen.
 Dabei lernst du mit und von anderen in einer geschützten Umgebung.
 Es zählt weniger das Ergebnis, als vielmehr ist der Weg das Ziel.
 
-In diesem Jahr ist das Thema ChatGPT als Unterstützung beim Programmieren in aller Munde.
-Im Dojo sollen die Teilneher daher eine Kata mit Hilfe von ChatGPT lösen.
-Die Teilnehmer entscheiden selbst in welcher Form sie ChatGPT integrieren: z.B. als Pair Programming Partner, als Code Reviewer oder als Coach, etc.
+In diesem Jahr ist das Thema Künstliche Intelligenz (KI) als Unterstützung beim Programmieren in aller Munde.
+Im Dojo sollen die Teilneher daher eine Kata mit Hilfe von KI lösen.
+Die Teilnehmer entscheiden selbst in welcher Form sie KI integrieren: z.B. als Programming Partner, als Code Reviewer oder als Coach, etc.
 
 Teilnahmevoraussetzungen: Min jeder zweite Teilnehmer benötigt ein eigenes Laptop mit lauffähigen JVM-Entwicklungsumgebung. 
 
