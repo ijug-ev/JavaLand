@@ -75,7 +75,7 @@ Vielleicht magst du deine Strecke auch mit einem GPS-Gerät, Navi oder Smartphon
 
 Falls du bei der Planung deiner Fahrt oder der Aufzeichnung als GPX-Datei Unterstützung benötigst, stehe ich dir vor der JavaLand gerne zur Verfügung. Eigentlich logisch, aber besser vorher informiert als hinterher bereut: Die Java User Group Switzerland, die JavaLand GmbH und der iJUG e.V. übernehmen keine Haftung. Du solltest also selbst versichert sein, falls unterwegs etwas passiert.
 
-Viele weitere Informationen findest du im [GitHub Repository zur JavaLand Sternfahrt 2024](https://github.com/jugch/javaland-sternfahrt-2024). Dort siehst du auch eine Liste der Teilnehmer, die schon zugesagt haben, und Informationen über ihre Routen.
+Viele weitere Informationen findest du im [GitHub Repository zur JavaLand Sternfahrt 2025](https://github.com/jugch/javaland-sternfahrt-2025). Dort siehst du auch eine Liste der Teilnehmer, die schon zugesagt haben, und Informationen über ihre Routen.
 
 ### Teilnahmevoraussetzungen
 
@@ -87,5 +87,5 @@ Je nach Entfernung mehrere Stunden oder auch Tage… 😉
 
 ### Ausstattung
 
-- Eine Möglichkeit, das Fahrrad für die Dauer der Teilnahme an der JavaLand sicher und geschützt einzustellen. Echte Biker bevorzugen ihr Rad im Hotel mit auf das Zimmer zu nehmen.
+Die Teilnehmenden nutzen ihre eigenen Fahrräder. Für die Unterbrindung der Räder während der JavaLand werden die vorhandenen Fahrrad-Räume der Hotels vor Ort verwendet. In den Ferienhäusern gibt es ebenfalls genug Platz. Von Seiten der JavaLand wird keine Ausstattung benötigt.
 
