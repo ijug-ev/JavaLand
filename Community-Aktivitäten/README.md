@@ -115,3 +115,33 @@ Kommt in unsere Session, um euer eigenes Vermächtnis aufzubauen oder anderen ge
 Teilnahmevoraussetzung: keine zwingende, Teilnehmende mit Erfahrung in diesem Bereich reichern die Diskussion an :)
 Dauer: 60 min (gerne auch 2x, jeweils an unterschiedlichen Tagen)
 Ausstattung: Stühle, ruhiger Raum zum Diskutieren | gerne ein Beamer, um die Notizen für alle sichtbar zu haben
+
+## Ask me anything - the Experts sessions! ([JUG Darmstadt](https://www.jug-da.de): [*Niko Köbler*](https://github.com/dasniko), [JUG Paderborn](https://jug-pb.gitlab.io/): [*Thorben Janssen*](https://github.com/thjanssen))
+
+### Beschreibung
+
+Hast Du eine Frage zu einem bestimmten Thema, welche Du einem der hier teilnehmenden Experten in einer "Ask-me-anything"-Session stellen möchtest? Wie der Name sagt, kannst Du hier alles fragen und die Experten geben ihr Bestes, um die Fragen der Teilnehmer mit Hilfe von Beispielen und/oder Live-Coding zu beantworten. Wenn Du keine eigenen Fragen hast, kannst Du evtl. von den Herausforderungen der Anderen lernen!
+
+Unsere Experten und ihre Themen:
+
+* Thorben Janssen - Hibernate, JPA und Spring Data JPA
+* Niko Köbler - Keycloak, Authentifizierung & Identity Management mit OpenID Connect
+* _t.b.a._
+* _t.b.a._
+
+### Teilnahmevoraussetzungen
+
+Keine speziellen Voraussetzungen. Du solltest Fragen für den Experten Deiner Wahl mitbringen.
+
+### Dauer
+
+Jede Expert-Session geht ca. 30 bis max. 60 Minuten.
+
+### Ausstattung
+
+Raum (Kapazität unklar, 20 Pax?) mit Beamer/Leinwand Kombi oder TV/Monitor als Präsentationsmöglichkeit, damit der Experte anhand von Beispielen und Demos die Fragen beantworten kann.
+
+### Interne Notiz an die Organisatoren
+
+Derzeit schauen wir noch, wen wir als weitere Experten hinzunehmen möchten. Wir möchten gerne mit min. 4 Experten die AmA-Sessions durchführen, evtl. mehr.
+Bei der zeitlichen Gestaltung sind wir offen, so dass wir entweder an einem Tag alle Sessions machen können, oder das auf beide Tage aufteilen.
