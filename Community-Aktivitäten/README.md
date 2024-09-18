@@ -89,3 +89,17 @@ Je nach Entfernung mehrere Stunden oder auch Tage… 😉
 
 Die Teilnehmenden nutzen ihre eigenen Fahrräder. Für die Unterbrindung der Räder während der JavaLand werden die vorhandenen Fahrrad-Räume der Hotels vor Ort verwendet. In den Ferienhäusern gibt es ebenfalls genug Platz. Von Seiten der JavaLand wird keine Ausstattung benötigt.
 
+## Funktionale Programmierung in Java (majug [JUG Mannheim](https://www.majug.de) / [Gregor Trefs](https://github.com/gtrefs))
+
+Funktionale Programmierung hat in der Softwareentwicklung an Relevanz gewonnen. Auch in Java stehen mittlerweile mächtige Werkzeuge zur Verfügung, die es Entwicklern ermöglichen, funktionale Paradigmen effizient zu nutzen. In diesem Workshop werden wir die Grundlagen der funktionalen Programmierung behandeln und ihre Anwendung in Java untersuchen. Dabei konzentrieren wir uns auf zentrale Konzepte wie pure Funktionen, referentielle Transparenz, Unveränderlichkeit und funktionale Datenstrukturen. Zusätzlich werden wir erkunden, wie man eine eigene funktionale DSL (domänenspezifische Sprache) entwickelt und warum diese Konzepte im täglichen Programmieralltag nützlich sind.
+Ablauf:
+- Wir bearbeiten zwei von drei praktischen Übungen.
+- Jede Übung beginnt mit einer kurzen Einführung in das jeweilige Thema.
+- Anschließend arbeiten wir im Mob-Programming-Format zusammen.
+- Zum Abschluss gibt es eine kurze Retrospektive, um die Lernerfahrungen zu reflektieren.
+
+Teilnahmevoraussetzungen: Keine.
+
+Dauer: 90 bis 120 Minuten
+
+Ausstattung: Tische mit Stühlen, Beamer, Strom, WLAN
