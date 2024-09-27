@@ -103,3 +103,15 @@ Teilnahmevoraussetzungen: Keine.
 Dauer: 90 bis 120 Minuten
 
 Ausstattung: Tische mit Stühlen, Beamer, Strom, WLAN
+
+## Dein Vermächtnis - Auszubildende und duale Studenten in der Softwareentwicklung ([JUG Ostfalen](https://www.jug-ostfalen.de/): [Oliver Milke](https://github.com/omilke) und Dennis Schladebeck)
+ 
+In diesem Erfahrungsaustausch beleuchten wir die Möglichkeiten der Betreuung von Auszubildenden und dualen Studenten in der Softwareentwicklung. Wir geben einen Impuls zu diesem Themenfeld, speziell mit Blick auf die (nicht so großen) Unterschiede zwischen Azubis und dualen Studenten und die Arbeit in Kundenprojekten und warum das überhaupt ein investierenswertes Thema ist, u. a. getreu dem Motto "Der Lehrer lernt am meisten".
+ 
+Gleichzeitig freuen wir uns über eine rege Diskussion mit anderen Konferenzteilnehmern, um möglichst viele hilfreiche Praktiken und Tipps zusammenzutragen und im Nachhinein zur Verfügung zu stellen.
+ 
+Kommt in unsere Session, um euer eigenes Vermächtnis aufzubauen oder anderen genau dabei zu helfen.
+
+Teilnahmevoraussetzung: keine zwingende, Teilnehmende mit Erfahrung in diesem Bereich reichern die Diskussion an :)
+Dauer: 60 min (gerne auch 2x, jeweils an unterschiedlichen Tagen)
+Ausstattung: Stühle, ruhiger Raum zum Diskutieren | gerne ein Beamer, um die Notizen für alle sichtbar zu haben
