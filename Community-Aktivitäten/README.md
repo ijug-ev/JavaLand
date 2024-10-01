@@ -120,7 +120,11 @@ Ausstattung: Stühle, ruhiger Raum zum Diskutieren | gerne ein Beamer, um die No
 
 ### Beschreibung
 
-Hast Du eine Frage zu einem bestimmten Thema, welche Du einem der hier teilnehmenden Experten in einer "Ask-me-anything"-Session stellen möchtest? Wie der Name sagt, kannst Du hier alles fragen und die Experten geben ihr Bestes, um die Fragen der Teilnehmer mit Hilfe von Beispielen und/oder Live-Coding zu beantworten. Wenn Du keine eigenen Fragen hast, kannst Du evtl. von den Herausforderungen der Anderen lernen!
+Hast Du eine Frage zu einem bestimmten Thema oder einer Library, welche Du einem der hier teilnehmenden Experten in einer "Ask-me-Anything"-Session stellen möchtest? 
+
+Dann komm vorbei!
+
+Wie der Name sagt, kannst Du hier alles fragen und die Experten geben ihr Bestes, um die Fragen der Teilnehmer mit Hilfe von Beispielen und/oder Live-Coding zu beantworten. Und wenn Du keine eigenen Fragen hast, kannst Du bestimmt von den Herausforderungen der Anderen lernen!
 
 Unsere Experten und ihre Themen:
 
@@ -135,13 +139,15 @@ Keine speziellen Voraussetzungen. Du solltest Fragen für den Experten Deiner Wa
 
 ### Dauer
 
-Jede Expert-Session geht ca. 30 bis max. 60 Minuten.
+Jeder Experte hostet eine eigene Session von ca. 30 bis max. 60 Minuten.
 
 ### Ausstattung
 
-Raum (Kapazität unklar, 20 Pax?) mit Beamer/Leinwand Kombi oder TV/Monitor als Präsentationsmöglichkeit, damit der Experte anhand von Beispielen und Demos die Fragen beantworten kann.
+Raum (Kapazität unklar, 20 max?) mit Beamer/Leinwand Kombi oder TV/Monitor als Präsentationsmöglichkeit, damit der Experte anhand von Beispielen und Demos die Fragen beantworten kann.
 
 ### Interne Notiz an die Organisatoren
 
 Derzeit schauen wir noch, wen wir als weitere Experten hinzunehmen möchten. Wir möchten gerne mit min. 4 Experten die AmA-Sessions durchführen, evtl. mehr.
 Bei der zeitlichen Gestaltung sind wir offen, so dass wir entweder an einem Tag alle Sessions machen können, oder das auf beide Tage aufteilen.
+
+Wir erwarten, dass Teilnehmer sich gezielt einzelne Experten heraussuchen. Daher sollte jede Session einzeln im Programm aufgeführt werden.
