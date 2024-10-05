@@ -115,3 +115,36 @@ Kommt in unsere Session, um euer eigenes Vermächtnis aufzubauen oder anderen ge
 Teilnahmevoraussetzung: keine zwingende, Teilnehmende mit Erfahrung in diesem Bereich reichern die Diskussion an :)
 Dauer: 60 min (gerne auch 2x, jeweils an unterschiedlichen Tagen)
 Ausstattung: Stühle, ruhiger Raum zum Diskutieren | gerne ein Beamer, um die Notizen für alle sichtbar zu haben
+
+
+## Coding Dojo: Die verschiedenen Schulen der TDD (JUG Darmstadt: [*Sebastian Rose*](https://github.com/srose)) unterstützt von [*Marco Emrich*](https://twitter.com/marcoemrich))
+
+In diesem Coding Dojo wollen wir uns dem Thema Testgetriebene Softwareentwicklung (TDD) widmen.
+Nach einem knackigen Intro zu TDD allgemein, landen wir bei einer Liste von möglichen Schulen.
+Diese Schulen unterscheiden sich im genauen Vorgehen und bieten unterschiedliche Schwerpunkte, Stärken und Schwächen.
+Der Einfluss von Sprachmodellen hat zuletzt auch hier Einfluss ausgeübt!
+
+Wir iterieren dann gemeinsam und vertiefen eine ausgewählte Schule.
+Welche Schule wir vertiefen entscheiden wir gemeinsam.
+Die Teilnehmer werden dazu in Paaren arbeiten und jede Schule in vorbereiteten Code Katas selbst ausprobieren.
+Pro Iteration werden min. 20 Minuten selbst machen angestrebt.
+Wir wollen versuchen mindestens drei Schulen zu schaffen.
+
+Teilnahmevoraussetzung: Es bestehen keine besonderen Teilenahmevoraussetzungen! Ein Rechner mit lauffähiger IDE, Java 17 und einem Buildtool deiner Wahl sind gut. Vorbereitetes git-Repo downloaden und Ausführung getestet ist perfekt.
+
+Dauer: 2,5 Stunden.
+
+Ausstattung: Eher ruhigerer Raum für ca. 25 Personen mit Sitzgelegenheiten; Beamer/Fernseher für die Vorführungen und Kurzpräsentationen; Strom und WLAN
+
+
+## Architecture Kata (JUG Darmstadt: [*Sebastian Rose*](https://github.com/srose), [*Alexander Schwartz*](https://twitter.com/ahus1de))
+
+Beschreibung: Als ArchitektInnen oder EntwicklerInnen bauen wir Systemarchitekturen und bekommen meist erst am Ende des Projekts Feedback, ob es so funktionierte oder nicht. In diesem Architektur Dojo ist das anders: Bereits nach einer halben Stunde präsentiert ihr euren Entwurf, bekommt Feedback und könnt die Lösung anschließend verbessern! Bearbeitet jenseits von eingetretenen Pfaden des Projektalltags gemeinsam mit anderen eine Architekturaufgabe. Übt es, Architekturen und Architekturentscheidungen zu präsentieren und zu begründen!
+
+Vorlage für uns sind die Architektur Katas von Neal Ford (http://nealford.com/katas/about.html). Mehrere Gruppen zu je 3-5 Personen entwerfen eine Architektur für eine vorgegebene Aufgabe. Danach stellen sich die Gruppen ihre Lösungen gegenseitig vor und bekommen Feedback. In der nächsten Iteration arbeiten sie Anregungen und Fragen ein und präsentieren ihre angepasste Lösung erneut.
+
+Teilnahmevoraussetzungen: Spaß am Austausch mit anderen zu Architekturthemen!
+
+Dauer: 2,5 Stunden.
+
+Ausstattung: Ruhiger Raum zum Diskutieren; Papier/Whiteboard/Flipchart/irgendwas zum Malen für jede Gruppe; Tische und Stühle mit maximal 5-6 Teilnehmer; bis zu 8 Tische Beamer/Fernseher für die Vorführungen und Kurzpräsentationen;
