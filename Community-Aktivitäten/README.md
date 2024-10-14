@@ -42,6 +42,20 @@ Das JavaLand ist thematisch ("Java Community") und vom Platz her (Veranstaltungs
 
 An dieser Stelle veröffentlichen wir den jeweils aktuellen Planungsstand, auf welche Community-Aktivitäten Ihr Euch im nächsten JavaLand freuen dürft! Bitte beachtet, dass sich dieser Stand täglich ändern kann und **keine verbindliche Zusage** über eine bestimmte Community-Aktivität darstellt. Es ist durchaus realistisch, dass hier genannte Aktivitäten kurzfristig ausfallen (z. B. durch Krankheit des Veranstalters) oder spontan welche vor Ort hinzukommen (z. B. [BOFs](https://www.ietf.org/process/bofs/)!
 
+## Bash war gestern: Shell Scripting mit Babashka (Clojure UG Düsseldorf: Christian Meter; rheinjug: Jens Bendisposto) 
+
+Beschreibung: Wann hast du das letzte Mal ein etwas komplexeres Bash Script geschrieben und dir gewünscht, du könntest das Ding einfach in einer echten Programmierspache schreiben? Wir haben einen Vorschlag: Schreib deine Scripte mit Clojure! Babashka ist eine Script-Engine, mit der wir in Clojure Shell-Skripte und Tasks schreiben können und die Dank nativer Compilation eine Startup Zeit hat, die an native Bash-Skripte herankommt.
+
+Wir zeigen dir, wie du mit Babashka die etwas komplizierten Shell Probleme lösen kannst und wenden das dann auch gleich an.
+
+Ca. 30 Minuten werden wir am Anfang eine kurze Einführung geben und dann die restlichen 90 Minuten gemeinsam Shell Skripte schreiben.
+
+Teilnahmevoraussetzungen: Du benötigst auf deinem Rechner nur Babashka, es wird keine Clojure oder JVM Installation benötigt. Die Installationsanleitung findest du unter: https://github.com/babashka/babashka#installation
+
+Dauer: 2 Stunden.
+
+Ausstattung: Raum mit Tischen, Beamer und optimalerweise WLAN.
+
 
 ## JUG Café ([JUG Deutschland](https://java.de/): [*Daniel van Ross*](https://github.com/vanross/), [Frank Schwichtenberg](https://github.com/fschwic))
 
