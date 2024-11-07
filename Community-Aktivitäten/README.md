@@ -115,3 +115,28 @@ Kommt in unsere Session, um euer eigenes Vermächtnis aufzubauen oder anderen ge
 Teilnahmevoraussetzung: keine zwingende, Teilnehmende mit Erfahrung in diesem Bereich reichern die Diskussion an :)
 Dauer: 60 min (gerne auch 2x, jeweils an unterschiedlichen Tagen)
 Ausstattung: Stühle, ruhiger Raum zum Diskutieren | gerne ein Beamer, um die Notizen für alle sichtbar zu haben
+
+
+
+
+## Daily-StandApp entwickeln: Optimierung des agilen Daily Standups mit einer Offline-First Java, Kotlin oder Mobile App und eingebetteter KI ([JUG Darmstadt](https://www.jug-da.de/) - [*Michal Harakal*](https://github.com/michalharakal), [*Alexander von Below*](https://github.com/below), *Falk Sippach*)
+
+
+
+### Beschreibung
+In diesem praxisorientierten Workshop entwickeln die Teilnehmer StandApp, eine Offline-First Java, Kotlin oder Mobile-App, die agile Teams dabei unterstützt, ihre Daily Standups durch Analyse und Zusammenfassung der jüngsten Entwicklungsaktivitäten zu optimieren. Die App ermöglicht es den Benutzern, einen lokalen Git-Repository-Ordner auszuwählen, Benutzer und Commits automatisch zu erkennen und ein eingebettetes Sprachmodell (LLM) zur Erzeugung verständlicher Zusammenfassungen der Änderungen zu verwenden. Am Ende des Workshops haben die Teilnehmer einen Prototypen, der Commits analysieren und eine klare Übersicht über den Entwicklungsfortschritt bietet – ganz ohne Netzwerkanbindung, um Datenschutz und Sicherheit sensibler Informationen zu gewährleisten.
+
+### Lernziele
+
+1. Entwicklung einer Offline-First oder Mobile App: Lernen Sie die Prinzipien und Best Practices für die Entwicklung einer Offline-First Mobile-App in Java, Kotlin or Mobile die lokale Daten effektiv verwaltet und verarbeitet.
+2. Eingebettete KI zur Zusammenfassung: Lernen Sie, wie Sie ein lokales Sprachmodell für die natürliche Sprachverarbeitung einbinden, um Commit-Änderungen zusammenzufassen – ganz ohne Netzwerkzugriff.
+
+ ### Voraussetzungen:
+
+* Grundkenntnisse in Java: Vertrautheit mit der Java-Programmierung, objektorientiertem Design und Prinzipien der mobilen Entwicklung.  Kenntnisse im Umgang mit Git-Versionierung: Grundlegende Fähigkeiten in Git und Verständnis von Commit-Strukturen, Branches und Versionshistorien.
+ *    Grundwissen über KI und NLP: Erfahrung oder Verständnis von Sprachverarbeitung und Sprachmodellen (kein fortgeschrittenes KI-Wissen erforderlich).
+    Laptop mit Entwicklungsumgebung: Ein Laptop mit installiertem Java SDK, Android Studio oder einer anderen bevorzugten Java-Entwicklungsumgebung. Zusätzlich Zugang zu einer lokalen LLM-Bibliothek oder einem Modell, das mit Java kompatibel ist (Empfehlungen zur Einrichtung werden bereitgestellt).
+
+Dauer: 120 min
+
+Ausstattung: Stühle, Beamer, ruhiger Raum zum Programmieren
