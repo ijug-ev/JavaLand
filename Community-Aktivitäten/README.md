@@ -116,17 +116,13 @@ Teilnahmevoraussetzung: keine zwingende, Teilnehmende mit Erfahrung in diesem Be
 Dauer: 60 min (gerne auch 2x, jeweils an unterschiedlichen Tagen)
 Ausstattung: Stühle, ruhiger Raum zum Diskutieren | gerne ein Beamer, um die Notizen für alle sichtbar zu haben
 
+## Entwicklung von Daily-StandAPP: Optimierung des agilen Daily Standups mit einer Offline-First-App in Java, Kotlin oder als mobile Lösung mit eingebetteter KI([JUG Darmstadt](https://www.jug-da.de/) - [*Michal Harakal*](https://github.com/michalharakal), [*Alexander von Below*](https://github.com/below), *Falk Sippach*)
+
+Beschreibung: In diesem praxisorientierten Workshop entwickeln die Teilnehmer/-innen *Daily StandAPP*, eine Offline-First-App, die agile Teams dabei unterstützt, ihre Daily Standups zu optimieren, indem sie die jüngsten Entwicklungsaktivitäten analysiert und zusammenfasst. Die App ermöglicht es den Benutzer/-innen, einen lokalen Git-Repository-Ordner auszuwählen, Commits automatisch zu erkennen und ein eingebettetes Sprachmodell (LLM) zur Erstellung klarer Zusammenfassungen der Änderungen zu verwenden. Am Ende des Workshops verfügen die Teilnehmenden über einen Prototypen, der Commits analysiert und eine klare Übersicht über den Entwicklungsfortschritt bietet – vollständig offline, um Datenschutz und die Sicherheit sensibler Informationen zu gewährleisten. Da wir eine in Kotlin Multiplatform geschriebene Bibliothek für die KI nutzen werden, bleibt die Wahl der Programmiersprache und des Frontends flexibel. Wir unterstützen euch bei Java, Kotlin und Android/iOS. Aktuelle Informationen zum Workshop gibs hier: https://michalharakal.github.io/Daily-StandAPP
+
+Voraussetzungen: Es sind keine speziellen Vorkenntnisse in LLMs oder Data Science erforderlich, und dieser Workshop ist auf die Nutzung in Java zugeschnitten. Alternativ sind jedoch auch Kotlin und Kotlin Multiplatform möglich. Gemeinsam werden wir Schritt für Schritt die verschiedenen Komponenten und Konzepte der App wie des Modells erarbeiten und den Code von der ersten bis zur letzten Zeile schreiben.
 
 
+Dauer: 120 Min
 
-## Daily-StandApp entwickeln: Optimierung des agilen Daily Standups mit einer Offline-First Java, Kotlin oder Mobile App mit eingebetteter KI ([JUG Darmstadt](https://www.jug-da.de/) - [*Michal Harakal*](https://github.com/michalharakal), [*Alexander von Below*](https://github.com/below), *Falk Sippach*)
-
-
-Beschreibung: In diesem praxisorientierten Workshop entwickeln die Teilnehmer/-innen *Daily StandApp*, eine Offline-First App, die agile Teams dabei unterstützt, ihre Daily Standups durch Analyse und Zusammenfassung der jüngsten Entwicklungsaktivitäten zu optimieren. Die App ermöglicht es den Benutzer/-innen, einen lokalen Git-Repository-Ordner auszuwählen, commits automatisch zu erkennen und ein eingebettetes Sprachmodell (LLM) zur Erzeugung verständlicher Zusammenfassungen der Änderungen zu verwenden. Am Ende des Workshops haben die Teilnehmer einen Prototypen, der Commits analysieren und eine klare Übersicht über den Entwicklungsfortschritt bietet – ganz ohne Netzwerkanbindung, um Datenschutz und Sicherheit sensibler Informationen zu gewährleisten. Dadurch, dass wir eine im Kotlin Multiplatform geschreibene Bibliothek für AI nutzne werde, ist die Wahl der Sprache, Frontends Stack frei. Wir unterstützen euch bei Java, Kotlin und Android/iOS.
-
-Voraussetzungen: Es sind keine spezielle Vorkenntnisse über LLMs- oder Data-Science-Kenntnisse erforderlich und dieser Workshop ist auf die Javanutzung zugeschnitten, wo auch Kotlin und Kotlin Multiplatform möglich ist. Wir werden die verschiedenen Komponenten und Konzepte von dem Modell erforschen, während wir gemeinsam den Code schreiben - von der ersten bis zur letzten Zeile.
-
-
-Dauer: 120 min
-
-Ausstattung: Stühle, Beamer, ruhiger Raum zum Programmieren
+Ausstattung: Tische mit Stühlen, Beamer, Strom, WLAN
