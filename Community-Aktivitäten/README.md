@@ -119,23 +119,13 @@ Ausstattung: Stühle, ruhiger Raum zum Diskutieren | gerne ein Beamer, um die No
 
 
 
-## Daily-StandApp entwickeln: Optimierung des agilen Daily Standups mit einer Offline-First Java, Kotlin oder Mobile App und eingebetteter KI ([JUG Darmstadt](https://www.jug-da.de/) - [*Michal Harakal*](https://github.com/michalharakal), [*Alexander von Below*](https://github.com/below), *Falk Sippach*)
+## Daily-StandApp entwickeln: Optimierung des agilen Daily Standups mit einer Offline-First Java, Kotlin oder Mobile App mit eingebetteter KI ([JUG Darmstadt](https://www.jug-da.de/) - [*Michal Harakal*](https://github.com/michalharakal), [*Alexander von Below*](https://github.com/below), *Falk Sippach*)
 
 
+Beschreibung: In diesem praxisorientierten Workshop entwickeln die Teilnehmer/-innen *Daily StandApp*, eine Offline-First App, die agile Teams dabei unterstützt, ihre Daily Standups durch Analyse und Zusammenfassung der jüngsten Entwicklungsaktivitäten zu optimieren. Die App ermöglicht es den Benutzer/-innen, einen lokalen Git-Repository-Ordner auszuwählen, commits automatisch zu erkennen und ein eingebettetes Sprachmodell (LLM) zur Erzeugung verständlicher Zusammenfassungen der Änderungen zu verwenden. Am Ende des Workshops haben die Teilnehmer einen Prototypen, der Commits analysieren und eine klare Übersicht über den Entwicklungsfortschritt bietet – ganz ohne Netzwerkanbindung, um Datenschutz und Sicherheit sensibler Informationen zu gewährleisten. Dadurch, dass wir eine im Kotlin Multiplatform geschreibene Bibliothek für AI nutzne werde, ist die Wahl der Sprache, Frontends Stack frei. Wir unterstützen euch bei Java, Kotlin und Android/iOS.
 
-### Beschreibung
-In diesem praxisorientierten Workshop entwickeln die Teilnehmer StandApp, eine Offline-First Java, Kotlin oder Mobile-App, die agile Teams dabei unterstützt, ihre Daily Standups durch Analyse und Zusammenfassung der jüngsten Entwicklungsaktivitäten zu optimieren. Die App ermöglicht es den Benutzern, einen lokalen Git-Repository-Ordner auszuwählen, Benutzer und Commits automatisch zu erkennen und ein eingebettetes Sprachmodell (LLM) zur Erzeugung verständlicher Zusammenfassungen der Änderungen zu verwenden. Am Ende des Workshops haben die Teilnehmer einen Prototypen, der Commits analysieren und eine klare Übersicht über den Entwicklungsfortschritt bietet – ganz ohne Netzwerkanbindung, um Datenschutz und Sicherheit sensibler Informationen zu gewährleisten.
+Voraussetzungen: Es sind keine spezielle Vorkenntnisse über LLMs- oder Data-Science-Kenntnisse erforderlich und dieser Workshop ist auf die Javanutzung zugeschnitten, wo auch Kotlin und Kotlin Multiplatform möglich ist. Wir werden die verschiedenen Komponenten und Konzepte von dem Modell erforschen, während wir gemeinsam den Code schreiben - von der ersten bis zur letzten Zeile.
 
-### Lernziele
-
-1. Entwicklung einer Offline-First oder Mobile App: Lernen Sie die Prinzipien und Best Practices für die Entwicklung einer Offline-First Mobile-App in Java, Kotlin or Mobile die lokale Daten effektiv verwaltet und verarbeitet.
-2. Eingebettete KI zur Zusammenfassung: Lernen Sie, wie Sie ein lokales Sprachmodell für die natürliche Sprachverarbeitung einbinden, um Commit-Änderungen zusammenzufassen – ganz ohne Netzwerkzugriff.
-
- ### Voraussetzungen:
-
-* Grundkenntnisse in Java: Vertrautheit mit der Java-Programmierung, objektorientiertem Design und Prinzipien der mobilen Entwicklung.  Kenntnisse im Umgang mit Git-Versionierung: Grundlegende Fähigkeiten in Git und Verständnis von Commit-Strukturen, Branches und Versionshistorien.
- *    Grundwissen über KI und NLP: Erfahrung oder Verständnis von Sprachverarbeitung und Sprachmodellen (kein fortgeschrittenes KI-Wissen erforderlich).
-    Laptop mit Entwicklungsumgebung: Ein Laptop mit installiertem Java SDK, Android Studio oder einer anderen bevorzugten Java-Entwicklungsumgebung. Zusätzlich Zugang zu einer lokalen LLM-Bibliothek oder einem Modell, das mit Java kompatibel ist (Empfehlungen zur Einrichtung werden bereitgestellt).
 
 Dauer: 120 min
 
