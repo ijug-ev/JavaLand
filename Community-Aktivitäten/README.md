@@ -115,3 +115,19 @@ Kommt in unsere Session, um euer eigenes Vermächtnis aufzubauen oder anderen ge
 Teilnahmevoraussetzung: keine zwingende, Teilnehmende mit Erfahrung in diesem Bereich reichern die Diskussion an :)
 Dauer: 60 min (gerne auch 2x, jeweils an unterschiedlichen Tagen)
 Ausstattung: Stühle, ruhiger Raum zum Diskutieren | gerne ein Beamer, um die Notizen für alle sichtbar zu haben
+
+## Social Deduction Games ([JUG Mainz](https://www.jug-mz.de/): [Anna Abad Sieper](https://github.com/annabadsi))
+Beschreibung: Für jeden der Spaß am Spielen hat und gerne neue Kontakte knüpft! Bei Social Deduction Games liegt der Fokus auf der Kommunikation der Teilnehmer. Allgemein geht es darum, dass jeder Spieler eine geheime Rolle zugewiesen bekommt und erraten muss, welche Rollen die anderen Mitspieler verkörpern. Je nach Anzahl der Teilnehmer können wir folgende Spiele zusammen spielen:
+
+- Werwölfe (9-47 Spieler)
+- Secret Hitler (5-10 Spieler)
+- Avalon (5-10 Spieler)
+- Feed the Kraken (5-11 Spieler)
+- 2 Rooms and a Boom (6-30 Spieler)
+
+
+Teilnahmevoraussetzungen: Keine
+
+Dauer: Open End
+
+Ausstattung: Spiele (bringe ich mit), Tisch mit Stühlen, (für "2 Rooms and a Boom" werden 2 Räume benötigt)
