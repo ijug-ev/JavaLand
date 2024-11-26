@@ -115,3 +115,19 @@ Kommt in unsere Session, um euer eigenes Vermächtnis aufzubauen oder anderen ge
 Teilnahmevoraussetzung: keine zwingende, Teilnehmende mit Erfahrung in diesem Bereich reichern die Diskussion an :)
 Dauer: 60 min (gerne auch 2x, jeweils an unterschiedlichen Tagen)
 Ausstattung: Stühle, ruhiger Raum zum Diskutieren | gerne ein Beamer, um die Notizen für alle sichtbar zu haben
+
+## JavaLand4Kidults Charity Aktion: Bau deinen eigenen Duke ([JUG Hamburg](https://www.meetup.com/de-DE/jug-hamburg/): [Fin Labusch](https://github.com/futzlig)
+
+Nimm eine schöne Erinnerung von der JavaLand mit nach Hause und tue dabei etwas Gutes. Für eine kleine Spende von X € (X >= 10) kannst du dir deinen eigenen Duke aus Legosteinen bauen und mit nach Hause nehmen! Komm' einfach an einem der beiden Konferenztage in der Mittagspause in die Community Area und bau' dort dein Maskottchen. Deine Spende geht an (noch zu definieren). Dein Duke besteht aus ca. 80 Teilen und ist ca. 17 cm hoch. 
+
+Bitte markiere diese Veranstaltung bis zum 1.2.2025 bei Interesse als Favorit, damit wir die benötigten Materialen entsprechend planen können.
+
+Teilnahmevoraussetzungen: Spende von mindestens 10 €
+Dauer: 120 min (Mittagspausen/12-14 Uhr der beiden Konferenztage)
+Ausstattung: Tische, Stühle
+
+Anmerkungen: Die Materialkosten pro Duke belaufen sich auf ca. 5 bis 6 €, vorausgesetzt ich bekomme alle dafür notwendigen Teile in entsprechender Anzahl auf bricklink.com. Den Preis direkt bei Lego müsste ich noch ermitteln. Diese Kosten würden vom Spendenbeitrag abgehen oder es findet sich ein Sponsor (was ich angesichts der schon letztes Jahr schwierigen Situation bezweifle).
+
+Der Duke wird etwa so aussehen:
+
+![JavaLand Duke 2025](https://github.com/user-attachments/assets/617fe7e9-3028-49a5-af04-1c7561fc466a)
