@@ -164,6 +164,19 @@ Dauer: 2,5 Stunden.
 Ausstattung: Ruhiger Raum zum Diskutieren; Papier/Whiteboard/Flipchart/irgendwas zum Malen für jede Gruppe; Tische und Stühle mit maximal 5-6 Teilnehmer; bis zu 8 Tische Beamer/Fernseher für die Vorführungen und Kurzpräsentationen;
 
 
+## Einfach Illustrieren für eindrucksvolle Flipcharts ([JUG Darmstadt](https://www.jug-da.de/): [Alexander Schwartz](https://github.com/ahus1) unterstützt von [Sebastian Rose](https://github.com/srose))
+
+Beschreibung: Das Buch "Der Flipchart Coach" von Johannes Sauer und Axel Rachow hat mich vor vielen Jahren begeistert und mir gezeigt, wie ich mit hochwertigen Stiften und ein paar einfachen Techniken meine Flipcharts deutlich verbessern konnte. Diese Begeisterung möchte ich in diesem Workshop weitergeben, da ansprechend gestaltete Flipcharts deine Botschaft nicht nur professioneller vermitteln, sondern auch mehr Begeisterung bei den Teilnehmer wecken.
+
+Zu Beginn gebe ich einen kurzen Überblick über die grundlegenden Werkzeuge. Anschließend habt ihr viel Zeit, um selbst kreativ zu werden – ob alleine oder in kleinen Gruppen. Euch stehen eine Auswahl an Stiften, Wachsmalkreide und magischem Klebeband zur Verfügung. Zusätzlich bringe ich einige Bücher mit, die euch zeigen, wie ihr nach dem Workshop weiterlernen könnt.
+
+Teilnahmevoraussetzungen: Spaß am Experimentieren mit Stiften, Wachsmalkreide, Papier, Kleber und Klebeband.
+
+Dauer: 60-90 Minuten
+
+Ausstattung: 4-6 Flipcharts. Zusätzlich glatte Wände, an denen ich Papier aufhängen kann.
+
+
 ## Ask me anything - the Experts sessions! ([JUG Darmstadt](https://www.jug-da.de): [*Niko Köbler*](https://github.com/dasniko), [JUG Paderborn](https://jug-pb.gitlab.io/): [*Thorben Janssen*](https://github.com/thjanssen))
 
 ### Beschreibung
