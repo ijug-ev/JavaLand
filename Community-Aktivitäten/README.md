@@ -259,3 +259,58 @@ Teilnahmevoraussetzungen: Keine
 Dauer: Open End
 
 Ausstattung: Spiele (bringe ich mit), Tisch mit Stühlen, (für "2 Rooms and a Boom" werden 2 Räume benötigt)
+
+
+## Community UnKonferenz ([JUG Darmstadt](https://www.jug-da.de/): [Gerd Aschemann](https://github.com/ascheman) / [JUG Stuttgart](https://www.jugs.org/): [Tobias Frech](https://github.com/JOpsDev))
+
+### Beschreibung
+
+_Teaser_: Zur Einstimmung auf die Konferenz: Bringt Eure Themen mit und wir starten am Vorabend der Konferenz mit einer [Runde lockerer
+Diskussionen](https://de.wikipedia.org/wiki/Tagung#Unkonferenz) mit Gleichgesinnten.
+
+_Dauer_: 3,5 Stunden
+
+_Voraussetzungen_: Interesse am Austausch mit Anderen, eigene Ideen und Gedanken gerne mitbringen und teilen. Alle sind willkommen. Der [Verhaltenskodex der JavaLand](https://www.javaland.eu/de/verhaltenscodex/) gilt natürlich auch hier.
+
+### Ablauf
+
+* 15 Min - Intro (Konzept und Regeln erklären)
+* 10 Min - Marktplatz 1 (Vorstellen, Plan)
+* 45 Min - Slot 1 alle Räume
+* 10 Min - Marktplatz 2 (Vorstellen, Plan)
+* 45 Min - Slot 2 alle Räume
+* 10 Min - Marktplatz 3 (Vorstellen, Plan)
+* 45 Min - Slot 3 alle Räume
+* 15 Min - Wrap-Up
+
+### Continuous UnConferencing
+
+Erfahrungsgemäß kommen während der Veranstaltung immer wieder Leute hinzu.
+Wir wiederholen daher jede Stunde auch den Marktplatz für den nächsten Slot.
+
+### Wunsch-Slot
+
+Montag vor der Konferenz, 15:00 - 18:30 Uhr (wie in Vorjahren)
+
+### Ausstattung
+* Möglichst viele Räume (s.u.).
+* Pro Raum:
+    * ein Flipchart oder eine Pin-Wand mit Flip-Chart-Papier,
+    * Alternativ: White-Board,
+    * große Post-Its,
+    * Stifte (dünne für Post-Its, dicke für Flipchart/White-Boards).
+* Einzelne Räume mit Beamer / großem Monitor (brauchen wir nicht für alle Räume).
+
+### Raum-Optionen Nürburgring
+
+Die Veranstalter wünschen sich möglichst die gleichen Räume wie letztes Jahr. 
+
+* Intro und Wrap-Up in [Section 1 der Business Lounge](https://nuerburgring.de/business/eventlocations/businesslounge).
+* Für die Sessions >= 3 Räume des [Business Center](https://nuerburgring.de/business/eventlocations/business-center) wünschen.
+
+### Lessons Learned (vom letzten Jahr)
+
+* Beschilderung gut und groß, damit man das Event auch findet, insbesondere Nutzung von Aufzügen und Treppenhäusern
+* Ankündigung/Wegbeschreibung im Info-Mailing für Teilnehmende 4 Wochen vor Konferenz (evtl. machen wir eine Vorlage für das Office)
+* Aufnahme in der [Agenda](https://meine.doag.org/events/javaland/2025/agenda/#eventDay.all) 
+* Material (Post-Its etc. vorher prüfen)
