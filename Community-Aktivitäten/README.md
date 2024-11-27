@@ -42,6 +42,20 @@ Das JavaLand ist thematisch ("Java Community") und vom Platz her (Veranstaltungs
 
 An dieser Stelle veröffentlichen wir den jeweils aktuellen Planungsstand, auf welche Community-Aktivitäten Ihr Euch im nächsten JavaLand freuen dürft! Bitte beachtet, dass sich dieser Stand täglich ändern kann und **keine verbindliche Zusage** über eine bestimmte Community-Aktivität darstellt. Es ist durchaus realistisch, dass hier genannte Aktivitäten kurzfristig ausfallen (z. B. durch Krankheit des Veranstalters) oder spontan welche vor Ort hinzukommen (z. B. [BOFs](https://www.ietf.org/process/bofs/)!
 
+## Bash war gestern: Shell Scripting mit Babashka (Clojure UG Düsseldorf: Christian Meter; rheinjug: Jens Bendisposto) 
+
+Beschreibung: Wann hast du das letzte Mal ein etwas komplexeres Bash Script geschrieben und dir gewünscht, du könntest das Ding einfach in einer echten Programmierspache schreiben? Wir haben einen Vorschlag: Schreib deine Scripte mit Clojure! Babashka ist eine Script-Engine, mit der wir in Clojure Shell-Skripte und Tasks schreiben können und die Dank nativer Compilation eine Startup Zeit hat, die an native Bash-Skripte herankommt.
+
+Wir zeigen dir, wie du mit Babashka die etwas komplizierten Shell Probleme lösen kannst und wenden das dann auch gleich an.
+
+Ca. 30 Minuten werden wir am Anfang eine kurze Einführung geben und dann die restlichen 90 Minuten gemeinsam Shell Skripte schreiben.
+
+Teilnahmevoraussetzungen: Du benötigst auf deinem Rechner nur Babashka, es wird keine Clojure oder JVM Installation benötigt. Die Installationsanleitung findest du unter: https://github.com/babashka/babashka#installation
+
+Dauer: 2 Stunden.
+
+Ausstattung: Raum mit Tischen, Beamer und optimalerweise WLAN.
+
 
 ## JUG Café ([JUG Deutschland](https://java.de/): [*Daniel van Ross*](https://github.com/vanross/), [Frank Schwichtenberg](https://github.com/fschwic))
 
@@ -116,6 +130,7 @@ Teilnahmevoraussetzung: keine zwingende, Teilnehmende mit Erfahrung in diesem Be
 Dauer: 60 min (gerne auch 2x, jeweils an unterschiedlichen Tagen)
 Ausstattung: Stühle, ruhiger Raum zum Diskutieren | gerne ein Beamer, um die Notizen für alle sichtbar zu haben
 
+
 ## JavaLand4Kidults Charity Aktion: Bau deinen eigenen Duke ([JUG Hamburg](https://www.meetup.com/de-DE/jug-hamburg/): [Fin Labusch](https://github.com/futzlig)
 
 Nimm eine schöne Erinnerung von der JavaLand mit nach Hause und tue dabei etwas Gutes. Für eine kleine Spende von X € (X >= 10) kannst du dir deinen eigenen Duke aus Legosteinen bauen und mit nach Hause nehmen! Komm' einfach an einem der beiden Konferenztage in der Mittagspause in die Community Area und bau' dort dein Maskottchen. Deine Spende geht an (noch zu definieren). Dein Duke besteht aus ca. 80 Teilen und ist ca. 17 cm hoch. 
@@ -131,3 +146,116 @@ Anmerkungen: Die Materialkosten pro Duke belaufen sich auf ca. 5 bis 6 €, vora
 Der Duke wird etwa so aussehen:
 
 ![JavaLand Duke 2025](https://github.com/user-attachments/assets/617fe7e9-3028-49a5-af04-1c7561fc466a)
+
+
+## Coding Dojo: Die verschiedenen Schulen der TDD (JUG Darmstadt: [*Sebastian Rose*](https://github.com/srose)) unterstützt von [*Marco Emrich*](https://twitter.com/marcoemrich))
+
+In diesem Coding Dojo wollen wir uns dem Thema Testgetriebene Softwareentwicklung (TDD) widmen.
+Nach einem knackigen Intro zu TDD allgemein, landen wir bei einer Liste von möglichen Schulen.
+Diese Schulen unterscheiden sich im genauen Vorgehen und bieten unterschiedliche Schwerpunkte, Stärken und Schwächen.
+Der Einfluss von Sprachmodellen hat zuletzt auch hier Einfluss ausgeübt!
+
+Wir iterieren dann gemeinsam und vertiefen eine ausgewählte Schule.
+Welche Schule wir vertiefen entscheiden wir gemeinsam.
+Die Teilnehmer werden dazu in Paaren arbeiten und jede Schule in vorbereiteten Code Katas selbst ausprobieren.
+Pro Iteration werden min. 20 Minuten selbst machen angestrebt.
+Wir wollen versuchen mindestens drei Schulen zu schaffen.
+
+Teilnahmevoraussetzung: Es bestehen keine besonderen Teilenahmevoraussetzungen! Ein Rechner mit lauffähiger IDE, Java 17 und einem Buildtool deiner Wahl sind gut. Vorbereitetes git-Repo downloaden und Ausführung getestet ist perfekt.
+
+Dauer: 2,5 Stunden.
+
+Ausstattung: Eher ruhigerer Raum für ca. 25 Personen mit Sitzgelegenheiten; Beamer/Fernseher für die Vorführungen und Kurzpräsentationen; Strom und WLAN
+
+
+## Architecture Kata (JUG Darmstadt: [*Sebastian Rose*](https://github.com/srose), [*Alexander Schwartz*](https://twitter.com/ahus1de))
+
+Beschreibung: Als ArchitektInnen oder EntwicklerInnen bauen wir Systemarchitekturen und bekommen meist erst am Ende des Projekts Feedback, ob es so funktionierte oder nicht. In diesem Architektur Dojo ist das anders: Bereits nach einer halben Stunde präsentiert ihr euren Entwurf, bekommt Feedback und könnt die Lösung anschließend verbessern! Bearbeitet jenseits von eingetretenen Pfaden des Projektalltags gemeinsam mit anderen eine Architekturaufgabe. Übt es, Architekturen und Architekturentscheidungen zu präsentieren und zu begründen!
+
+Vorlage für uns sind die Architektur Katas von Neal Ford (http://nealford.com/katas/about.html). Mehrere Gruppen zu je 3-5 Personen entwerfen eine Architektur für eine vorgegebene Aufgabe. Danach stellen sich die Gruppen ihre Lösungen gegenseitig vor und bekommen Feedback. In der nächsten Iteration arbeiten sie Anregungen und Fragen ein und präsentieren ihre angepasste Lösung erneut.
+
+Teilnahmevoraussetzungen: Spaß am Austausch mit anderen zu Architekturthemen!
+
+Dauer: 2,5 Stunden.
+
+Ausstattung: Ruhiger Raum zum Diskutieren; Papier/Whiteboard/Flipchart/irgendwas zum Malen für jede Gruppe; Tische und Stühle mit maximal 5-6 Teilnehmer; bis zu 8 Tische Beamer/Fernseher für die Vorführungen und Kurzpräsentationen;
+
+
+## Einfach Illustrieren für eindrucksvolle Flipcharts ([JUG Darmstadt](https://www.jug-da.de/): [Alexander Schwartz](https://github.com/ahus1) unterstützt von [Sebastian Rose](https://github.com/srose))
+
+Beschreibung: Das Buch "Der Flipchart Coach" von Johannes Sauer und Axel Rachow hat mich vor vielen Jahren begeistert und mir gezeigt, wie ich mit hochwertigen Stiften und ein paar einfachen Techniken meine Flipcharts deutlich verbessern konnte. Diese Begeisterung möchte ich in diesem Workshop weitergeben, da ansprechend gestaltete Flipcharts deine Botschaft nicht nur professioneller vermitteln, sondern auch mehr Begeisterung bei den Teilnehmer wecken.
+
+Zu Beginn gebe ich einen kurzen Überblick über die grundlegenden Werkzeuge. Anschließend habt ihr viel Zeit, um selbst kreativ zu werden – ob alleine oder in kleinen Gruppen. Euch stehen eine Auswahl an Stiften, Wachsmalkreide und magischem Klebeband zur Verfügung. Zusätzlich bringe ich einige Bücher mit, die euch zeigen, wie ihr nach dem Workshop weiterlernen könnt.
+
+Teilnahmevoraussetzungen: Spaß am Experimentieren mit Stiften, Wachsmalkreide, Papier, Kleber und Klebeband.
+
+Dauer: 60-90 Minuten
+
+Ausstattung: 4-6 Flipcharts. Zusätzlich glatte Wände, an denen ich Papier aufhängen kann.
+
+
+## Ask me anything - the Experts sessions! ([JUG Darmstadt](https://www.jug-da.de): [*Niko Köbler*](https://github.com/dasniko), [JUG Paderborn](https://jug-pb.gitlab.io/): [*Thorben Janssen*](https://github.com/thjanssen))
+
+### Beschreibung
+
+Hast Du eine Frage zu einem bestimmten Thema oder einer Library, welche Du einem der hier teilnehmenden Experten in einer "Ask-me-Anything"-Session stellen möchtest? 
+
+Dann komm vorbei!
+
+Wie der Name sagt, kannst Du hier alles fragen und die Experten geben ihr Bestes, um die Fragen der Teilnehmer mit Hilfe von Beispielen und/oder Live-Coding zu beantworten. Und wenn Du keine eigenen Fragen hast, kannst Du bestimmt von den Herausforderungen der Anderen lernen!
+
+Unsere Experten und ihre Themen:
+
+* Thorben Janssen - Hibernate, JPA und Spring Data JPA
+* Niko Köbler - Keycloak, Authentifizierung & Identity Management mit OpenID Connect
+* _t.b.a._
+* _t.b.a._
+
+### Teilnahmevoraussetzungen
+
+Keine speziellen Voraussetzungen. Du solltest Fragen für den Experten Deiner Wahl mitbringen.
+
+### Dauer
+
+Jeder Experte hostet eine eigene Session von ca. 30 bis max. 60 Minuten.
+
+### Ausstattung
+
+Raum (Kapazität unklar, 20 max?) mit Beamer/Leinwand Kombi oder TV/Monitor als Präsentationsmöglichkeit, damit der Experte anhand von Beispielen und Demos die Fragen beantworten kann.
+
+### Interne Notiz an die Organisatoren
+
+Derzeit schauen wir noch, wen wir als weitere Experten hinzunehmen möchten. Wir möchten gerne mit min. 4 Experten die AmA-Sessions durchführen, evtl. mehr.
+Bei der zeitlichen Gestaltung sind wir offen, so dass wir entweder an einem Tag alle Sessions machen können, oder das auf beide Tage aufteilen.
+
+Wir erwarten, dass Teilnehmer sich gezielt einzelne Experten heraussuchen. Daher sollte jede Session einzeln im Programm aufgeführt werden.
+
+
+## Wir erstellen Daily-StandAPP: Eine Offline-First-App in Java, Kotlin oder als mobile Lösung mit eingebetteter KI([JUG Darmstadt](https://www.jug-da.de/) - [*Michal Harakal*](https://github.com/michalharakal), [*Alexander von Below*](https://github.com/below), *Falk Sippach*)
+
+Beschreibung: In diesem praxisorientierten Workshop entwickeln die Teilnehmer/-innen *Daily StandAPP*, eine Offline-First-App, die agile Teams dabei unterstützt, ihre Daily Standups zu optimieren, indem sie die jüngsten Entwicklungsaktivitäten analysiert und zusammenfasst. Die App ermöglicht es den Benutzer/-innen, einen lokalen Git-Repository-Ordner auszuwählen, Commits automatisch zu erkennen und ein eingebettetes Sprachmodell (LLM) zur Erstellung klarer Zusammenfassungen der Änderungen zu verwenden. 
+Am Ende des Workshops verfügen die Teilnehmenden über einen Prototypen, der vollständig offline funktioniert, um Datenschutz und die Sicherheit sensibler Informationen zu gewährleisten. Wir werden außerdem gemeinsam lernen, wie sich die Integration eines LLMs auf Mobilgeräten oder PCs so gestaltet, dass eine optimale Balance zwischen Rechenleistung, Speichereffizienz und Benutzerfreundlichkeit erreicht wird. Durch den Einsatz von optimierten Bibliotheken, Modellen und Plattformtools können sie die Herausforderungen ressourcenbeschränkter Umgebungen meistern und eine robuste, benutzerfreundliche App entwickeln, die lokale KI-Funktionalität sicher und effizient bereitstellt.
+Durch die Nutzung einer in Kotlin Multiplatform entwickelten KI-Bibliothek bleibt die Wahl der Programmiersprache und des Frontends flexibel, sodass Java, Kotlin oder Kotlin Multiplatform verwendet werden können. Wir unterstützen euch bei Java, Kotlin und Android/iOS. Aktuelle Informationen zum Workshop gibs hier: https://michalharakal.github.io/Daily-StandAPP
+
+Voraussetzungen: Spezielle Vorkenntnisse in LLMs oder Data Science sind nicht erforderlich, da alle wichtigen Konzepte verständlich und ausführlich erklärt werden. Gemeinsam werden wir Schritt für Schritt die einzelnen Komponenten und Konzepte der App erarbeiten, ein passendes Modell integrieren und bei Bedarf anpassen, damit es effizient auf dem Gerät läuft. Den Code entwickeln wir dabei von Grund auf bis zur letzten Zeile gemeinsam.
+
+Dauer: 120 Min
+
+Ausstattung: Tische mit Stühlen, Beamer, Strom, WLAN
+
+
+## Social Deduction Games ([JUG Mainz](https://www.jug-mz.de/): [Anna Abad Sieper](https://github.com/annabadsi))
+Beschreibung: Für jeden der Spaß am Spielen hat und gerne neue Kontakte knüpft! Bei Social Deduction Games liegt der Fokus auf der Kommunikation der Teilnehmer. Allgemein geht es darum, dass jeder Spieler eine geheime Rolle zugewiesen bekommt und erraten muss, welche Rollen die anderen Mitspieler verkörpern. Je nach Anzahl der Teilnehmer können wir folgende Spiele zusammen spielen:
+
+- Werwölfe (9-47 Spieler)
+- Secret Hitler (5-10 Spieler)
+- Avalon (5-10 Spieler)
+- Feed the Kraken (5-11 Spieler)
+- 2 Rooms and a Boom (6-30 Spieler)
+
+
+Teilnahmevoraussetzungen: Keine
+
+Dauer: Open End
+
+Ausstattung: Spiele (bringe ich mit), Tisch mit Stühlen, (für "2 Rooms and a Boom" werden 2 Räume benötigt)
