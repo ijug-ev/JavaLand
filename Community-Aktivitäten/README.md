@@ -42,6 +42,20 @@ Das JavaLand ist thematisch ("Java Community") und vom Platz her (Veranstaltungs
 
 An dieser Stelle veröffentlichen wir den jeweils aktuellen Planungsstand, auf welche Community-Aktivitäten Ihr Euch im nächsten JavaLand freuen dürft! Bitte beachtet, dass sich dieser Stand täglich ändern kann und **keine verbindliche Zusage** über eine bestimmte Community-Aktivität darstellt. Es ist durchaus realistisch, dass hier genannte Aktivitäten kurzfristig ausfallen (z. B. durch Krankheit des Veranstalters) oder spontan welche vor Ort hinzukommen (z. B. [BOFs](https://www.ietf.org/process/bofs/)!
 
+## Bash war gestern: Shell Scripting mit Babashka (Clojure UG Düsseldorf: Christian Meter; rheinjug: Jens Bendisposto) 
+
+Beschreibung: Wann hast du das letzte Mal ein etwas komplexeres Bash Script geschrieben und dir gewünscht, du könntest das Ding einfach in einer echten Programmierspache schreiben? Wir haben einen Vorschlag: Schreib deine Scripte mit Clojure! Babashka ist eine Script-Engine, mit der wir in Clojure Shell-Skripte und Tasks schreiben können und die Dank nativer Compilation eine Startup Zeit hat, die an native Bash-Skripte herankommt.
+
+Wir zeigen dir, wie du mit Babashka die etwas komplizierten Shell Probleme lösen kannst und wenden das dann auch gleich an.
+
+Ca. 30 Minuten werden wir am Anfang eine kurze Einführung geben und dann die restlichen 90 Minuten gemeinsam Shell Skripte schreiben.
+
+Teilnahmevoraussetzungen: Du benötigst auf deinem Rechner nur Babashka, es wird keine Clojure oder JVM Installation benötigt. Die Installationsanleitung findest du unter: https://github.com/babashka/babashka#installation
+
+Dauer: 2 Stunden.
+
+Ausstattung: Raum mit Tischen, Beamer und optimalerweise WLAN.
+
 
 ## JUG Café ([JUG Deutschland](https://java.de/): [*Daniel van Ross*](https://github.com/vanross/), [Frank Schwichtenberg](https://github.com/fschwic))
 
@@ -127,3 +141,40 @@ Teilnahmevoraussetzungen: Spaß am Experimentieren mit Stiften, Wachsmalkreide, 
 Dauer: 60-90 Minuten
 
 Ausstattung: 4-6 Flipcharts. Zusätzlich glatte Wände, an denen ich Papier aufhängen kann.
+
+
+## Ask me anything - the Experts sessions! ([JUG Darmstadt](https://www.jug-da.de): [*Niko Köbler*](https://github.com/dasniko), [JUG Paderborn](https://jug-pb.gitlab.io/): [*Thorben Janssen*](https://github.com/thjanssen))
+
+### Beschreibung
+
+Hast Du eine Frage zu einem bestimmten Thema oder einer Library, welche Du einem der hier teilnehmenden Experten in einer "Ask-me-Anything"-Session stellen möchtest? 
+
+Dann komm vorbei!
+
+Wie der Name sagt, kannst Du hier alles fragen und die Experten geben ihr Bestes, um die Fragen der Teilnehmer mit Hilfe von Beispielen und/oder Live-Coding zu beantworten. Und wenn Du keine eigenen Fragen hast, kannst Du bestimmt von den Herausforderungen der Anderen lernen!
+
+Unsere Experten und ihre Themen:
+
+* Thorben Janssen - Hibernate, JPA und Spring Data JPA
+* Niko Köbler - Keycloak, Authentifizierung & Identity Management mit OpenID Connect
+* _t.b.a._
+* _t.b.a._
+
+### Teilnahmevoraussetzungen
+
+Keine speziellen Voraussetzungen. Du solltest Fragen für den Experten Deiner Wahl mitbringen.
+
+### Dauer
+
+Jeder Experte hostet eine eigene Session von ca. 30 bis max. 60 Minuten.
+
+### Ausstattung
+
+Raum (Kapazität unklar, 20 max?) mit Beamer/Leinwand Kombi oder TV/Monitor als Präsentationsmöglichkeit, damit der Experte anhand von Beispielen und Demos die Fragen beantworten kann.
+
+### Interne Notiz an die Organisatoren
+
+Derzeit schauen wir noch, wen wir als weitere Experten hinzunehmen möchten. Wir möchten gerne mit min. 4 Experten die AmA-Sessions durchführen, evtl. mehr.
+Bei der zeitlichen Gestaltung sind wir offen, so dass wir entweder an einem Tag alle Sessions machen können, oder das auf beide Tage aufteilen.
+
+Wir erwarten, dass Teilnehmer sich gezielt einzelne Experten heraussuchen. Daher sollte jede Session einzeln im Programm aufgeführt werden.
