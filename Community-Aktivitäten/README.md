@@ -212,3 +212,16 @@ Derzeit schauen wir noch, wen wir als weitere Experten hinzunehmen möchten. Wir
 Bei der zeitlichen Gestaltung sind wir offen, so dass wir entweder an einem Tag alle Sessions machen können, oder das auf beide Tage aufteilen.
 
 Wir erwarten, dass Teilnehmer sich gezielt einzelne Experten heraussuchen. Daher sollte jede Session einzeln im Programm aufgeführt werden.
+
+
+## Wir erstellen Daily-StandAPP: Eine Offline-First-App in Java, Kotlin oder als mobile Lösung mit eingebetteter KI([JUG Darmstadt](https://www.jug-da.de/) - [*Michal Harakal*](https://github.com/michalharakal), [*Alexander von Below*](https://github.com/below), *Falk Sippach*)
+
+Beschreibung: In diesem praxisorientierten Workshop entwickeln die Teilnehmer/-innen *Daily StandAPP*, eine Offline-First-App, die agile Teams dabei unterstützt, ihre Daily Standups zu optimieren, indem sie die jüngsten Entwicklungsaktivitäten analysiert und zusammenfasst. Die App ermöglicht es den Benutzer/-innen, einen lokalen Git-Repository-Ordner auszuwählen, Commits automatisch zu erkennen und ein eingebettetes Sprachmodell (LLM) zur Erstellung klarer Zusammenfassungen der Änderungen zu verwenden. 
+Am Ende des Workshops verfügen die Teilnehmenden über einen Prototypen, der vollständig offline funktioniert, um Datenschutz und die Sicherheit sensibler Informationen zu gewährleisten. Wir werden außerdem gemeinsam lernen, wie sich die Integration eines LLMs auf Mobilgeräten oder PCs so gestaltet, dass eine optimale Balance zwischen Rechenleistung, Speichereffizienz und Benutzerfreundlichkeit erreicht wird. Durch den Einsatz von optimierten Bibliotheken, Modellen und Plattformtools können sie die Herausforderungen ressourcenbeschränkter Umgebungen meistern und eine robuste, benutzerfreundliche App entwickeln, die lokale KI-Funktionalität sicher und effizient bereitstellt.
+Durch die Nutzung einer in Kotlin Multiplatform entwickelten KI-Bibliothek bleibt die Wahl der Programmiersprache und des Frontends flexibel, sodass Java, Kotlin oder Kotlin Multiplatform verwendet werden können. Wir unterstützen euch bei Java, Kotlin und Android/iOS. Aktuelle Informationen zum Workshop gibs hier: https://michalharakal.github.io/Daily-StandAPP
+
+Voraussetzungen: Spezielle Vorkenntnisse in LLMs oder Data Science sind nicht erforderlich, da alle wichtigen Konzepte verständlich und ausführlich erklärt werden. Gemeinsam werden wir Schritt für Schritt die einzelnen Komponenten und Konzepte der App erarbeiten, ein passendes Modell integrieren und bei Bedarf anpassen, damit es effizient auf dem Gerät läuft. Den Code entwickeln wir dabei von Grund auf bis zur letzten Zeile gemeinsam.
+
+Dauer: 120 Min
+
+Ausstattung: Tische mit Stühlen, Beamer, Strom, WLAN
