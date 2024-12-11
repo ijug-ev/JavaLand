@@ -314,3 +314,22 @@ Die Veranstalter wünschen sich möglichst die gleichen Räume wie letztes Jahr.
 * Ankündigung/Wegbeschreibung im Info-Mailing für Teilnehmende 4 Wochen vor Konferenz (evtl. machen wir eine Vorlage für das Office)
 * Aufnahme in der [Agenda](https://meine.doag.org/events/javaland/2025/agenda/#eventDay.all) 
 * Material (Post-Its etc. vorher prüfen)
+
+
+## JUG Café ([JUG Deutschland](https://www.java.de): Daniel van Ross, Frank Schwichtenberg ) 
+
+Beschreibung: 
+* Für Besucher:
+Im JUG Café ist auch in diesem Jahr wieder der Ort um mit den Organisatoren eurer lokalen JUG ins Gespräch zu kommen. Egal ob ich euch einfach nur über Java unterhalten wollt, mehr über die Organisation der JUG vor Ort wissen möchtet oder dort euren ersten Vortrag halten wollt. Hier trefft ihr die richtigen Ansprechpartner dafür.
+
+* Für JUG Vertreter:
+Das JUG Café bietet auch bei dieser Javaland wieder eine Plattform um den Besuchern die eigene JUG zu präsentieren und euer Infomaterial, eure Flyer oder eure Sticker auszulegen. 2025 legen wir einen zusätzlichen Fokus auf die Zusammenarbeit der JUGs untereinander. Lernt die Leute aus euren Nachbarstädten kennen, tauscht eure Erfahrungen aus und trinkt einen Kaffee zusammen.
+
+Teilnahmevoraussetzungen: keine 
+
+Dauer: die ganzen zwei Tage 
+
+Ausstattung: 
+* ein zentraler Raum an dem man immer vorbeikommt, gerne auch wieder im Bus wie im letzten Jahr
+* Sitzmöglichkeiten und evtl. Stehtische 
+* Cappuccino-Voucher oder ähnliches wäre auch wieder gut.
