@@ -57,17 +57,6 @@ Dauer: 2 Stunden.
 Ausstattung: Raum mit Tischen, Beamer und optimalerweise WLAN.
 
 
-## JUG Café ([JUG Deutschland](https://java.de/): [*Daniel van Ross*](https://github.com/vanross/), [Frank Schwichtenberg](https://github.com/fschwic))
-
-Beschreibung: Auch wenn sich die Location ändert, wollen wir euch natürlich wieder die Möglichkeit geben, eure lokalen Java User Groups persönlich kennenzulernen. Kommt mit Vertretern der JUGs aus eurer Heimat- oder Nachbarstadt ins Gespräch, redet über Java, die Aktivitäten euer JUG oder welchen Speaker ihr gerne als nächstes vor Ort sehen würdet. Ihr seit selber Vertreter eine JUG? Dann präsentiert eure Aktivitäten hier, redet mit Vertretern anderer JUGs und tauscht eure Erfahrungen bei der Organisation eurer Events aus.
-
-Teilnahmevoraussetzungen: keine.
-
-Dauer: noch unklar
-
-Ausstattung: noch unklar
-
-
 ## JavaLand Jogging ([JUG Hamburg](https://jughh.de/): [*Bennet Schulz*](https://github.com/bennetelli))
 
 Beschreibung: Für Frühaufsteher: In idyllischer Umgebung Energie tanken am Morgen des zweiten Konferenztages - ganz einfach beim JavaLand Jogging. Die Strecke ist ein rund drei Kilometer langer Rundkurs, der zweimal gelaufen wird.
@@ -316,14 +305,14 @@ Die Veranstalter wünschen sich möglichst die gleichen Räume wie letztes Jahr.
 * Material (Post-Its etc. vorher prüfen)
 
 
-## JUG Café ([JUG Deutschland](https://www.java.de): Daniel van Ross, Frank Schwichtenberg ) 
+## JUG-Café ([JUG Deutschland](https://www.java.de): Daniel van Ross, Frank Schwichtenberg ) 
 
 Beschreibung: 
 * Für Besucher:
-Im JUG Café ist auch in diesem Jahr wieder der Ort um mit den Organisatoren eurer lokalen JUG ins Gespräch zu kommen. Egal ob ich euch einfach nur über Java unterhalten wollt, mehr über die Organisation der JUG vor Ort wissen möchtet oder dort euren ersten Vortrag halten wollt. Hier trefft ihr die richtigen Ansprechpartner dafür.
+Im JUG-Café ist auch in diesem Jahr wieder der Ort, um mit den Organisatoren eurer lokalen JUG ins Gespräch zu kommen. Egal ob ihr euch einfach nur über Java unterhalten wollt, mehr über die Organisation der JUG vor Ort wissen möchtet, oder dort euren ersten Vortrag halten wollt: Hier trefft ihr die richtigen Ansprechpartner dafür!
 
-* Für JUG Vertreter:
-Das JUG Café bietet auch bei dieser Javaland wieder eine Plattform um den Besuchern die eigene JUG zu präsentieren und euer Infomaterial, eure Flyer oder eure Sticker auszulegen. 2025 legen wir einen zusätzlichen Fokus auf die Zusammenarbeit der JUGs untereinander. Lernt die Leute aus euren Nachbarstädten kennen, tauscht eure Erfahrungen aus und trinkt einen Kaffee zusammen.
+* Für JUG-Vertreter:
+Das JUG-Café bietet auch bei dieser Javaland wieder eine Plattform, um den Besuchern die eigene JUG zu präsentieren und euer Infomaterial, eure Flyer oder eure Sticker auszulegen. 2025 legen wir einen zusätzlichen Fokus auf die Zusammenarbeit der JUGs untereinander. Lernt die Leute aus euren Nachbarstädten kennen, tauscht eure Erfahrungen aus und trinkt einen Kaffee zusammen!
 
 Teilnahmevoraussetzungen: keine 
 
