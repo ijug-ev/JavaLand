@@ -322,3 +322,14 @@ Ausstattung:
 * ein zentraler Raum an dem man immer vorbeikommt, gerne auch wieder im Bus wie im letzten Jahr
 * Sitzmöglichkeiten und evtl. Stehtische 
 * Cappuccino-Voucher oder ähnliches wäre auch wieder gut.
+
+## Let's try: OpenRewrite - automate your Migration (JUG Dortmund: [Merlin Bögershausen](https://mboegie.dev))
+
+Beschreibung: 
+Auf Konferenzen sehen wir viele neue Dinge und haben Abstand von dem stressigen Tagesgeschäft, der perfekte Zeitpunkt, etwas Neues auszuprobieren. Lasst uns zusammen einen bis vier Kaffee (1 Stunde) investieren und sehen, wie wir OpenRewrite in unseren Projekten einsetzen können, um langwierige Migrationen zu automatisieren und an unsere Bedürfnisse anzupassen. Das Coole: jede:r kann sein eigenes Projekt mitbringen und die Ergebnisse weiter nutzen.
+
+Teilnahmevoraussetzungen: keine, idealerweise eigener Laptop
+
+Dauer: 1h u.U. auch täglich Nachmittags
+
+Ausstattung: Beamer, WLan auch für Teilnehmer:innen
