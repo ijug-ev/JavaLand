@@ -41,3 +41,16 @@ Das JavaLand ist thematisch ("Java Community") und vom Platz her (Veranstaltungs
 # Planungsstand
 
 An dieser Stelle veröffentlichen wir den jeweils aktuellen Planungsstand, auf welche Community-Aktivitäten Ihr Euch im nächsten JavaLand freuen dürft! Bitte beachtet, dass sich dieser Stand täglich ändern kann und **keine verbindliche Zusage** über eine bestimmte Community-Aktivität darstellt. Es ist durchaus realistisch, dass hier genannte Aktivitäten kurzfristig ausfallen (z. B. durch Krankheit des Veranstalters) oder spontan welche vor Ort hinzukommen (z. B. [BOFs](https://www.ietf.org/process/bofs/))
+
+## Am I becoming obsolete - Is AI killing my (future) job (JUG Ostfalen: Dennis Schladebeck)
+
+Beschreibung: 
+Wöchentlich fliegen uns Interviews oder Konferenztalks um die Ohren, die den Abgesang auf das Berufsbild des Softwareentwicklers einläuten. Viele junge, aber auch erfahrene Entwickler machen sich Sorgen um ihre Zukunft. Schüler stellen sich die Frage, ob es sich überhaupt noch lohnt ein Studium der Informatik zu beginnen bzw. abzuschließen. Manche Firmen haben gar aufgehört Junioren einzustellen.
+
+Gerne möchten wir mit euch das Thema in einer entspannten Diskussionsrunde besprechen. Bringt eure Ängste, Erfahrungen und Meinungen gerne mit zur Javaland. Wir nehmen uns eine Stunde Zeit um das Thema aus verschiedenen Sichten zu beleuchten.
+
+Teilnahmevoraussetzungen: keine, idealerweise eigene Perspektive oder Meinung mitbringen
+
+Dauer: 1h 
+
+Ausstattung: Raum und Stühle für ca. 20 Teilnehmer
