@@ -42,26 +42,40 @@ Das JavaLand ist thematisch ("Java Community") und vom Platz her (Veranstaltungs
 
 An dieser Stelle veröffentlichen wir den jeweils aktuellen Planungsstand, auf welche Community-Aktivitäten Ihr Euch im nächsten JavaLand freuen dürft! Bitte beachtet, dass sich dieser Stand täglich ändern kann und **keine verbindliche Zusage** über eine bestimmte Community-Aktivität darstellt. Es ist durchaus realistisch, dass hier genannte Aktivitäten kurzfristig ausfallen (z. B. durch Krankheit des Veranstalters) oder spontan welche vor Ort hinzukommen (z. B. [BOFs](https://www.ietf.org/process/bofs/))
 
-## JavaLand Sternfahrt ([JUG Schweiz](https://www.jug.ch/): [*Marcus Fihlon*](https://github.com/McPringle))
+## Open Source Camp ([JUG Schweiz](https://www.jug.ch/): [*Marcus Fihlon*](https://github.com/McPringle))
+
+**Zielgruppe: Alle, die bis Donnerstag bleiben.**
 
 ### Beschreibung
 
-Wir kommen aus allen Ecken von Deutschland, Österreich und der Schweiz zur JavaLand, um ein paar schöne und nerdige Tage miteinander zu verbringen. Einige von uns werden die Anreise mit dem Fahrrad wagen. Vielleicht gehörst du auch dazu? Genau darum geht es bei dieser Community-Aktivität: Mit dem Fahrrad zum JavaLand anreisen. Über einen [Matrix-Chat](https://matrix.to/#/#javaland-sternfahrt:ijug.eu) können wir uns dabei koordinieren, um uns unterwegs zu treffen und Teilstrecken gemeinsam zu fahren.
+Das Open Source Camp ist ein Hackergarten Event und dein Abend, um richtig in die Open-Source-Welt einzutauchen. Hier geht es nicht um Vorträge oder Konsumieren. Hier geht es ums Machen. Kein Bullshit, kein Marketing. Einfach gemeinsam etwas schaffen, das bleibt.
 
-Vielleicht magst du deine Strecke auch mit einem GPS-Gerät, Navi oder Smartphone aufzeichnen? Die GPX-Datei kannst du dann nach deiner Ankunft per E-Mail mich schicken und ich werde mithilfe einer in Java entwickelten Open Source Anwendung ([GPX-Animator](https://gpx-animator.app/)) eine Animation der Sternfahrt erstellen. Vielleicht schaffen wir es mit dem Video sogar auf die grosse Bühne?
+Menschen mit unterschiedlichen Skills setzen sich zusammen an echte Open Source Projekte und bringen sie voran. Egal ob du entwickelst, designst, schreibst oder einfach neugierig bist: Du kannst sofort einsteigen. Vorkenntnisse brauchst du keine. Du kannst eigene Projektideen einbringen oder dich anderen anschliessen. Alles zählt: Code, UI/UX, Dokumentation, Tests. Wichtig ist nur: Du bringst Lust mit, dich einzubringen.
 
-Falls du bei der Planung deiner Fahrt oder der Aufzeichnung als GPX-Datei Unterstützung benötigst, stehe ich dir vor der JavaLand gerne zur Verfügung. Eigentlich logisch, aber besser vorher informiert als hinterher bereut: Die Java User Group Switzerland, die JavaLand GmbH und der iJUG e.V. übernehmen keine Haftung. Du solltest also selbst versichert sein, falls unterwegs etwas passiert.
+Was dich erwartet:
+- Hands-on Arbeit an Open-Source-Projekten
+- Unterstützung durch erfahrene Committer und Maintainer
+- Austausch, Lernen und jede Menge Spass
+- Und am Ende: deine erste (oder nächste) echte Contribution!
 
-Viele weitere Informationen findest du im [GitHub Repository zur JavaLand Sternfahrt 2026](https://github.com/jugch/javaland-sternfahrt-2026). Dort siehst du auch eine Liste der Teilnehmer, die schon zugesagt haben, und Informationen über ihre Routen.
+Warum du kommen solltest:
+- Weil du nicht nur zuschaust, sondern mitmachst.
+- Weil du lernst, wie Open Source wirklich funktioniert.
+- Weil du Menschen triffst, die das gleiche Mindset haben wie du.
+
+Open Source Camp: Ein Abend, an dem aus vielen Einzelnen ein Team wird – und aus Ideen echte Contributions.
 
 ### Teilnahmevoraussetzungen
 
-Du solltest ein Fahrrad haben und idealerweise (nicht zwingend) ein Gerät, um deine Fahrt als GPX-Datei aufzuzeichnen.
+Keine. Offen für alle Interessierten.  
+Ein Notebook ist von Vorteil, aber nicht zwingend erforderlich.
 
 ### Dauer
 
-Je nach Entfernung mehrere Stunden oder auch Tage… 😉
+Mittwoch, 18:00 - 21:30 Uhr (3.5 Stunden)  
+Später dazustossen und früher gehen ist jederzeit möglich.
 
 ### Ausstattung
 
-Die Teilnehmenden nutzen ihre eigenen Fahrräder. Für die Unterbringung des Fahrrades während der JavaLand werden wir entsprechende Angebote unterbreiten, genauere Informationen dazu folgen noch. Von Seiten der JavaLand wird keine Ausstattung benötigt.
+Ein Raum mit Tischen und Stühlen, WLAN, Stromanschlüsse.  
+Kein Beamer oder sonstige Präsentationstechnik erforderlich.
