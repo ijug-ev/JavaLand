@@ -57,3 +57,17 @@ Wir sollten uns dazu entweder über den [JVM Deutschland Slack](jvm-german.slack
 
 **Ausstattung:** Tische und Stühle
 
+
+### [Spieleabend] Brettspiele ([JUG Ingolstadt](https://jug-in.bayern): [**Ben Wolf**](https://github.com/programming-wolf) )
+
+**Beschreibung:** Ich möchte euch dazu einladen, Dienstag und Mittwoch Abend gemeinsam mit Brettspielen zu verbringen. Bringt einfach eine Reihe von Spielen mit, und wir können aus einer Vielzahl an Spielen wählen. 
+Ich selbst werde das Arkham Horror Living Card Game mitbringen, dann können bis zu 4 Spieler die Einstiegskampagne spielen. 
+
+Wir sollten uns dazu entweder über den [JVM Deutschland Slack](jvm-german.slack.com), [Javaland 2026 Aktivitäten-Discord (habe ich aufgemacht)](https://discord.gg/EJvaPnMx3V) oder per [Mail](mailto:benjamin.wolf@innoq.com) verbinden, um das zu koordinieren. 
+
+**Teilnahmevoraussetzungen:** Lust auf Brettspiele, eigene Brettspiele mitbringen.
+
+**Dauer:** 19:00 - Open End
+
+**Ausstattung:** Tische und Stühle
+
