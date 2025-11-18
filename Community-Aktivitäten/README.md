@@ -41,3 +41,19 @@ Das JavaLand ist thematisch ("Java Community") und vom Platz her (Veranstaltungs
 ## Planungsstand
 
 An dieser Stelle veröffentlichen wir den jeweils aktuellen Planungsstand, auf welche Community-Aktivitäten Ihr Euch im nächsten JavaLand freuen dürft! Bitte beachtet, dass sich dieser Stand täglich ändern kann und **keine verbindliche Zusage** über eine bestimmte Community-Aktivität darstellt. Es ist durchaus realistisch, dass hier genannte Aktivitäten kurzfristig ausfallen (z. B. durch Krankheit des Veranstalters) oder spontan welche vor Ort hinzukommen (z. B. [BOFs](https://www.ietf.org/process/bofs/))
+
+
+### [Spieleabend] Magic: The Gathering ([JUG Ingolstadt](https://jug-in.bayern): [**Ben Wolf**](https://github.com/programming-wolf) )
+
+**Beschreibung:** Ich möchte euch dazu einladen, Dienstag und Mittwoch Abend gemeinsam mit ein paar Runden Magic: The Gathering zu verbringen.
+Wir können [Commander](https://magic.wizards.com/en/formats/commander) spielen, ich kann aber auch bei Interesse Material für Draft- oder Sealed-Turniere mitbringen, natürlich zum Selbstkostenpreis.
+Ich werde eine Reihe von Commander-Decks mitbringen, so dass auch Interessierte eine Runde mitspielen können, ohne selbst ein Deck haben zu müssen. 
+
+Wir sollten uns dazu entweder über den [JVM Deutschland Slack](jvm-german.slack.com), [Javaland 2026 Aktivitäten-Discord (habe ich aufgemacht)](https://discord.gg/EJvaPnMx3V) oder per [Mail](mailto:benjamin.wolf@innoq.com) verbinden, um das zu koordinieren. 
+
+**Teilnahmevoraussetzungen:** Interesse an Magic: The Gathering, eigene Commander-Decks
+
+**Dauer:** 19:00 - Open End
+
+**Ausstattung:** Tische und Stühle
+
