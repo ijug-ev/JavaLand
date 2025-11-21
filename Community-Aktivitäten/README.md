@@ -11,7 +11,7 @@ Das Ziel jeder Aktivität ist es, Euch miteinander in Kontakt zu bringen, den Au
 Dabei muss es nicht immer nur *direkt* um Java gehen. Außergewöhnliche Einreichungen der zurückliegenden Jahre umfassten unter anderem schon "Mentoring Speed-Dating", "JavaLand Kung-Fu", eine "JavaLand Big Band", ein Tischfußballturnier, und natürlich das alljährliche "JavaLand Jogging" um 07:00 Uhr bei dem man schon mit bekannten "VIPs" wie Arun Gupta und Ivar Grimstad vor dem Frühstück schwitzen konnte, sowie das "JUG Café", wo man die im iJUG zusammengeschlossenen Java User Groups kennenlernen konnte. Interessiert? Dann mach mit! Denn es ist **Deine** JavaLand, **Deine** Community-Aktivität - Wir stellen Deiner JUG nur den Platz und die Infrastruktur bereit, die Show macht Ihr selber! 🪄 Und ganz wichtig: Pro CA ist der Eintritt für den Organisator während der Hauptkonferenz **kostenlos**! 🤩
 
 
-# Call for Participation - **👉 OFFEN - BITTE JETZT EINREICHEN! 👈**
+## Call for Participation - **👉 OFFEN - BITTE JETZT EINREICHEN! 👈**
 
 **Wir freuen uns auf Eure Einreichungen für die JavaLand 2026!**
 
@@ -19,7 +19,7 @@ Die JavaLand 2026 findet vom 10.03. - 12.03.2026 im Europa-Park statt.
 
 Optimalerweise schickt ihr uns einfach einen Pull Request über Github, der *dieses* Markdown-Dokument ändert, und welchen Titel, kurze Beschreibung und -ganz wichtig!- Eure E-Mail-Adresse steht. Gerne könnt ihr dazu die bereits gelisteten Einträge als Vorlage nehmen, das macht euch die Einreichung leichter; alternativ findet ihr unten ein leeres Template! 😊 Wir melden uns dann umgehend bei Euch! Wenn Euch ein PR zu aufwändig ist, könnt Ihr statt dessen auch gerne einfach eine E-Mail an *all-ca-sprecher@javaland.eu* senden mit diesen Informationen.
 
-## TEMPLATE
+### TEMPLATE
 
 Beschreibung: 
 
@@ -30,7 +30,7 @@ Dauer:
 Ausstattung:
 
 
-# Aufnahmekriterien
+## Aufnahmekriterien
 
 Das JavaLand ist thematisch ("Java Community") und vom Platz her (Veranstaltungsgelände Europa-Park) begrenzt. Wir versuchen, jeder Aktivität genug Raum zu geben. Trotzdem müssen wir leider einige Bewerbungen ablehnen. Um Enttäuschungen von vorne herein zu vermeiden, hier ein paar "harte Fakten" für Euch:
 * Die Aktivität wird von einer Java User Group veranstaltet.
@@ -38,10 +38,53 @@ Das JavaLand ist thematisch ("Java Community") und vom Platz her (Veranstaltungs
 * Es geht um die Plattform Java bzw. das Leben als Java-Entwickler - dazu zählen aber auch Sport, Ernährung, Erfahrungsaustausch und soziale Kontakte!
 
 
-# Planungsstand
+## Planungsstand
 
 An dieser Stelle veröffentlichen wir den jeweils aktuellen Planungsstand, auf welche Community-Aktivitäten Ihr Euch im nächsten JavaLand freuen dürft! Bitte beachtet, dass sich dieser Stand täglich ändern kann und **keine verbindliche Zusage** über eine bestimmte Community-Aktivität darstellt. Es ist durchaus realistisch, dass hier genannte Aktivitäten kurzfristig ausfallen (z. B. durch Krankheit des Veranstalters) oder spontan welche vor Ort hinzukommen (z. B. [BOFs](https://www.ietf.org/process/bofs/))
 
+
+## [Spieleabend] Magic: The Gathering ([JUG Ingolstadt](https://jug-in.bayern): [**Ben Wolf**](https://github.com/programming-wolf) )
+
+### Beschreibung
+
+Ich möchte euch dazu einladen, Dienstag und Mittwoch Abend gemeinsam mit ein paar Runden Magic: The Gathering zu verbringen.
+Wir können [Commander](https://magic.wizards.com/en/formats/commander) spielen, ich kann aber auch bei Interesse Material für Draft- oder Sealed-Turniere mitbringen, natürlich zum Selbstkostenpreis.
+Ich werde eine Reihe von Commander-Decks mitbringen, so dass auch Interessierte eine Runde mitspielen können, ohne selbst ein Deck haben zu müssen. 
+
+Wir sollten uns dazu entweder über den [JVM Deutschland Slack](jvm-german.slack.com), [Javaland 2026 Aktivitäten-Discord (habe ich aufgemacht)](https://discord.gg/EJvaPnMx3V) oder per [Mail](mailto:benjamin.wolf@innoq.com) verbinden, um das zu koordinieren. 
+
+### Teilnahmevoraussetzungen
+
+Interesse an Magic: The Gathering, eigene Commander-Decks
+
+### Dauer
+
+19:00 - Open End
+
+### Ausstattung
+
+Tische und Stühle
+
+## [Spieleabend] Brettspiele ([JUG Ingolstadt](https://jug-in.bayern): [**Ben Wolf**](https://github.com/programming-wolf) )
+
+### Beschreibung
+
+Ich möchte euch dazu einladen, Dienstag und Mittwoch Abend gemeinsam mit Brettspielen zu verbringen. Bringt einfach eine Reihe von Spielen mit, und wir können aus einer Vielzahl an Spielen wählen. 
+Ich selbst werde das Arkham Horror Living Card Game mitbringen, dann können bis zu 4 Spieler die Einstiegskampagne spielen. 
+
+Wir sollten uns dazu entweder über den [JVM Deutschland Slack](jvm-german.slack.com), [Javaland 2026 Aktivitäten-Discord (habe ich aufgemacht)](https://discord.gg/EJvaPnMx3V) oder per [Mail](mailto:benjamin.wolf@innoq.com) verbinden, um das zu koordinieren. 
+
+### Teilnahmevoraussetzungen
+
+Lust auf Brettspiele, eigene Brettspiele mitbringen.
+
+### Dauer
+
+19:00 - Open End
+
+### Ausstattung
+
+Tische und Stühle
 
 ## 🤖 Agentic Coding mit Java - Professionelle Softwareentwicklung mit KI-Assistenz
 
