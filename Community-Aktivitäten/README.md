@@ -44,13 +44,44 @@ An dieser Stelle veröffentlichen wir den jeweils aktuellen Planungsstand, auf w
 
 ## Am I becoming obsolete - Is AI killing my (future) job (JUG Ostfalen: Dennis Schladebeck)
 
-Beschreibung: 
+### Beschreibung
+
 Wöchentlich fliegen uns Interviews oder Konferenztalks um die Ohren, die den Abgesang auf das Berufsbild des Softwareentwicklers einläuten. Viele junge, aber auch erfahrene Entwickler machen sich Sorgen um ihre Zukunft. Schüler stellen sich die Frage, ob es sich überhaupt noch lohnt ein Studium der Informatik zu beginnen bzw. abzuschließen. Manche Firmen haben gar aufgehört Junioren einzustellen.
 
 Gerne möchten wir mit euch das Thema in einer entspannten Diskussionsrunde besprechen. Bringt eure Ängste, Erfahrungen und Meinungen gerne mit zur Javaland. Wir nehmen uns eine Stunde Zeit um das Thema aus verschiedenen Sichten zu beleuchten.
 
-Teilnahmevoraussetzungen: keine, idealerweise eigene Perspektive oder Meinung mitbringen
+### Teilnahmevoraussetzungen
 
-Dauer: 1h 
+keine, idealerweise eigene Perspektive oder Meinung mitbringen
 
-Ausstattung: Raum und Stühle für ca. 20 Teilnehmer
+### Dauer
+
+1h 
+
+### Ausstattung
+
+Raum und Stühle für ca. 20 Teilnehmer
+
+## JavaLand Sternfahrt ([JUG Schweiz](https://www.jug.ch/): [*Marcus Fihlon*](https://github.com/McPringle))
+
+### Beschreibung
+
+Wir kommen aus allen Ecken von Deutschland, Österreich und der Schweiz zur JavaLand, um ein paar schöne und nerdige Tage miteinander zu verbringen. Einige von uns werden die Anreise mit dem Fahrrad wagen. Vielleicht gehörst du auch dazu? Genau darum geht es bei dieser Community-Aktivität: Mit dem Fahrrad zum JavaLand anreisen. Über einen [Matrix-Chat](https://matrix.to/#/#javaland-sternfahrt:ijug.eu) können wir uns dabei koordinieren, um uns unterwegs zu treffen und Teilstrecken gemeinsam zu fahren.
+
+Vielleicht magst du deine Strecke auch mit einem GPS-Gerät, Navi oder Smartphone aufzeichnen? Die GPX-Datei kannst du dann nach deiner Ankunft per E-Mail mich schicken und ich werde mithilfe einer in Java entwickelten Open Source Anwendung ([GPX-Animator](https://gpx-animator.app/)) eine Animation der Sternfahrt erstellen. Vielleicht schaffen wir es mit dem Video sogar auf die grosse Bühne?
+
+Falls du bei der Planung deiner Fahrt oder der Aufzeichnung als GPX-Datei Unterstützung benötigst, stehe ich dir vor der JavaLand gerne zur Verfügung. Eigentlich logisch, aber besser vorher informiert als hinterher bereut: Die Java User Group Switzerland, die JavaLand GmbH und der iJUG e.V. übernehmen keine Haftung. Du solltest also selbst versichert sein, falls unterwegs etwas passiert.
+
+Viele weitere Informationen findest du im [GitHub Repository zur JavaLand Sternfahrt 2026](https://github.com/jugch/javaland-sternfahrt-2026). Dort siehst du auch eine Liste der Teilnehmer, die schon zugesagt haben, und Informationen über ihre Routen.
+
+### Teilnahmevoraussetzungen
+
+Du solltest ein Fahrrad haben und idealerweise (nicht zwingend) ein Gerät, um deine Fahrt als GPX-Datei aufzuzeichnen.
+
+### Dauer
+
+Je nach Entfernung mehrere Stunden oder auch Tage… 😉
+
+### Ausstattung
+
+Die Teilnehmenden nutzen ihre eigenen Fahrräder. Für die Unterbringung des Fahrrades während der JavaLand werden wir entsprechende Angebote unterbreiten, genauere Informationen dazu folgen noch. Von Seiten der JavaLand wird keine Ausstattung benötigt.
