@@ -43,31 +43,176 @@ Das JavaLand ist thematisch ("Java Community") und vom Platz her (Veranstaltungs
 An dieser Stelle veröffentlichen wir den jeweils aktuellen Planungsstand, auf welche Community-Aktivitäten Ihr Euch im nächsten JavaLand freuen dürft! Bitte beachtet, dass sich dieser Stand täglich ändern kann und **keine verbindliche Zusage** über eine bestimmte Community-Aktivität darstellt. Es ist durchaus realistisch, dass hier genannte Aktivitäten kurzfristig ausfallen (z. B. durch Krankheit des Veranstalters) oder spontan welche vor Ort hinzukommen (z. B. [BOFs](https://www.ietf.org/process/bofs/))
 
 
-### [Spieleabend] Magic: The Gathering ([JUG Ingolstadt](https://jug-in.bayern): [**Ben Wolf**](https://github.com/programming-wolf) )
+## [Spieleabend] Magic: The Gathering ([JUG Ingolstadt](https://jug-in.bayern): [**Ben Wolf**](https://github.com/programming-wolf) )
 
-**Beschreibung:** Ich möchte euch dazu einladen, Dienstag und Mittwoch Abend gemeinsam mit ein paar Runden Magic: The Gathering zu verbringen.
+### Beschreibung
+
+Ich möchte euch dazu einladen, Dienstag und Mittwoch Abend gemeinsam mit ein paar Runden Magic: The Gathering zu verbringen.
 Wir können [Commander](https://magic.wizards.com/en/formats/commander) spielen, ich kann aber auch bei Interesse Material für Draft- oder Sealed-Turniere mitbringen, natürlich zum Selbstkostenpreis.
 Ich werde eine Reihe von Commander-Decks mitbringen, so dass auch Interessierte eine Runde mitspielen können, ohne selbst ein Deck haben zu müssen. 
 
 Wir sollten uns dazu entweder über den [JVM Deutschland Slack](jvm-german.slack.com), [Javaland 2026 Aktivitäten-Discord (habe ich aufgemacht)](https://discord.gg/EJvaPnMx3V) oder per [Mail](mailto:benjamin.wolf@innoq.com) verbinden, um das zu koordinieren. 
 
-**Teilnahmevoraussetzungen:** Interesse an Magic: The Gathering, eigene Commander-Decks
+### Teilnahmevoraussetzungen
 
-**Dauer:** 19:00 - Open End
+Interesse an Magic: The Gathering, eigene Commander-Decks
 
-**Ausstattung:** Tische und Stühle
+### Dauer
 
+19:00 - Open End
 
-### [Spieleabend] Brettspiele ([JUG Ingolstadt](https://jug-in.bayern): [**Ben Wolf**](https://github.com/programming-wolf) )
+### Ausstattung
 
-**Beschreibung:** Ich möchte euch dazu einladen, Dienstag und Mittwoch Abend gemeinsam mit Brettspielen zu verbringen. Bringt einfach eine Reihe von Spielen mit, und wir können aus einer Vielzahl an Spielen wählen. 
+Tische und Stühle
+
+## [Spieleabend] Brettspiele ([JUG Ingolstadt](https://jug-in.bayern): [**Ben Wolf**](https://github.com/programming-wolf) )
+
+### Beschreibung
+
+Ich möchte euch dazu einladen, Dienstag und Mittwoch Abend gemeinsam mit Brettspielen zu verbringen. Bringt einfach eine Reihe von Spielen mit, und wir können aus einer Vielzahl an Spielen wählen. 
 Ich selbst werde das Arkham Horror Living Card Game mitbringen, dann können bis zu 4 Spieler die Einstiegskampagne spielen. 
 
 Wir sollten uns dazu entweder über den [JVM Deutschland Slack](jvm-german.slack.com), [Javaland 2026 Aktivitäten-Discord (habe ich aufgemacht)](https://discord.gg/EJvaPnMx3V) oder per [Mail](mailto:benjamin.wolf@innoq.com) verbinden, um das zu koordinieren. 
 
-**Teilnahmevoraussetzungen:** Lust auf Brettspiele, eigene Brettspiele mitbringen.
+### Teilnahmevoraussetzungen
 
-**Dauer:** 19:00 - Open End
+Lust auf Brettspiele, eigene Brettspiele mitbringen.
 
-**Ausstattung:** Tische und Stühle
+### Dauer
 
+19:00 - Open End
+
+### Ausstattung
+
+Tische und Stühle
+
+## 🤖 Agentic Coding mit Java - Professionelle Softwareentwicklung mit KI-Assistenz
+
+### Organisiert von
+
+Java User Group Stuttgart (JUGS)
+
+### Beschreibung
+
+Wie gehen wir als Java-Entwickler mit der KI-Revolution um? In diesem **hands-on Workshop** arbeiten wir praktisch mit agentic coding tools und entwickeln gemeinsam konkrete Lösungsansätze für den Arbeitsalltag. Der Fokus liegt auf "Context > Code": Wie bringen wir KI-Tools dazu, wirklich nützliche Arbeit zu leisten statt nur "Vibe Code" zu produzieren?
+
+Wir arbeiten praktisch mit verschiedenen agentic tools, entwickeln Best Practices aus der Community und probieren alles an konkreten Java-Beispielen aus. Damit niemand etwas installieren muss, stelle ich browser-basierte Workspaces zur Verfügung (Open Source), aber du kannst gerne auch deine eigene Entwicklungsumgebung nutzen. Wichtig ist der Austausch: Was funktioniert in euren Projekten? Wo sind die Hürden? Wie integrieren wir KI sinnvoll in etablierte Prozesse und Qualitätsstandards?
+
+Der Workshop gibt dir praktische Werkzeuge und konkrete Strategien, um KI effektiv im Team einzusetzen - mit klarem Qualitätsanspruch und architektonischer Verantwortung. Du lernst, wie du mit dem richtigen "Human-in-the-Loop"-Ansatz deutlich produktiver wirst und gleichzeitig die Kontrolle über Code-Qualität und Architektur behältst.
+
+### Teilnahmevoraussetzungen
+
+- Notebook mit aktuellem Browser (Chrome, Firefox, Safari)
+- Grundkenntnisse in Javaentwicklung
+- Motivation zum aktiven Ausprobieren und Mitmachen
+
+### Dauer
+
+3-4 Stunden
+
+### Ausstattung
+
+- Internetzugang für alle Teilnehmer
+- Beamer/Projektor für Präsentation
+- Whiteboard/Tafel für gemeinsame Diskussionen und Brainstorming
+- Browser-basierte Workspaces werden bereitgestellt (Open Source), aber eigene Entwicklungsumgebungen sind willkommen
+
+### Kontakt
+
+fw@jugs.org
+
+## Community UnKonferenz ([JUG Darmstadt](https://www.jug-da.de/): [Gerd Aschemann](https://github.com/ascheman) / [JUG Stuttgart](https://www.jugs.org/): [Tobias Frech](https://github.com/JOpsDev))
+
+### Beschreibung
+
+### Teaser
+
+Zur Einstimmung auf die Konferenz: Bringt Eure Themen mit und wir starten am Vorabend der Konferenz mit einer [Runde lockerer
+Diskussionen](https://de.wikipedia.org/wiki/Tagung#Unkonferenz) mit Gleichgesinnten.
+
+### Dauer
+
+3,5 Stunden
+
+### Voraussetzungen
+
+Interesse am Austausch mit anderen, eigene Ideen und Gedanken gerne mitbringen und teilen. Alle sind willkommen. Der [Verhaltenskodex der JavaLand](https://www.javaland.eu/de/verhaltenscodex/) gilt natürlich auch hier.
+
+### Ablauf
+
+* 15 Min - Intro (Konzept und Regeln erklären)
+* 10 Min - Marktplatz 1 (Vorstellen, Plan)
+* 45 Min - Slot 1 alle Räume
+* 10 Min - Marktplatz 2 (Vorstellen, Plan)
+* 45 Min - Slot 2 alle Räume
+* 10 Min - Marktplatz 3 (Vorstellen, Plan)
+* 45 Min - Slot 3 alle Räume
+* 15 Min - Wrap-Up
+
+### Continuous UnConferencing
+
+Erfahrungsgemäß kommen während der Veranstaltung immer wieder Leute hinzu.
+Wir wiederholen daher jede Stunde auch den Marktplatz für den nächsten Slot.
+
+### Wunsch-Slot
+
+Montag vor der Konferenz, 15:00 - 18:30 Uhr (wie in Vorjahren)
+
+### Ausstattung
+* Möglichst viele Räume (möglichst drei, gerne vier, mindestens zwei).
+* Pro Raum:
+    * ein Flipchart oder eine Pin-Wand mit Flip-Chart-Papier,
+    * Alternativ: White-Board,
+    * große Post-Its,
+    * Stifte (dünne für Post-Its, dicke für Flipchart/White-Boards).
+* Einzelne Räume mit Beamer / großem Monitor (brauchen wir nicht für alle Räume).
+
+### Lessons Learned (vom letzten Jahr)
+
+* Beschilderung gut und groß, damit man das Event auch findet, insbesondere Nutzung von Aufzügen und Treppenhäusern
+* Ankündigung/Wegbeschreibung im Info-Mailing für Teilnehmende 4 Wochen vor Konferenz (evtl. machen wir eine Vorlage für das Office)
+* Aufnahme in der [Agenda](https://meine.doag.org/events/javaland/2026/agenda/#eventDay.all) 
+* Material (Post-Its etc. vorher prüfen)
+## Am I becoming obsolete - Is AI killing my (future) job (JUG Ostfalen: Dennis Schladebeck)
+
+### Beschreibung
+
+Wöchentlich fliegen uns Interviews oder Konferenztalks um die Ohren, die den Abgesang auf das Berufsbild des Softwareentwicklers einläuten. Viele junge, aber auch erfahrene Entwickler machen sich Sorgen um ihre Zukunft. Schüler stellen sich die Frage, ob es sich überhaupt noch lohnt ein Studium der Informatik zu beginnen bzw. abzuschließen. Manche Firmen haben gar aufgehört Junioren einzustellen.
+
+Gerne möchten wir mit euch das Thema in einer entspannten Diskussionsrunde besprechen. Bringt eure Ängste, Erfahrungen und Meinungen gerne mit zur Javaland. Wir nehmen uns eine Stunde Zeit um das Thema aus verschiedenen Sichten zu beleuchten.
+
+### Teilnahmevoraussetzungen
+
+keine, idealerweise eigene Perspektive oder Meinung mitbringen
+
+### Dauer
+
+1h 
+
+### Ausstattung
+
+Raum und Stühle für ca. 20 Teilnehmer
+
+## JavaLand Sternfahrt ([JUG Schweiz](https://www.jug.ch/): [*Marcus Fihlon*](https://github.com/McPringle))
+
+### Beschreibung
+
+Wir kommen aus allen Ecken von Deutschland, Österreich und der Schweiz zur JavaLand, um ein paar schöne und nerdige Tage miteinander zu verbringen. Einige von uns werden die Anreise mit dem Fahrrad wagen. Vielleicht gehörst du auch dazu? Genau darum geht es bei dieser Community-Aktivität: Mit dem Fahrrad zum JavaLand anreisen. Über einen [Matrix-Chat](https://matrix.to/#/#javaland-sternfahrt:ijug.eu) können wir uns dabei koordinieren, um uns unterwegs zu treffen und Teilstrecken gemeinsam zu fahren.
+
+Vielleicht magst du deine Strecke auch mit einem GPS-Gerät, Navi oder Smartphone aufzeichnen? Die GPX-Datei kannst du dann nach deiner Ankunft per E-Mail mich schicken und ich werde mithilfe einer in Java entwickelten Open Source Anwendung ([GPX-Animator](https://gpx-animator.app/)) eine Animation der Sternfahrt erstellen. Vielleicht schaffen wir es mit dem Video sogar auf die grosse Bühne?
+
+Falls du bei der Planung deiner Fahrt oder der Aufzeichnung als GPX-Datei Unterstützung benötigst, stehe ich dir vor der JavaLand gerne zur Verfügung. Eigentlich logisch, aber besser vorher informiert als hinterher bereut: Die Java User Group Switzerland, die JavaLand GmbH und der iJUG e.V. übernehmen keine Haftung. Du solltest also selbst versichert sein, falls unterwegs etwas passiert.
+
+Viele weitere Informationen findest du im [GitHub Repository zur JavaLand Sternfahrt 2026](https://github.com/jugch/javaland-sternfahrt-2026). Dort siehst du auch eine Liste der Teilnehmer, die schon zugesagt haben, und Informationen über ihre Routen.
+
+### Teilnahmevoraussetzungen
+
+Du solltest ein Fahrrad haben und idealerweise (nicht zwingend) ein Gerät, um deine Fahrt als GPX-Datei aufzuzeichnen.
+
+### Dauer
+
+Je nach Entfernung mehrere Stunden oder auch Tage… 😉
+
+### Ausstattung
+
+Die Teilnehmenden nutzen ihre eigenen Fahrräder. Für die Unterbringung des Fahrrades während der JavaLand werden wir entsprechende Angebote unterbreiten, genauere Informationen dazu folgen noch. Von Seiten der JavaLand wird keine Ausstattung benötigt.
