@@ -42,6 +42,42 @@ Das JavaLand ist thematisch ("Java Community") und vom Platz her (Veranstaltungs
 
 An dieser Stelle veröffentlichen wir den jeweils aktuellen Planungsstand, auf welche Community-Aktivitäten Ihr Euch im nächsten JavaLand freuen dürft! Bitte beachtet, dass sich dieser Stand täglich ändern kann und **keine verbindliche Zusage** über eine bestimmte Community-Aktivität darstellt. Es ist durchaus realistisch, dass hier genannte Aktivitäten kurzfristig ausfallen (z. B. durch Krankheit des Veranstalters) oder spontan welche vor Ort hinzukommen (z. B. [BOFs](https://www.ietf.org/process/bofs/))
 
+
+## 🤖 Agentic Coding mit Java - Professionelle Softwareentwicklung mit KI-Assistenz
+
+### Organisiert von
+
+Java User Group Stuttgart (JUGS)
+
+### Beschreibung
+
+Wie gehen wir als Java-Entwickler mit der KI-Revolution um? In diesem **hands-on Workshop** arbeiten wir praktisch mit agentic coding tools und entwickeln gemeinsam konkrete Lösungsansätze für den Arbeitsalltag. Der Fokus liegt auf "Context > Code": Wie bringen wir KI-Tools dazu, wirklich nützliche Arbeit zu leisten statt nur "Vibe Code" zu produzieren?
+
+Wir arbeiten praktisch mit verschiedenen agentic tools, entwickeln Best Practices aus der Community und probieren alles an konkreten Java-Beispielen aus. Damit niemand etwas installieren muss, stelle ich browser-basierte Workspaces zur Verfügung (Open Source), aber du kannst gerne auch deine eigene Entwicklungsumgebung nutzen. Wichtig ist der Austausch: Was funktioniert in euren Projekten? Wo sind die Hürden? Wie integrieren wir KI sinnvoll in etablierte Prozesse und Qualitätsstandards?
+
+Der Workshop gibt dir praktische Werkzeuge und konkrete Strategien, um KI effektiv im Team einzusetzen - mit klarem Qualitätsanspruch und architektonischer Verantwortung. Du lernst, wie du mit dem richtigen "Human-in-the-Loop"-Ansatz deutlich produktiver wirst und gleichzeitig die Kontrolle über Code-Qualität und Architektur behältst.
+
+### Teilnahmevoraussetzungen
+
+- Notebook mit aktuellem Browser (Chrome, Firefox, Safari)
+- Grundkenntnisse in Javaentwicklung
+- Motivation zum aktiven Ausprobieren und Mitmachen
+
+### Dauer
+
+3-4 Stunden
+
+### Ausstattung
+
+- Internetzugang für alle Teilnehmer
+- Beamer/Projektor für Präsentation
+- Whiteboard/Tafel für gemeinsame Diskussionen und Brainstorming
+- Browser-basierte Workspaces werden bereitgestellt (Open Source), aber eigene Entwicklungsumgebungen sind willkommen
+
+### Kontakt
+
+fw@jugs.org
+
 ## Community UnKonferenz ([JUG Darmstadt](https://www.jug-da.de/): [Gerd Aschemann](https://github.com/ascheman) / [JUG Stuttgart](https://www.jugs.org/): [Tobias Frech](https://github.com/JOpsDev))
 
 ### Beschreibung
