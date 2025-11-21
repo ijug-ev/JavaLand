@@ -42,6 +42,45 @@ Das JavaLand ist thematisch ("Java Community") und vom Platz her (Veranstaltungs
 
 An dieser Stelle veröffentlichen wir den jeweils aktuellen Planungsstand, auf welche Community-Aktivitäten Ihr Euch im nächsten JavaLand freuen dürft! Bitte beachtet, dass sich dieser Stand täglich ändern kann und **keine verbindliche Zusage** über eine bestimmte Community-Aktivität darstellt. Es ist durchaus realistisch, dass hier genannte Aktivitäten kurzfristig ausfallen (z. B. durch Krankheit des Veranstalters) oder spontan welche vor Ort hinzukommen (z. B. [BOFs](https://www.ietf.org/process/bofs/))
 
+## JavaLand4Kidults Charity Aktion 2026
+
+Bau deinen eigenen Duke ([JUG Hamburg](https://www.meetup.com/de-DE/jug-hamburg/): [Fin Labusch](https://github.com/futzlig)
+Auf der JavaLand 2025 ist die Aktion sehr gut angekommen und wurde auch auf dem JavaForumNord nachgefragt. So sind ingsgesamt ca. 500 € an Spenden zusammen gekommen. Daher wäre es mir eine Freude, diese Aktion zu wiederholen! 
+
+Nimm eine schöne Erinnerung von der JavaLand mit nach Hause und tue dabei etwas Gutes. Für eine kleine Spende von 15 € (freiwillig auch mehr) kannst du dir deinen eigenen Duke aus Klemmbausteinen bauen und mit nach Hause nehmen! Der Duke wird mit einem exklusiv bedruckten "JavaLand 2026" 1x4 Stein kommen. Brick-Duke besteht aus ca. 80 Teilen und ist etwa 17 cm hoch.
+
+Komm' einfach am Dienstag in der Mittagspause in die Community Area und bau' dort dein Maskottchen. Deine Spende geht an die Kinderkrebshilfe und an das Trauerland-Zentrum. 
+
+Bitte markiere diese Veranstaltung bis zum 1.2.2025 bei Interesse als Favorit, damit ich die benötigten Materialen entsprechend einplanen kann.
+
+### Teilnahmevoraussetzungen
+
+Spende von mindestens 15 € 
+Dauer: 120 min (12-14 Uhr am Dienstag (am Mittwoch habe ich selbst einen Vortrag um 14 Uhr!)) 
+Ausstattung: Tische, Stühle
+Anmerkungen: Die Materialkosten pro Duke belaufen sich auf ca. 5,50 € + 2,50 € für den bedruckten Stein, vorausgesetzt ich bekomme alle dafür notwendigen Teile in entsprechender Anzahl auf bricklink.com (neue Originalsteine von Lego sind deutlich teurer). Diese Kosten würden vom Spendenbeitrag abgezogen oder es findet sich ein Sponsor (2025 habe ich die gesamten Einnahmen vollständig gespendet).
+Ggf. sortiere ich schon fertig Bausets vor, die dann am Info-Point erworben werden können (wenn gewünscht/einverstanden). Ein zusätzlicher Termin wäre ggf. am Montag nach das JavaLand4Kids möglich.
+
+## Zauberschule Informatik
+Die Show ([JUG Hamburg](https://www.meetup.com/de-DE/jug-hamburg/): [Fin Labusch](https://github.com/futzlig)
+Hast du dich schon einmal gefragt, wie Computer funktionieren und ihre Magie entfalten, wenn auf dem Bildschirm die Helden deines Lieblingsspiels in Aktion treten? In der ca. 60 minüten Mitmach-Show "Zauberschule Informatik" werden wir spielerisch herausfinden, welche Geheimsprache Computer sprechen und wie sie mit dieser Sprache Texte, Bilder und Töne über das Internet übertragen und auf Deinem Bildschirm anzeigen. Du lernst Gedanken zu lesen und mit dem Kartentrick wirst Du sogar Deine Eltern beeindrucken können. Und das Beste: Am Ende gibt es Kuchen für alle. Versprochen. Zauberer-Ehrenwort.
+
+### Teilnahmevoraussetzungen
+
+Du bist noch nicht Erwachsen (Mama und Papa dürfen natürlich zuschauen, aber nicht mitmachen). 
+Die Show richtet sich an Kinder (ca. 8 bis 14 Jahre) der Konferenzteilenehmer:innen und Mitarbeiter:innen des Parks.
+
+### Dauer
+
+ca. 45 bis 60 Minuten (Spätnachmittags/Abends am Montag oder Dienstag)
+
+### Ausstattung
+
+Eine "Bühne" und davor Platz für eine 5x5 Meter große Plane, 2 Magenttafeln (Flipchart), ggf. Mikrofon; alle weiteren Materialen für die Show werden von mir mitgebracht.
+
+### Anmerkungen
+
+Ich habe hier bei Kirsten Böttcher schon einmal angefragt - Ergebnis noch völlig offen
 
 ## [Spieleabend] Magic: The Gathering ([JUG Ingolstadt](https://jug-in.bayern): [**Ben Wolf**](https://github.com/programming-wolf) )
 
