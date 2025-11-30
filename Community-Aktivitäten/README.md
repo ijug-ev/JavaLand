@@ -247,6 +247,37 @@ Je nach Entfernung mehrere Stunden oder auch Tage… 😉
 
 Die Teilnehmenden nutzen ihre eigenen Fahrräder. Für die Unterbringung des Fahrrades während der JavaLand werden wir entsprechende Angebote unterbreiten, genauere Informationen dazu folgen noch. Von Seiten der JavaLand wird keine Ausstattung benötigt.
 
+## Workshop: Java macht Musik! ([Mannheimer Java User Group](https://www.majug.de/): [Wolfgang Schell](https://github.com/jetztgradnet))
+
+#### Beschreibung:
+
+Java wird meistens für "ernsthafte" Software verwendet, aber die Sprache kann noch so viel mehr! Seit Java 1.3 kann Java via MIDI Töne erzeugen, MIDI-Dateien lesen und schreiben und mit entsprechenden Geräten interagieren. 
+
+Das [Musical Instrument Digital Interface (MIDI)](https://de.wikipedia.org/wiki/MIDI) wurde 1982 ins Leben gerufen, um über eine standardisierte Schnittstelle Noteninformationen (kein Audio bzw. Samples!) auszutauschen und z.B. Synthesizer anzusteuern. Seitdem sprechen fast alle Geräte in der Welt der elektronischen Musik MIDI und erlauben die nahtlose Integration zwischen Instrumenten, Computern, mobilen Geräten und noch vielem mehr. Auch Hardware-Controller können auf diesem Weg angesprochen werden, die beispielweise Parameter wie Lautstärke, Filterfrequenzen oder ähnliches verändern oder Aktionen auslösen können.
+
+In diesem Workshop werden wir gemeinsam einige einfache Beispiele ausprobieren und dem Computer mittels Java-Programmen Klänge entlocken. Neben dem eigenen Computer werden wir testweise auch ein paar (kleine) Synthesizer ansprechen und vielleicht sogar gemeinsam ein Stück mit generativer Musik erzeugen.
+
+#### Teilnahmevoraussetzungen:
+
+* ein eigenes Notebook mit einer (annähernd) beliebigen Java-Version
+* ggf. ein Mobilgerät (Handy oder Tablet) mit Apps zum Erzeugen von Klängen anhand von MIDI-Informationen (Kommunikation via Bluetooth / BLE-MIDI)
+* eine vertraute Entwicklungsumgebung wie Eclipse, IntelliJ, VS Code oder auch einfach ein Texteditor
+* funktionierende Tonausgabe (z.B. via Notebook-Lautsprecher)
+* ein paar (einfache, idealerweise kabelgebundene) Kopfhörer zum Ausprobieren ohne andere Teilnehmer zu stören
+
+#### Dauer:
+
+1-2 Stunden
+
+#### Ausstattung:
+
+* Raum und Stühle für ca. 20 Teilnehmer
+* Internetzugang für alle Teilnehmer
+* Beamer/Projektor für Präsentation
+
+---
+
+
 ---
 
 ## TEMPLATE für neue Einreichungen
