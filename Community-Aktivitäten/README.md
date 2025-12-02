@@ -249,6 +249,30 @@ Die Teilnehmenden nutzen ihre eigenen Fahrräder. Für die Unterbringung des Fah
 
 ---
 
+## Coding Dojo: Agentic AI - Test Driven Design vs. Property Based Testing ([JUG Mannheim](https://www.majug.de/): [_Gregor Trefs_](https://github.com/gtrefs), [JUG Darmstadt](https://www.jug-da.de/): [_Sebastian Rose_](https://github.com/srose), [Softwerkskammer Nürnberg](https://www.meetup.com/de-DE/softwerkskammer-nuernberg): [_Marco Emrich_](https://github.com/marcoemrich) und [LE Software Craft Community](https://www.meetup.com/le-software-craft-community/): [_Ferdinand Ade_](https://www.xing.com/profile/Ferdinand_Ade)
+
+#### Beschreibung
+
+In diesem zweistündigen Coding Dojo im Code-Retreat-Style bearbeiten die Teilnehmenden eine gemeinsame Aufgabenstellung in zwei Sessions: zunächst mit Test Driven Development und anschließend mit Property Based Testing.
+
+Beide Perspektiven dienen dazu, ein Gefühl dafür zu entwickeln, wie ein Agentic AI Tool beim Finden von Tests und Eigenschaften unterstützen kann und wie sich die Zusammenarbeit zwischen Mensch und Modell gestaltet.
+
+Im Mittelpunkt steht die Selbsterfahrung im Umgang mit LLMs: Wie verändert sich das eigene Denken über Spezifikation, Testdesign und Umsetzung, wenn ein Agent in den Prozess eingebunden wird? Welche Art von Unterstützung entsteht tatsächlich, wo bleiben klare Grenzen spürbar, und wie lässt sich der verfügbare Kontext so einsetzen, dass das Modell nachvollziehbar und möglichst stabil arbeitet?
+
+#### Dauer
+2 Stunden
+
+#### Teilnahmevoraussetzungen
+
+Motivation zum aktiven Ausprobieren und Mitmachen
+
+#### Ausstattung
+
+- Internetzugang für Teilnehmer
+- Beamer/Projektor/Fernseher
+
+---
+
 ## TEMPLATE für neue Einreichungen
 
 #### Beschreibung:
