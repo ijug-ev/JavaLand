@@ -247,6 +247,35 @@ Je nach Entfernung mehrere Stunden oder auch Tage… 😉
 
 Die Teilnehmenden nutzen ihre eigenen Fahrräder. Für die Unterbringung des Fahrrades während der JavaLand werden wir entsprechende Angebote unterbreiten, genauere Informationen dazu folgen noch. Von Seiten der JavaLand wird keine Ausstattung benötigt.
 
+## Mein erster Open Source Commit ([JUG Ostfalen](https://www.jug-ostfalen.de): [**Marius Hanl**](https://github.com/Maran23))
+
+#### Beschreibung
+
+Wir alle benutzen es täglich: Open Source Software. Die wenigstens von uns haben aber tatsächlich auch mal etwas beigesteuert. Ich will diesen Slot nutzen, um gemeinsam Open Source Contributions zu machen. 
+
+Dabei werde ich als Mentor unterstützen. Bringt also gerne ein Projekt oder konkretes Problem mit, bei dem ihr unterstützen möchtet. Jetzt habt ihr die Chance!
+
+Falls ihr kein konkretes Projekt habt, oder mehr zu Open Source lernen wollt: Ich bringe auch selber konkrete Probleme/Bugs bei JavaFX mit, die wir gemeinsam lösen können. Dabei zeige ich meine Vorgehensweise, vom Forken des Projekt, Lösen des Problems, Schreiben eines Tests, Commit und wie es auf Github oder auch in Mailinglisten weitergeht.
+
+Background: Ich contribute seit Jahren freiwillig bei JavaFX, mittlerweile bin ich [Committer](https://openjdk.org/census#mhanl) mit 70 Contributions: [Commits](https://github.com/openjdk/jfx/pulls?q=is%3Apr+author%3AMaran23+is%3Aclosed+label%3Aintegrated)
+
+#### Teilnahmevoraussetzungen
+
+- Notebook, wenn man selber etwas contributen möchte
+- Grundkenntnisse mit Java und Git
+- Motivation, gerne aber auch ein Projekt oder konkretes Problem, dass man lösen möchte
+
+#### Dauer
+
+2,5 Stunden
+
+#### Ausstattung
+
+- Ein Raum mit Beamer/Projektor zum Präsentieren
+- Tische und ca. 25 Stühle
+- Internetzugang/Stromzugang für alle Teilnehmer
+- Whiteboard/Tafel
+
 ---
 
 ## TEMPLATE für neue Einreichungen
