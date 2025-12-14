@@ -251,7 +251,7 @@ Die Teilnehmenden nutzen ihre eigenen Fahrräder. Für die Unterbringung des Fah
 
 #### Beschreibung:
 
-Java wird meistens für "ernsthafte" Software verwendet, aber die Sprache kann noch so viel mehr! Seit Java 1.3 kann Java via MIDI Töne erzeugen, MIDI-Dateien lesen und schreiben und mit entsprechenden Geräten interagieren. 
+Java wird meistens für "ernsthafte" Software verwendet, aber die Sprache kann noch so viel mehr! Seit Java 1.3 kann Java via MIDI Töne erzeugen, MIDI-Dateien lesen und schreiben und mit entsprechenden Geräten interagieren.
 
 Das [Musical Instrument Digital Interface (MIDI)](https://de.wikipedia.org/wiki/MIDI) wurde 1982 ins Leben gerufen, um über eine standardisierte Schnittstelle Noteninformationen (kein Audio bzw. Samples!) auszutauschen und z.B. Synthesizer anzusteuern. Seitdem sprechen fast alle Geräte in der Welt der elektronischen Musik MIDI und erlauben die nahtlose Integration zwischen Instrumenten, Computern, mobilen Geräten und noch vielem mehr. Auch Hardware-Controller können auf diesem Weg angesprochen werden, die beispielweise Parameter wie Lautstärke, Filterfrequenzen oder ähnliches verändern oder Aktionen auslösen können.
 
@@ -259,11 +259,11 @@ In diesem Workshop werden wir gemeinsam einige einfache Beispiele ausprobieren u
 
 #### Teilnahmevoraussetzungen:
 
-* ein eigenes Notebook mit einer (annähernd) beliebigen Java-Version
-* ggf. ein Mobilgerät (Handy oder Tablet) mit Apps zum Erzeugen von Klängen anhand von MIDI-Informationen (Kommunikation via Bluetooth / BLE-MIDI)
-* eine vertraute Entwicklungsumgebung wie Eclipse, IntelliJ, VS Code oder auch einfach ein Texteditor
-* funktionierende Tonausgabe (z.B. via Notebook-Lautsprecher)
-* ein paar (einfache, idealerweise kabelgebundene) Kopfhörer zum Ausprobieren ohne andere Teilnehmer zu stören
+- ein eigenes Notebook mit einer (annähernd) beliebigen Java-Version
+- ggf. ein Mobilgerät (Handy oder Tablet) mit Apps zum Erzeugen von Klängen anhand von MIDI-Informationen (Kommunikation via Bluetooth / BLE-MIDI)
+- eine vertraute Entwicklungsumgebung wie Eclipse, IntelliJ, VS Code oder auch einfach ein Texteditor
+- funktionierende Tonausgabe (z.B. via Notebook-Lautsprecher)
+- ein paar (einfache, idealerweise kabelgebundene) Kopfhörer zum Ausprobieren ohne andere Teilnehmer zu stören
 
 #### Dauer:
 
@@ -271,15 +271,15 @@ In diesem Workshop werden wir gemeinsam einige einfache Beispiele ausprobieren u
 
 #### Ausstattung:
 
-* Raum und Stühle für ca. 20 Teilnehmer
-* Internetzugang für alle Teilnehmer
-* Beamer/Projektor für Präsentation
+- Raum und Stühle für ca. 20 Teilnehmer
+- Internetzugang für alle Teilnehmer
+- Beamer/Projektor für Präsentation
 
 ## Mein erster Open Source Commit ([JUG Ostfalen](https://www.jug-ostfalen.de): [**Marius Hanl**](https://github.com/Maran23))
 
 #### Beschreibung
 
-Wir alle benutzen es täglich: Open Source Software. Die wenigstens von uns haben aber tatsächlich auch mal etwas beigesteuert. Ich will diesen Slot nutzen, um gemeinsam Open Source Contributions zu machen. 
+Wir alle benutzen es täglich: Open Source Software. Die wenigstens von uns haben aber tatsächlich auch mal etwas beigesteuert. Ich will diesen Slot nutzen, um gemeinsam Open Source Contributions zu machen.
 
 Dabei werde ich als Mentor unterstützen. Bringt also gerne ein Projekt oder konkretes Problem mit, bei dem ihr unterstützen möchtet. Jetzt habt ihr die Chance!
 
@@ -304,7 +304,6 @@ Background: Ich contribute seit Jahren freiwillig bei JavaFX, mittlerweile bin i
 - Internetzugang/Stromzugang für alle Teilnehmer
 - Whiteboard/Tafel
 
-
 ## Coding Dojo: Agentic AI - Test Driven Design vs. Property Based Testing ([JUG Mannheim](https://www.majug.de/): [_Gregor Trefs_](https://github.com/gtrefs), [JUG Darmstadt](https://www.jug-da.de/): [_Sebastian Rose_](https://github.com/srose), [Softwerkskammer Nürnberg](https://www.meetup.com/de-DE/softwerkskammer-nuernberg): [_Marco Emrich_](https://github.com/marcoemrich) und [LE Software Craft Community](https://www.meetup.com/le-software-craft-community/): [_Ferdinand Ade_](https://www.xing.com/profile/Ferdinand_Ade)
 
 #### Beschreibung
@@ -316,6 +315,7 @@ Beide Perspektiven dienen dazu, ein Gefühl dafür zu entwickeln, wie ein Agenti
 Im Mittelpunkt steht die Selbsterfahrung im Umgang mit LLMs: Wie verändert sich das eigene Denken über Spezifikation, Testdesign und Umsetzung, wenn ein Agent in den Prozess eingebunden wird? Welche Art von Unterstützung entsteht tatsächlich, wo bleiben klare Grenzen spürbar, und wie lässt sich der verfügbare Kontext so einsetzen, dass das Modell nachvollziehbar und möglichst stabil arbeitet?
 
 #### Dauer
+
 2 Stunden
 
 #### Teilnahmevoraussetzungen
@@ -326,6 +326,72 @@ Motivation zum aktiven Ausprobieren und Mitmachen
 
 - Internetzugang für Teilnehmer
 - Beamer/Projektor/Fernseher
+
+## Architektur Kata: Mind the Schutzbedarf! ([JUG Mannheim](https://www.majug.de/): [_Sebastian Rose_](https://github.com/srose))
+
+#### Beschreibung
+
+TBD
+
+#### Dauer
+
+2 Stunden
+
+#### Teilnahmevoraussetzungen
+
+Motivation zum aktiven Ausprobieren und Mitmachen
+
+#### Ausstattung
+
+- Internetzugang für Teilnehmer
+- Beamer/Projektor/Fernseher
+
+## BPMN Driven Development - Hands-On Session ([rheinjug: Lukas Ladenberger und Andrej Lustin](https://www.rheinjug.de))
+
+#### Beschreibung
+
+In dieser interaktiven Hands-On-Session tauchen wir ein in die Welt des **BPMN Driven Development** – einem Entwicklungsansatz, bei dem Geschäftsprozesse nicht nur modelliert, sondern direkt als zentrale Steuereinheit moderner Anwendungen genutzt werden.
+
+Anhand praxisnaher Beispiele zeigen wir, wie sich mit **BPMN** und leichtgewichtigen **Open-Source-Workflow-Engines** auf Basis von Spring Boot komplette Applikationen aufbauen lassen. Dabei steht besonders die **Orchestrierung technischer Operationen** im Fokus:
+
+- Aufruf externer Schnittstellen
+- Ausführung von Datenbank-Operationen
+- Integration bestehender Services
+- Integration von KI-Agenten
+- Steuerung komplexer Abläufe durch klar definierte Prozesslogik
+
+Die Teilnehmenden modellieren, implementieren und testen eigene Prozessabläufe direkt vor Ort. Die ausführende Business- und Integrationslogik wird dabei **in Java entwickelt**, sodass BPMN-Modelle und Java-Code optimal ineinandergreifen.
+
+Ein wesentlicher Vorteil dieses Ansatzes ist, dass er robuste und fehlertolerante Anwendungen ermöglicht: **Transaktionssicherheit**, **automatische Kompensationen** sowie **klar definierte Rollback-Strategien** werden durch die Prozessengine unterstützt – und wir zeigen live, wie diese Mechanismen in der Praxis umgesetzt werden.
+
+So erleben die Teilnehmenden, wie **BPMN als „Source of Truth“** dazu beiträgt, komplexe Systeme strukturiert, transparent und zuverlässig zu gestalten – ideal für Microservice-Landschaften wie auch klassische Architekturen.
+
+Was erwartet die Teilnehmenden?
+
+- Kompakte Einführung in BPMN-basierte Orchestrierung
+- Überblick zu Workflow-Engines und deren Java-Integration
+- Gemeinsames Erstellen eines Workflows
+- Live-Implementierung und Testing der zugehörigen Logik in Java
+- Praktische Beispiele zu Transaktionssicherheit, Kompensation & Rollbacks
+- Best Practices für Prozessmodellierung
+
+Für wem ist die Session geeignet?
+
+Für Java-Entwickler:innen, Software-Architekt:innen und alle, die Prozesse nicht nur modellieren, sondern **ausführen** möchten.
+
+#### Teilnahmevoraussetzungen
+
+- Eigenes Notebook
+- Vorkenntnisse in BPMN sind hilfreich, aber nicht zwingend notwendig
+
+#### Dauer
+
+2 Stunden
+
+#### Ausstattung
+
+- Internetzugang für alle Teilnehmer
+- Beamer/Projektor für Präsentation
 
 ---
 
