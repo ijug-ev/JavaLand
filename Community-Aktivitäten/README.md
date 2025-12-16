@@ -393,6 +393,26 @@ Für Java-Entwickler:innen, Software-Architekt:innen und alle, die Prozesse nich
 - Internetzugang für alle Teilnehmer
 - Beamer/Projektor für Präsentation
 
+## Spring für komplette Anfänger (Michael Vitz und Jens Bendisposto, rheinjug)
+
+#### Beschreibung:
+
+Spring kennt doch jeder! Aber ist das wirklich so? Wenn du noch keine Ahnung hast, wie du mit Spring eine Anwendung entwickeln kannst und das gerne lernen willst, dann ist unsere Session genau das richtige für dich. Wir schauen uns gemeinsam an, wie eine erste Anwendung mit Spring entwickelt wird und was das Spring Framework so alles für dich tun kann. 
+
+#### Teilnahmevoraussetzungen:
+
+Du solltest einen Rechner mitbringen, auf dem mindestens Java 17 und eine beliebige IDE installiert sind. Du solltest schon mal ein wenig mit Java programmiert, aber noch nicht viel mit Spring zu tun gehabt haben. 
+
+#### Dauer:
+3 Stunden 
+
+#### Ausstattung:
+
+- Internetzugang/Strom für die Teilnehmenden
+- Tische, an denen die Teilnehmenden arbeiten können
+- Beamer
+
+
 ---
 
 ## TEMPLATE für neue Einreichungen
