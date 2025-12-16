@@ -304,7 +304,7 @@ Background: Ich contribute seit Jahren freiwillig bei JavaFX, mittlerweile bin i
 - Internetzugang/Stromzugang für alle Teilnehmer
 - Whiteboard/Tafel
 
-## Coding Dojo: Agentic AI - Test Driven Design vs. Property Based Testing ([JUG Mannheim](https://www.majug.de/): [_Gregor Trefs_](https://github.com/gtrefs), [JUG Darmstadt](https://www.jug-da.de/): [_Sebastian Rose_](https://github.com/srose), [Softwerkskammer Nürnberg](https://www.meetup.com/de-DE/softwerkskammer-nuernberg): [_Marco Emrich_](https://github.com/marcoemrich) und [LE Software Craft Community](https://www.meetup.com/le-software-craft-community/): [_Ferdinand Ade_](https://www.xing.com/profile/Ferdinand_Ade)
+## Coding Dojo: Agentic AI - Test Driven Design vs. Property Based Testing ([JUG Mannheim](https://www.majug.de/): [_Gregor Trefs_](https://github.com/gtrefs), [JUG Darmstadt](https://www.jug-da.de/): [_Sebastian Rose_](https://github.com/srose), [Softwerkskammer Nürnberg](https://www.meetup.com/de-DE/softwerkskammer-nuernberg): [_Marco Emrich_](https://github.com/marcoemrich) und [LE Software Craft Community](https://www.meetup.com/le-software-craft-community/): [_Ferdinand Ade_](https://www.linkedin.com/in/ferdinand-ade/)
 
 #### Beschreibung
 
