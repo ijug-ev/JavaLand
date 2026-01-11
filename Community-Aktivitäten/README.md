@@ -412,9 +412,6 @@ Du solltest einen Rechner mitbringen, auf dem mindestens Java 17 und eine belieb
 - Tische, an denen die Teilnehmenden arbeiten können
 - Beamer
 
-
----
-
 ## Wir erstellen eine Daily-StandAPP auf Basis eines lokalen LLM ([JUG Darmstadt](https://www.jug-da.de/): [Michal Harakal](https://github.com/michalharakal), [Alexander von Below](https://github.com/below), [Falk Sippach](https://github.com/sippsack))
 
 #### Beschreibung:
