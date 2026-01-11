@@ -415,6 +415,29 @@ Du solltest einen Rechner mitbringen, auf dem mindestens Java 17 und eine belieb
 
 ---
 
+## Wir erstellen eine Daily-StandAPP auf Basis eines lokalen LLM ([JUG Darmstadt](https://www.jug-da.de/): [Michal Harakal](https://github.com/michalharakal), [Alexander von Below](https://github.com/below), [Falk Sippach](https://github.com/sippsack))
+
+#### Beschreibung:
+
+In diesem Hands-on-Workshop entwickeln wir eine kleine Anwendung mit Java/Kotlin. Sie soll agile Teams bei der Optimierung ihrer Daily Standups unterstützen, indem sie die jüngsten Entwicklungsaktivitäten analysiert und zusammenfasst. Mithilfe von lokal laufenden Large Language Models (LLMs) kombiniert mit Agenten und ergänzt durch API-Aufrufe holen wir die Informationen aus dem Issue-Tracker, die Commit-Informationen und lassen daraus eine Zusammenfassung vorlesen sowie die nächste Schritte vorschlagen. Durch den Einsatz des Model Context Protocol (MCP) binden wir standardisiert lokale Datenquellen und Tools ein. So entsteht eine modulare Architektur, die Datenschutz, Flexibilität und Zukunftssicherheit vereint.
+
+Teilnehmende lernen, wie man:
+* LLMs lokal effizient betreibt,
+* Agenten-Architekturen praktisch einsetzt,
+* und MCP nutzt, um Apps offen und erweiterbar zu gestalten.
+
+Am Ende verfügt jede:r über einen Prototypen – und das Know-how, lokale KI-Agenten sicher und produktiv einzusetzen. Aktuelle Informationen zum Workshop gibs hier: https://michalharakal.github.io/Daily-StandAPP
+
+#### Teilnahmevoraussetzungen:
+
+Spezielle Vorkenntnisse in LLMs oder Data Science sind nicht erforderlich, da alle wichtigen Konzepte verständlich und ausführlich erklärt werden. Gemeinsam werden wir Schritt für Schritt die einzelnen Komponenten und Konzepte der App erarbeiten, ein passendes Modell integrieren und bei Bedarf anpassen, damit es effizient auf dem Gerät läuft. Den Code entwickeln wir dabei von Grund auf bis zur letzten Zeile gemeinsam.
+
+#### Dauer: 120 min
+
+#### Ausstattung: Tische mit Stühlen, Beamer, Strom, WLAN
+
+---
+
 ## TEMPLATE für neue Einreichungen
 
 #### Beschreibung:
